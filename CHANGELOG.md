@@ -8,6 +8,8 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-29
+
 ### Added
 
 - essay: new skill that plans long texts (essays, blog posts, opinion columns, newsletter issues) before writing them: the central idea, the arc, a one-line outline of every paragraph and the voice, set by a register, the user's own texts, reference texts or a named person to take inspiration from, shown on a sample passage. One gate on the Essay outline; a reverse outline for reworking drafts; a cold reader that also outlines the text back to catch drift, and a style check.
