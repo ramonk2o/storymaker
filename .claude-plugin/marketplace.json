@@ -1,0 +1,16 @@
+{
+  "name": "storymaker",
+  "description": "Marketplace for the Storymaker plugin.",
+  "owner": {
+    "name": "Ramon K.",
+    "email": "contato@ramonk.com"
+  },
+  "plugins": [
+    {
+      "name": "storymaker",
+      "displayName": "Storymaker",
+      "source": "./",
+      "description": "Skills for creative work: they plan the piece with you — what it says, what goes in, how it holds attention — before making it."
+    }
+  ]
+}
