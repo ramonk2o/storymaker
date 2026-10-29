@@ -7,6 +7,7 @@ The skills are written in English and talk to you in your own language.
 ## Skills
 
 - **deck** — plans a presentation with you before any slide is built: what it must change in the audience, the message, the story and how it holds attention, then the visual concept and production plan. Then it builds the deck, reviews the rendered slides, checks it with a reader who never saw the plan, and hands over speaker notes and the likely questions with their answers.
+- **essay** — plans a long text with you before writing it — essays, blog posts, opinion columns and newsletter issues: the point it makes, the arc, a one-line outline of every paragraph so you can judge the order before any prose exists, and the voice, taken from a register, your own texts, texts you admire or someone you want to take inspiration from, shown on a sample passage. Then it writes the text and checks it with a reader who never saw the plan. Bring a draft and it starts by outlining it back, so you can see where the order breaks.
 
 ## Status
 
@@ -25,7 +26,7 @@ The plugin updates when a new version is released.
 
 ### Claude apps (claude.ai, desktop, mobile)
 
-Each skill can be installed on its own: download its zip (`deck.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
+Each skill can be installed on its own: download its zip (`deck.zip`, `essay.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
 
 ## How it is built
 
