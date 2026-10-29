@@ -74,6 +74,22 @@ The goal is social posts (single posts, captions, threads and carousels) that a 
 
 A change that applies to one format belongs in a case file in `references/cases/`; a change about voice in `references/style.md`; a writing rule for every format in `references/writing.md`.
 
+### email
+
+The goal is emails and other long messages with something at stake (Slack, WhatsApp, letters) that get the reader to do, decide or accept what the user needs, while keeping what the user wants to keep with them.
+
+1. **Start from what the reader should do after reading.** The objective and what else the email must protect (the relationship, a record, a precedent) come before the text, because a hard email usually fails by being written for the writer: to vent, to justify, to be covered.
+2. **Sometimes the answer isn't an email.** A call first, a word with one person before the group, separate emails or waiting for a fact are proposed in the first round when the situation points to them.
+3. **The shape of the audience changes the plan.** One reader, a few or many decide what the email can do, who goes in copy and who the cold readers are; the direction of power decides how it asks and disagrees.
+4. **Tone is three axes, not one label.** Proximity, firmness and warmth are set separately, because the commonest failure is softening the decision to sound kind.
+5. **Persuasion the reader would accept.** The skill uses what is known about how people read, but only moves the reader would accept if they saw the strategy behind them: no false urgency, guilt, flattery as payment, deliberate ambiguity or buried asks.
+6. **Gates.** A light email's draft is its gate, because a draft is cheaper to judge than a plan. A full email has one gate, the Strategy card, which closes the objective, the readers, the move and the tone on a real subject line and opening before writing, because the move decides every line after it and a draft on the wrong move is rewritten whole. Nothing after writing depends on a new decision, so there is no second gate. Full applies to emails to many, up the hierarchy or to a client with a lot riding on them, replies to hostile messages, and news that touches someone's job, money or a relationship the user wants to keep.
+7. **Checks.** A stress test opening with a pre-mortem before the gate, and a cold reader per recipient who matters (three types for an email to many: the most affected, the most skeptical, someone who gets it forwarded) who also writes the reply they would send. Both run in the full path; in the light path the cold reader is offered in one line.
+8. **The voice is the user's own.** The email goes out under the user's name, so the voice is read from messages they sent or from the thread and adjusted on the three axes; there is no style check.
+9. **Delivered in the conversation, never sent.** The skill hands the email over ready to copy; sending is the user's act, and a follow-up is a new run with the thread as material.
+
+A change that applies to one kind of email belongs in a case file in `references/cases/`; a change about tone or voice in `references/tone.md`; a writing rule for every email in `references/writing.md`.
+
 ## Judging a proposal
 
 1. Which real case does it come from?

@@ -8,6 +8,15 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Added
+
+- email: new skill that plans emails and long messages with something at stake (bad news, a no, a hard ask, a disagreement, an apology, an explanation, an announcement to many; also long Slack or WhatsApp messages and letters) before writing them: what the reader should do after reading, the shape of the audience (one, a few, many) and the direction of power, the move, the tone on three axes (proximity, firmness, warmth) and the subject line, with each move shown on a real opening. Light emails come back as a draft in the first reply; full ones have one gate, the Strategy card, after a pre-mortem. The voice is the user's own; a cold reader per recipient who matters writes the reply they would send. Delivered in the conversation, never sent.
+- Principles of the email skill in `docs/principles.md`.
+
+### Changed
+
+- essay, post, deck: their out-of-scope lists name the email skill for emails and work messages.
+
 ## [0.1.0] - 2026-10-29
 
 ### Added
