@@ -15,3 +15,9 @@ applied to how the skills behave.
 - Principles of the essay skill in `docs/principles.md`.
 - Principles of the deck skill in `docs/principles.md`.
 - Repository skeleton: README, MIT license, changelog, plugin and marketplace manifests, skill principles and the maintenance project's instructions.
+- post: new skill that plans social posts before writing them — single posts, captions, threads and carousels, for one network or several — with the hook picked from first lines written in full, a one-line script per post or slide, a voice from a register, the user's posts or someone they admire, and a cold reader who meets the post in a feed. Short posts come back as a draft in the first reply; it can also turn a text into a post.
+
+### Changed
+
+- essay: its out-of-scope list names the post skill for social posts, threads and carousels.
+- deck: carousels for social networks are out of scope and go to the post skill.

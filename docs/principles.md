@@ -60,6 +60,20 @@ The goal is long texts (essays, blog posts, columns, newsletter issues) that a r
 
 A change that applies to one kind of text belongs in a case file in `references/cases/`; a change about voice in `references/style.md`; a writing rule for every kind of text in `references/writing.md`.
 
+### post
+
+The goal is social posts (single posts, captions, threads and carousels) that a reader scrolling past stops for, reads to the last unit and comes away with one idea they can use or repeat.
+
+1. **The first unit decides.** Most readers see only the first lines, the first post or the cover. The opening is chosen from two or three hooks written in full from different angles, never described, and every hook must be paid off by the post as planned.
+2. **The unit is the post or the slide.** A thread or carousel is planned as a script with one line per unit, each with its role and its claim, so the count and the order are judged before writing. Each unit carries one idea and reads on its own; the count is what the content earns.
+3. **Help the user find what to say.** People come with a hunch, a link or a text to turn into a post. The skill proposes candidate ideas, and for a text, a reverse outline marking what survives in the format. The position, and every result or scene attributed to the author, belong to the author.
+4. **Words, not images.** For a carousel the skill delivers each slide's words, a visual note, the caption and alt text; designing or generating the images is out of scope.
+5. **Platform rules are looked up.** Limits and how links, hashtags and the "see more" cut behave come from the network's current documentation or the user, never from memory, and the figures used go into the plan.
+6. **Gates.** A short post's draft is its gate, because a draft is cheaper to judge than a plan; the first reply is the draft. A thread or carousel has one gate, the Post script, which closes the point, the hook and what each unit does before the rest is written, because a hook that changes after writing means rewriting every unit that pays it off. Nothing after writing depends on a new decision, so there is no second gate. One idea for several networks shares one gate.
+7. **Checks.** The stakes, not the format, decide them: for a post signed publicly, a position others will push back on, or a brand's or public figure's post, a stress test opening with a pre-mortem runs before the gate, and after writing a cold reader first sees only what the feed shows, says whether they would stop, then reads the whole post and summarizes it unit by unit; a style check runs when the voice comes from texts or a person. Otherwise the checks are offered in one line.
+
+A change that applies to one format belongs in a case file in `references/cases/`; a change about voice in `references/style.md`; a writing rule for every format in `references/writing.md`.
+
 ## Judging a proposal
 
 1. Which real case does it come from?
