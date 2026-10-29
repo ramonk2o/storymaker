@@ -10,4 +10,4 @@ applied to how the skills behave.
 
 ### Added
 
-- Repository skeleton: README, MIT license, changelog, plugin and marketplace manifests, and the maintenance project's instructions.
+- Repository skeleton: README, MIT license, changelog, plugin and marketplace manifests, skill principles and the maintenance project's instructions.
