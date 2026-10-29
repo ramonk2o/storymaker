@@ -30,7 +30,22 @@ Storymaker's skills help people make pieces for an audience: presentations, essa
 
 ## Skill principles
 
-Each skill adds a section here when it is created, with the principles that apply only to it, including why its gates are where they are. There are none yet.
+Each skill adds a section here when it is created, with the principles that apply only to it, including why its gates are where they are.
+
+### deck
+
+The goal is decks that change what their audience believes or does: useful, holding attention, achieving their objective.
+
+1. **Start from the shift in the audience.** What the audience believes and does today, what it should believe or do after, and what resistance stands between (logical, emotional or practical) come before the message, because a deck is judged by that change, not by its slides. The central idea carries a point of view and what is at stake for the audience.
+2. **Help the user find what to say.** People come before they know their message. The skill never requires a clear vision to move on: it proposes candidate ideas, a likely shift and a draft of the story for the user to react to.
+3. **Titles state conclusions.** Every slide title is a full sentence with the slide's conclusion, never a label, and fits in two lines. Read in sequence, the titles tell the whole story; each slide's body proves its title, nothing more.
+4. **Attention is planned.** A hook tied to the central idea, one memorable moment at the turning point, and a close that is the concrete ask; answer first or tension is decided explicitly by the situation; every key number comes with a concrete case; what is interesting but doesn't serve the idea is cut.
+5. **A visual concept comes before visual rules.** The whole deck orbits one visual idea, judged on a prototype; palette, type and chart rules derive from it and from the brand.
+6. **Gates.** Full mode has two: the Script closes what the deck says before any visual work, because visuals built on a story that later moves are thrown away; the Production plan closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode, for internal, low-risk, short or recurring decks, joins them in a single gate, because such a deck costs little to redo; it is the skill's light path.
+7. **Checks.** A stress test opening with a pre-mortem, and a cold reader before Gate 1 (on the titles) and after the build (on the deck), who also says what they would still resist. The rendered review checks the plan, the glance test and the slides' layouts.
+8. **The deck comes with its words.** The skill delivers speaker notes and the likely questions with their answers; it doesn't coach delivery.
+
+A change that applies to one kind of deck belongs in a case file in `references/cases/`.
 
 ## Judging a proposal
 

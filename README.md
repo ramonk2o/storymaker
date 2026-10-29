@@ -6,7 +6,7 @@ The skills are written in English and talk to you in your own language.
 
 ## Skills
 
-No skill has been released yet. The first one, for presentations, is in progress.
+- **deck** — plans a presentation with you before any slide is built: what it must change in the audience, the message, the story and how it holds attention, then the visual concept and production plan. Then it builds the deck, reviews the rendered slides, checks it with a reader who never saw the plan, and hands over speaker notes and the likely questions with their answers.
 
 ## Status
 
@@ -25,7 +25,7 @@ The plugin updates when a new version is released.
 
 ### Claude apps (claude.ai, desktop, mobile)
 
-Each skill can be installed on its own: download its zip from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
+Each skill can be installed on its own: download its zip (`deck.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
 
 ## How it is built
 
