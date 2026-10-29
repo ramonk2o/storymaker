@@ -47,6 +47,19 @@ The goal is decks that change what their audience believes or does: useful, hold
 
 A change that applies to one kind of deck belongs in a case file in `references/cases/`.
 
+### essay
+
+The goal is long texts (essays, blog posts, columns, newsletter issues) that a reader who can leave at any line reads to the end and comes away thinking differently.
+
+1. **The argument is judged before the prose.** The outline has one line per paragraph, each a claim of about 12 words with its proof and a word estimate, grouped by the movements of the arc. Read in sequence, the lines tell the whole argument, so order, weight and gaps are fixed while they are cheap to fix. Writing follows the outline paragraph by paragraph.
+2. **Help the user find what to say.** People come with a subject, a hunch or notes. The skill proposes candidate central ideas and a first reading to react to, and never requires a thesis to move on. The position, and every scene or result attributed to the author's life, belong to the author.
+3. **The voice comes from wherever the user points.** A register, the user's own texts, reference texts by anyone, a brand's guide, or a named person to take inspiration from, alone or combined. Any of them becomes four to seven observable traits, shown on a sample passage. Traits are imitated, never passages: no reproduced or closely paraphrased text, no signature phrases.
+4. **Rework starts from a reverse outline.** A draft brought to be reworked is first outlined back, one line per paragraph with what it actually claims, so the user sees where the order breaks before anything is rewritten.
+5. **Gates.** One, the Essay outline, which closes what the text says, in what order and in what voice before writing, because writing is the expensive step and a draft built on an argument or a voice that later moves is rewritten whole. Nothing after writing depends on a new decision, so there is no second gate. The light path, for settled, short, low-risk or recurring texts, keeps the same gate with the whole proposal in one message.
+6. **Checks.** A stress test opening with a pre-mortem before the outline. After writing, a cold reader who tests the opening first, then reads the whole text and outlines it back, so drift from the approved outline shows paragraph by paragraph; and a style check, without any name, when the voice comes from texts or a person. Both run in the full path and are offered in the light path.
+
+A change that applies to one kind of text belongs in a case file in `references/cases/`; a change about voice in `references/style.md`; a writing rule for every kind of text in `references/writing.md`.
+
 ## Judging a proposal
 
 1. Which real case does it come from?
