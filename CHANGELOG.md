@@ -8,6 +8,8 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-11-03
+
 ### Changed
 
 - deck, essay, post, email: the cold reader and the style check run in a fresh agent that doesn't inherit the conversation, with the material in its prompt and the instruction not to open other files; the deck's cold reader gets the rendered slides without speaker notes.
