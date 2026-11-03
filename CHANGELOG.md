@@ -11,6 +11,8 @@ applied to how the skills behave.
 ### Changed
 
 - deck, essay, post, email: the cold reader and the style check run in a fresh agent that doesn't inherit the conversation, with the material in its prompt and the instruction not to open other files; the deck's cold reader gets the rendered slides without speaker notes.
+- post: being signed by the user no longer makes a post high stakes on its own; high stakes are a position others will push back on, a brand's or public figure's account, a sensitive subject, or the user's professional reputation directly at play. A high-stakes short post now gets the pre-mortem's likeliest failures below the draft, which it skipped before.
+- Principles: depth matches the stakes now notes that a skill whose path follows the format says in its own section what the stakes decide; the post's checks principle follows the new definition of high stakes.
 - deck, essay: the central-idea examples in the case files no longer use dashes or "not X, but Y" reversals, so they don't teach the habits the writing rules forbid.
 
 ### Fixed

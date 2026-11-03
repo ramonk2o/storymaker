@@ -1,6 +1,6 @@
 # Stress test
 
-Used in the Message step when the stakes are high. The goal is to press the central idea until it can stand up to the replies: better for the post to take the beating here than in public.
+Used in the Message step when the stakes are high, and for a high-stakes short post as the pre-mortem below the draft. The goal is to press the central idea until it can stand up to the replies: better for the post to take the beating here than in public.
 
 ## How to run it
 - Use the question-round format from `SKILL.md`; usually one round is enough.
