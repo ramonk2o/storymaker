@@ -35,7 +35,7 @@ The format decides the path; the stakes decide the checks.
 - **Short** — one post, a caption, or any post up to about 150 words. The draft is the fastest way to judge it, so the first reply is the short plan with the whole draft (see the gate), and approving the draft is the gate.
 - **Script** — a thread, a carousel, or a post long enough that its order matters. The Opening and the Message lead to one gate, the Post script, before writing the rest.
 
-**Stakes.** A post signed publicly by the user, a position others will push back on, or a post for a brand or a public figure is high stakes: the stress test runs before the gate and the cold reader runs after writing. Otherwise both are offered in one line. Say which applies in the first round.
+**Stakes.** Being signed by the user doesn't make a post high stakes on its own. It is high stakes when it takes a position others will push back on, comes from a brand's or a public figure's account, touches a sensitive subject (health, politics, layoffs, a client or an employer), or puts the user's professional reputation directly at play (a career announcement, criticism of a company). Then the checks run: the stress test before the gate (in the short path, its pre-mortem below the draft) and the cold reader after writing. Otherwise they are offered in one line. Say which applies in the first round.
 
 **One idea, several networks.** When the same idea goes to several networks, one plan holds one central idea and, per network, its own format, first unit, length and draft. Each network follows its own path inside the same gate.
 
@@ -82,7 +82,8 @@ Read the materials before asking about them. If you can't open a file or a link,
 
 The first reply holds, in this order:
 - The short plan (see the gate), filled from the request, with the format and network.
-- The draft, written by `references/writing.md`, the case file (`references/cases/single-post.md`, or the matching case when it is a caption for a carousel) and the voice the request and any post of the user's suggest.
+- The draft, written by `references/writing.md`, the case file (`references/cases/single-post.md`, or the matching case when it is a caption for a carousel) and the voice the request and any post of the user's suggest, set as `references/style.md` says for a short post.
+- With high stakes, below the draft: the two or three likeliest ways it goes wrong, from the pre-mortem in `references/stress-test.md`, each with how the draft answers it or the change you propose.
 - One line with another way in: the first line in a different angle (a scene, a number, the claim itself), so the user picks how the post opens on real sentences.
 - A round of at most three questions, the stakes first when it isn't obvious.
 
@@ -151,6 +152,7 @@ For the short path:
 ```
 POST — [first line]
 Network: … · Format: … · Reader: … · Objective: …
+Stakes: high | low
 Central idea: …
 Pending: [placeholders in the draft]
 ```

@@ -18,7 +18,7 @@ Decks that sell something to whoever decides: a project, a budget, a tool, a pro
 ## How to phrase the central idea
 Problem + idea + ask.
 - Weak: "We want to present a new automation tool."
-- Strong: "Automating segmentation frees up 2 days a week for the CRM team — we are asking for X for a 60-day test."
+- Strong: "Automating segmentation frees up 2 days a week for the CRM team; we are asking for X to test it for 60 days."
 
 ## Recommended arcs
 - **Problem → cost of not acting → idea → proof → ask** (default).

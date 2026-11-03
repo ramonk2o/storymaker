@@ -24,7 +24,7 @@ Early and experimental (before 1.0). Skills are being built one at a time. See [
 /plugin install storymaker@storymaker
 ```
 
-The plugin updates when a new version is released.
+Auto-update is off by default for marketplaces outside Anthropic's. To get new versions automatically, run `/plugin`, open the Marketplaces tab, select `storymaker` and choose Enable auto-update. To update by hand, choose Update marketplace there, or run `claude plugin update storymaker@storymaker` in your shell.
 
 ### Claude apps (claude.ai, desktop, mobile)
 

@@ -3,7 +3,7 @@
 Used in Phase 3: run in the full path when the voice comes from the user's texts, reference texts or a named person; offered otherwise. It compares the finished text with the approved style sheet, with a reader who has only the two and the sample.
 
 ## Running the check
-- If the session can start a separate agent, start one and give it only what this file says to give it.
+- If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
 - Otherwise, give the user the prompt below, filled in, to paste after the cold reader's prompts in the same new conversation (see `cold-reader.md`), and ask them to paste the answers back.
 - If the user prefers to skip it, record "not run" in the delivery note.
 

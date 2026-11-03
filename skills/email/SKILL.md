@@ -82,7 +82,7 @@ Read everything before asking about it. The thread is the most important materia
 
 The first reply holds, in this order:
 - The short card (see the gate), filled from the request and the thread.
-- The draft: subject line (for an email) and body, written by `references/writing.md`, the matching case in `references/cases/`, `references/tone.md` and the voice the user's own messages in the thread suggest.
+- The draft: subject line (for an email) and body, written by `references/writing.md`, the matching case in `references/cases/`, the move chosen by `references/strategy.md`, `references/tone.md` and the voice the user's own messages in the thread suggest.
 - One line with another move: the first lines opened another way (the news before the context, say, or a question instead of a claim), so the user picks on real sentences.
 - The line on what the skill adds, from Starting, and a round of at most three questions, the riskiest first.
 

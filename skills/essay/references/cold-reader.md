@@ -3,7 +3,7 @@
 Used in Phase 3 (run in the full path, offered in the light path). A cold reader checks whether the text works for someone who has only the text, which is exactly the situation of its real reader, and outlines it back so you can see where the writing drifted from the plan.
 
 ## Running the check
-- If the session can start a separate agent, start one and give it only what this file says to give it.
+- If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
 - Otherwise, give the user the prompts below, filled in, to paste into one new conversation with no access to this one, each only after the previous one has been answered, and ask them to paste the answers back. When the style check also runs, its prompt goes last in that same conversation, so the reader judges the text before learning how it was meant to sound.
 - If the user prefers to skip it, record "not run" in the delivery note.
 
