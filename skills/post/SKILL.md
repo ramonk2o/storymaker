@@ -82,7 +82,7 @@ Read the materials before asking about them. If you can't open a file or a link,
 
 The first reply holds, in this order:
 - The short plan (see the gate), filled from the request, with the format and network.
-- The draft, written by `references/writing.md`, the case file (`references/cases/single-post.md`, or the matching case when it is a caption for a carousel) and the voice the request and any post of the user's suggest.
+- The draft, written by `references/writing.md`, the case file (`references/cases/single-post.md`, or the matching case when it is a caption for a carousel) and the voice the request and any post of the user's suggest, set as `references/style.md` says for a short post.
 - One line with another way in: the first line in a different angle (a scene, a number, the claim itself), so the user picks how the post opens on real sentences.
 - A round of at most three questions, the stakes first when it isn't obvious.
 

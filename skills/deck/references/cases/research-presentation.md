@@ -19,7 +19,7 @@ Decks that present research findings: quantitative (survey, behavioral data), qu
 ## How to phrase the central idea
 Main insight + implication.
 - Weak: "The research brought several learnings about the consumer."
-- Strong: "People who pay in installments aren't short of money — they are organizing the month's budget; credit communication should talk about control, not urgency."
+- Strong: "Most people who pay in installments do it to organize the month's budget, so credit communication should talk about control and drop the urgency."
 
 ## Recommended arcs
 - **Insights first** (default): answer → insights in order of importance → implications.

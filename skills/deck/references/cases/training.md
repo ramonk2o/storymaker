@@ -19,7 +19,7 @@ Decks for teaching: onboarding, training on a tool or process, a class, a worksh
 ## How to phrase the central idea
 Capability at the end + why it matters.
 - Weak: "Training on the new CRM tool."
-- Strong: "By the end, every analyst builds a reactivation program alone in under 30 minutes — without depending on the tech team."
+- Strong: "By the end, every analyst builds a reactivation program alone, in under 30 minutes and with no help from the tech team."
 
 ## Recommended arcs
 - **Problem → concept → example → practice → recap** (default), repeated per module.

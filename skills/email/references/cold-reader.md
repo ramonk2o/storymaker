@@ -4,7 +4,7 @@ Used after writing: run in the full path, offered in one line in the light path.
 
 ## Running the check
 
-- If the session can start a separate agent, start one per reader and give each only what this file says to give it.
+- If the session can start a separate agent, start a fresh one per reader that doesn't inherit this conversation, never a copy of it, and put in each prompt only what this file says to give it, with the instruction not to open any other file.
 - Otherwise, give the user the prompt below, filled in, to paste into a new conversation with no access to this one, one conversation per reader, since a reader who has played someone else already knows too much. Ask them to paste the answers back.
 - If the user prefers to skip it, record "not run" in the delivery.
 

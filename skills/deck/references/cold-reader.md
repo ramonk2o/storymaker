@@ -3,13 +3,13 @@
 Used in step 1.3 (before Gate 1, on the slide titles) and in Phase 3 (on the finished deck). A cold reader checks whether the deck communicates what is intended, and whether it would move its audience, through someone who never saw the conversation.
 
 ## Running the check
-- If the session can start a separate agent, start one and give it only what this file says to give it.
+- If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
 - Otherwise, give the user the prompt below, filled in, to paste into a new conversation with no access to this one, and ask them to paste the answers back.
 - If the user prefers to skip it, record "not run" where the result is reported.
 
 ## What the reader receives
 - The audience profile: role, what they know about the subject, what they believe and do about it today.
-- Before Gate 1: the slide titles, in order. After the build: the finished deck.
+- Before Gate 1: the slide titles, in order. After the build: the finished deck as the audience will see it, as images or a PDF of the rendered slides, without speaker notes.
 - Never the conversation, the objective, the central idea, the intended shift or your notes. Check that the profile doesn't hint at what the deck wants.
 
 ## Prompt

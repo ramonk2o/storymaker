@@ -165,7 +165,7 @@ Ask for explicit approval.
 
 ## Express proposal
 
-After the Opening, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1; a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem.
+After the Opening, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem.
 
 ```
 PROPOSAL — [deck name]
@@ -187,4 +187,4 @@ Ask for explicit approval; pending items are resolved before building.
 1. **Build** from the approved plan as a closed specification, following `references/handoff.md`.
 2. **Review on the rendered slides** against the plan and the checks in `references/handoff.md`. Fix appearance; ask before changing content.
 3. **Cold reader on the finished deck**, in both modes, as `references/cold-reader.md` says.
-4. **Deliver** the deck, the speaker notes and the likely questions. For the first edition of a recurring deck, also the Recurring blueprint (`references/recurring.md`).
+4. **Deliver** the deck, the speaker notes and the likely questions, in both modes as `references/delivery.md` says. For the first edition of a recurring deck, also the Recurring blueprint (`references/recurring.md`).

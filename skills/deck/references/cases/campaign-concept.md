@@ -20,7 +20,7 @@ Decks that present a campaign or creative idea for approval: concept, key visual
 ## How to phrase the central idea
 Insight + idea + expected result.
 - Weak: "Presentation of the year-end campaign."
-- Strong: "At year-end, our customer doesn't want the lowest price — they want not to regret the purchase; the campaign turns that guarantee into the central message and aims to raise conversion in the active base."
+- Strong: "At year-end, what our customer fears most is regretting the purchase; the campaign makes our guarantee its central message and aims to raise conversion in the active base."
 
 ## Recommended arcs
 - **Insight → idea → how it comes to life → plan → metrics** (default).

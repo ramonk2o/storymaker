@@ -18,7 +18,7 @@ Follow-up decks: committees, weekly or monthly reports, check-ins with a client.
 ## How to phrase the central idea
 Status + what needs attention.
 - Weak: "Update on project X."
-- Strong: "The launch is still set for December, but the partner integration slipped 2 weeks — we need to decide today whether to cut the cashback module from the MVP."
+- Strong: "The launch is still set for December, but the partner integration slipped 2 weeks, and today we need to decide whether to cut the cashback module from the MVP."
 
 ## Recommended arcs
 - **Status first** (default): traffic light → what needs a decision → details.

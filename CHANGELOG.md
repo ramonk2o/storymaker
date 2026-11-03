@@ -8,6 +8,18 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Changed
+
+- deck, essay, post, email: the cold reader and the style check run in a fresh agent that doesn't inherit the conversation, with the material in its prompt and the instruction not to open other files; the deck's cold reader gets the rendered slides without speaker notes.
+- deck, essay: the central-idea examples in the case files no longer use dashes or "not X, but Y" reversals, so they don't teach the habits the writing rules forbid.
+
+### Fixed
+
+- deck: express mode names the references it builds from, and delivery points to `references/delivery.md` for speaker notes and likely questions in both modes.
+- email: the light path's draft uses the move from `references/strategy.md`, as that file says.
+- post: the short path's draft sets the voice by `references/style.md`, as that file says.
+- README: says how to turn on auto-update or update by hand, since third-party marketplaces don't update on their own.
+
 ## [0.2.0] - 2026-10-29
 
 ### Added

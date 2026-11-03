@@ -19,7 +19,7 @@ Presentations meant to move a room rather than inform a decision: a keynote, an 
 ## How to phrase the central idea
 Idea + why it matters to them + what changes.
 - Weak: "Our vision for next year."
-- Strong: "Customers stopped comparing us with competitors and started comparing us with the best app on their phone — next year every team wins or loses on how simple we are, and that starts with what each of us ships this quarter."
+- Strong: "Our customers now measure us against the simplest app on their phone; next year every team wins or loses on how simple we are, starting with what each of us ships this quarter."
 
 ## Recommended arcs
 - **What is vs. what could be** (default): tension built between the current reality and the possible future, up to the call to action.

@@ -21,7 +21,7 @@ Decks that recommend a path: an annual plan, a new channel approach, an investme
 ## How to phrase the central idea
 Recommendation + reason + ask.
 - Weak: "We need to rethink our CRM strategy."
-- Strong: "We should focus CRM on the 20% of customers who generate 70% of revenue, trading volume for relevance — we are asking for approval for a 3-month pilot."
+- Strong: "Focusing CRM on the 20% of customers who generate 70% of revenue gives up some volume for relevance; we are asking for approval for a 3-month pilot."
 
 ## Recommended arcs
 - **SCR** (default): shared situation → complication that forces a change → recommended resolution.

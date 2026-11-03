@@ -19,7 +19,7 @@ Decks that show how something performed: a campaign, a CRM program, a channel, a
 ## How to phrase the central idea
 Verdict + cause + implication.
 - Weak: "The October campaign had good results."
-- Strong: "The reactivation program brought back 8% of inactive customers, driven by the personalized-offer push — it is worth scaling to the whole base."
+- Strong: "The reactivation program brought back 8% of inactive customers, most of them through the personalized-offer push, so it is worth scaling to the whole base."
 
 ## Recommended arcs
 - **Answer first** (default): verdict → why → what to do. Best for managers and decision-makers.

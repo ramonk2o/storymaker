@@ -22,7 +22,7 @@ Notes or a draft; the sources the argument rests on; texts that hold the opposit
 ## How to phrase the central idea
 Position + main reason + what follows.
 - Weak: "Productivity culture has its problems."
-- Strong: "We measure productivity by visible effort because output is hard to see, and that rewards the busiest people over the most useful; teams should judge by what shipped, not by who stayed late."
+- Strong: "We measure productivity by visible effort because output is hard to see, and that rewards the busiest people over the most useful; teams should judge by what shipped."
 
 ## Recommended arcs
 - **Thesis first** (default), with tension kept inside each reason.
