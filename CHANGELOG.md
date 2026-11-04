@@ -8,6 +8,16 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Added
+
+- lesson: new skill that plans a lesson (a class, a training or a workshop, on any subject) before writing it: what learners should be able to do at the end and the task that proves it, the cut against the time, and a map of every module with its key idea, recall, worked example, the mistake it tackles, practice in steps and a hinge question. One gate, the Lesson map, judged on one module written in full. When the user is learning the subject to teach it, it researches the terrain before the map and the rest after the gate, in a single call to a research skill when the session has one. Writes a lesson file with a learner layer and notes for whoever teaches; a fact check against the sources and a cold learner who works through the exercises run after writing. Offers to turn the file into slides when the session can load the deck skill.
+- Principles of the lesson skill in `docs/principles.md`.
+
+### Changed
+
+- deck: a lesson or training whose content isn't settled is planned by the lesson skill first when the session has it; the training case says how to build from a lesson file without reopening its content.
+- essay: its out-of-scope list names the lesson skill for lesson or training material.
+
 ## [0.3.0] - 2026-11-03
 
 ### Changed

@@ -90,6 +90,20 @@ The goal is emails and other long messages with something at stake (Slack, Whats
 
 A change that applies to one kind of email belongs in a case file in `references/cases/`; a change about tone or voice in `references/tone.md`; a writing rule for every email in `references/writing.md`.
 
+### lesson
+
+The goal is lessons (classes, trainings, workshops, on any subject) after which learners can do something they couldn't before, shown by a task, not by having listened.
+
+1. **Start from what the learner will do and how we will know.** The objective is an observable action with its condition and standard, and the final task that proves it comes before the content, because a lesson planned from its topics covers everything and teaches little. The cut against the time follows from it.
+2. **Help the user find what to teach.** People come with a subject, not objectives. The skill proposes candidate objectives and a map to react to, and never requires them to arrive with either.
+3. **The user may not be the expert.** Whether the user knows the subject or is learning it to teach decides how much is researched and where facts come from. Learning to teach: a short terrain pass before the map, and the rest after the gate, in a single call to a research skill when the session has one. Knowing it: the user is the source and research only checks. Every fact the lesson presents as true keeps its source; illustrative data is labeled as such.
+4. **The map is built from what works in teaching.** Each module carries a key idea as a full sentence, a recall, a worked example, the mistake it takes apart, practice in steps set by the learners' level, and a hinge question whose wrong answers each reveal a mistake. The skill doesn't follow learning myths (learning styles, retention percentages) even when asked. Read in order, the key ideas tell the whole lesson and become slide titles if the lesson goes to the deck skill.
+5. **Gates.** One, the Lesson map, judged on one module written in full, which closes the objective, the cut and the modules before the deep research and the writing, because both are spent on what the map keeps and a lesson written on an objective or an order that later moves is rewritten whole. Nothing after writing depends on a new decision, so there is no second gate. The light path, for a user who knows the subject and an internal, short, low-risk or recurring lesson, keeps the same gate with the whole proposal in one message.
+6. **Checks.** A stress test opening with a pre-mortem ("a week later they can't do it; why?") before the gate. After writing, a fact check by a separate reader against the sources whenever the lesson states researched facts or ones the user wasn't sure of, in both paths; and a cold learner with the learners' starting point, and no hint of the mistakes the lesson tackles, who works through the lesson without the answers, doing its checks and final task and marking what the lesson didn't teach. The cold learner runs in the full path and is offered in the light path.
+7. **One file, two layers, ready for slides.** The lesson is one Markdown file with a fixed structure: what the learner sees, and marked notes for whoever teaches. When the session can load the deck skill, the skill offers to hand it over; the deck treats its content as settled.
+
+A change that applies to one kind of lesson belongs in a case file in `references/cases/`; a teaching rule in `references/learning.md`; a writing rule for every lesson in `references/writing.md`.
+
 ## Judging a proposal
 
 1. Which real case does it come from?
