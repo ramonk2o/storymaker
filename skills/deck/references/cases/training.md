@@ -2,6 +2,9 @@
 
 Decks for teaching: onboarding, training on a tool or process, a class, a workshop, upskilling a team or a client. The goal is not to inform, it is to make the person **able to do something afterwards**.
 
+## When the lesson skill did the content
+If the deck starts from a lesson file and its approved Lesson map, the content is settled: don't reopen the objective, the cut or the modules. Phase 1 turns the map into the Script: the opening, one section per module and the close, with the key ideas as slide titles (shortened only with the user's ok), each module's example, practice and check as its slides, and the teacher notes as speaker notes. The cold reader on the titles still runs; what it finds that would change the lesson's content is a proposal the user approves. If the content isn't settled and the session can load the lesson skill, the deck isn't offered: the lesson skill plans the content first. If the session can't, this case does the whole job.
+
 ## What the audience needs to leave knowing
 - What they will be able to do at the end, and why it matters to them.
 - The few essential concepts, with examples.
