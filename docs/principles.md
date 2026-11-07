@@ -116,3 +116,8 @@ A proposal for a new skill also answers:
 
 6. Is its plan or its check different from every existing skill's? Another kind of piece with the same plan and check is a case in an existing skill.
 7. Which requests does it take from a sibling, and is the sibling's scope changed in the same branch?
+
+<!-- sensei:limits
+skill_tokens: 5000
+description_chars: 600
+-->

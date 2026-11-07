@@ -16,3 +16,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Icon?
+
+# Claude Code
+.claude/settings.local.json
+
+# Eval results
+evals/**/results/
