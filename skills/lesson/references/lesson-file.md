@@ -7,7 +7,7 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 ```markdown
 # [Lesson title]
 
-**For:** [learners] · **Duration:** [minutes] ([practice share] practice) · **Format:** [live | online | self-study]
+**For:** [learners] · **Duration:** [minutes] ([practice share] practice, or "practice afterwards") · **Format:** [live | online | self-study]
 **Before this lesson:** [prerequisites, or "none"]
 **By the end you will be able to:** [objective(s), as actions]
 
@@ -64,7 +64,7 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 - A module keeps its key idea, explanation, **Example** and **Watch out**; it drops **Recall**, **Try it** and **Check**, and one or two modules in the whole lesson carry a **Question for the room:** [question], with its answer in the teacher block.
 - "Why this matters" opens with the hook.
 - "Final task" becomes **Try it on your own:** the case (one of their own), the steps, what a good result looks like and where to look when stuck. Its teacher block says how to introduce it and where people usually get stuck.
-- The teacher blocks carry what to say, so they become the talk's script and, in slides, the speaker notes.
+- The body is what is said: the talk's script, written to be heard. The teacher blocks keep only cues, timing and the answers to the questions for the room. In slides, the body becomes the slides and their speaker notes.
 - The Answers section keeps the questions for the room, a model result of the challenge and the answers to the questions for later.
 
 ## Into slides

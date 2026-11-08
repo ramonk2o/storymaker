@@ -29,4 +29,4 @@ These mark a lesson written on autopilot:
 - Frequent dashes.
 
 ## Length
-Write to the minutes in the map: about 130 spoken words a minute for what is said live, less for what learners read during the lesson. A module that runs long gets cut, not squeezed.
+Write to the minutes in the map: about 130 spoken words a minute for what is said live, less for what learners read during the lesson. With practice afterwards, the body is what is said, so the count applies to it. A module that runs long gets cut, not squeezed.

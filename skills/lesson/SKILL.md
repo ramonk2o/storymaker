@@ -1,6 +1,6 @@
 ---
 name: lesson
-description: "Plans a lesson with the user before writing it: what learners should be able to do at the end and how they'll show it, what to cut, and a map of every module with its example, the mistake it tackles and its practice, judged on one module written in full; researches the subject when the user isn't an expert; then writes it, checks its facts and tests it on a learner who never saw the plan. Use for a class, training or workshop on any subject, in any language (e.g., 'help me build a class on compound interest', 'monta uma aula sobre IA'). Not for slides of settled content or whole courses."
+description: "Plans a lesson with the user before writing it: what learners should be able to do at the end and how they'll show it, what to cut, and a map of every module with its example, the mistake it tackles and its practice, judged on one module written in full; researches the subject when the user isn't an expert; then writes it, checks its facts and tests it on a fresh learner. Use for a class, training, workshop or teaching talk on any subject, in any language (e.g., 'help me build a class on compound interest', 'monta uma aula sobre IA'). Not for slides of settled content or whole courses."
 ---
 
 # Lesson
@@ -133,7 +133,7 @@ LESSON MAP — [lesson name]
 Path: full | light · Kind: … · Command of the subject: knows it | learning to teach
 Learners: … · They know … · They usually get wrong …
 Before this lesson: [prerequisites, or none]
-Format: live | online | self-study · duration (practice share) · group · who teaches · practice: in the lesson | afterwards
+Format: live | online | self-study · duration (practice share, or "practice afterwards") · group · who teaches · practice: in the lesson | afterwards
 Objective: … · Evidence: [final task | take-home challenge]
 The one thing: …
 Arc: … (why, in one line)

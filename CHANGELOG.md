@@ -10,7 +10,7 @@ applied to how the skills behave.
 
 ### Added
 
-- lesson: practice can happen in the lesson or afterwards, on the learners' own. A lesson with practice afterwards (expository, close to a talk) keeps each module's key idea, worked example and mistake, opens with a hook, may ask a quick question to the room and ends with a take-home challenge, which the cold learner tries. A talk meant to teach is now in scope.
+- lesson: practice can happen in the lesson or afterwards, on the learners' own. A lesson with practice afterwards (expository, close to a talk) keeps each module's key idea, worked example and mistake, opens with a hook, may ask a quick question to the room and ends with a take-home challenge, which the cold learner tries. A talk meant to teach is now in scope, and the description names it.
 
 ### Changed
 
