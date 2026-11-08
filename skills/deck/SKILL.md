@@ -107,7 +107,7 @@ I. [Part] — its job in the arc
   1. [Assertion title] — role in the story — evidence/source — [hook | moment | objection | breather | ask]
 ```
 
-- Group the slides under the parts of the arc, each with one job (for the slides of a lesson, its modules); a deck of about 8 slides or fewer can stay a flat list. A part's slides stay together, and a part once closed isn't reopened, except on purpose, as a close that returns to the hook. Contrast, breathers and the objection beat alternate inside a part, never pulling a slide out of its own.
+- Group the slides under the parts of the arc, each with one job (for the slides of a lesson, its modules); a deck of about 8 slides or fewer can stay a flat list. A part's slides stay together, and a part once closed isn't reopened, except on purpose, as a recap or a close that returns to the hook. Contrast, breathers and the objection beat alternate inside a part, never pulling a slide out of its own.
 
 - Titles are full sentences that state the slide's conclusion ("Repurchase fell 12% among inactive customers"), never labels ("Results"), and fit in two lines (about 15 words). One slide, one idea: a title that needs an "and" is probably two slides. The body proves the title, nothing more.
 - Read the parts in sequence, then only the titles: the story must hold and move forward.
