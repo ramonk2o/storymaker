@@ -22,12 +22,12 @@ Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These
 - What is interesting but doesn't serve the objective goes to the support material.
 
 ## Time
-- Taught live (in the room or online): about 20% of the duration is buffer, left out of the minutes of the opening, the modules and the close; a module that only fits if everything goes right doesn't fit. Shares of time, such as practice, are of the minutes left, and a split the user gave is shown in minutes and confirmed in the round.
+- Taught live (in the room or online): about 20% of the duration is buffer, left out of the minutes of the opening, the modules and the close; a module that only fits if everything goes right doesn't fit. The buffer is shown on the map's Format line; self-study has none. Shares of time, such as practice, are of the minutes left, and a split the user gave is shown in minutes and confirmed in the round.
 - When practice happens in the lesson, at least a third of a live lesson's planned minutes is the learners doing something, more in a workshop.
 - Self-study: shorter modules, each with its own check, because no one is there to notice the learner got lost.
 
 ## When practice comes after the lesson
-The lesson shows and explains; learners practise alone, later. What holds: one key idea per module, the worked example, the mistake it takes apart, load and the one thing. What goes: the recall question (the map keeps what each module builds on, as a `Builds on:` line), practice in steps, hinge questions and the third of the time for practice. What it adds:
+The lesson shows and explains; learners practise alone, later. What holds: one key idea per module, the worked example, the mistake it takes apart, load and the one thing. What goes: the recall question, practice in steps, hinge questions and the third of the time for practice. In the map, a module's recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry `Question for the room: …`, with its answer. The close brings the take-home challenge before the recap and the questions for later. What it adds:
 - **A hook.** The opening ties a puzzle, a case or a contrast to the one thing, since no task will hold the room.
 - **Quick questions to the room,** one or two in the whole lesson, about 30 seconds each, asking learners to predict or apply rather than recognize. Retrieving still beats listening, even briefly.
 - **A take-home challenge** instead of the final task: a real case of their own, the steps to try it, what a good result looks like and where to look when stuck. It proves the objective, so it is written as carefully as a final task.

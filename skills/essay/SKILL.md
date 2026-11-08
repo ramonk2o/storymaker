@@ -29,7 +29,7 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Paths
 
-Recommend one in the Opening, with a one-line reason. When a text fits both, recommend the lighter and name what would make it heavier.
+Recommend one in the Opening, with a one-line reason. A Full criterion outweighs a Light one: a text that meets any Full criterion gets Full even when it is also short or low-risk; recommend the lighter only when none applies, and name what would make it heavier.
 
 - **Full** — a text published under the user's name to outside or skeptical readers, an argument with consequences, a piece over about 1,500 words, or a voice the user cares about getting right. Every phase, the gate and both checks.
 - **Light** — settled content, a short or low-risk piece, a recurring newsletter issue, or a rework that keeps the argument. After the Opening, one message brings the whole proposal (Phase 1 and Phase 2 by their rules) with the sample passage, and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. One gate; after writing, the checks are offered in one line, not run. If something changes the course (the reader is skeptical, the argument doesn't hold, the user hasn't taken a position yet), suggest switching to full.

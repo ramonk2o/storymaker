@@ -23,13 +23,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Open questions:**
   - Re-ask after the change, or settle the move before the Blocks are drafted (one more turn on every full email)?
 
-## lesson
-
-### SKILL.md is at the size limit, with the practice-afterwards variant stated three times
-- **Type:** Debt
-- **Motivation:** Consistency audit (2026-11-08). SKILL.md is about 4,998 tokens against the 5,000 limit, so the next change can't add anything without a cut. Part of it is single-variant material: the practice-afterwards map (Builds on, questions to the room, the hook, recap before the challenge) is stated in step 1.4, in `references/learning.md` and in `references/lesson-file.md`, and the 20% buffer rule in steps 1.3, 1.4 and `learning.md`; the next edit to one variant is likely to reach only one copy.
-- **Description:** Step 1.4 keeps one line pointing to `learning.md` for the practice-afterwards variant and the buffer, and the full rule lives only there, freeing room in the core.
-
 ## post
 
 ### No first reply for a long single post or a request mixing paths
@@ -54,11 +47,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
   - essay, post and lesson bring "the delivery options" with the check results but read `references/handoff.md` only at Deliver, so the options are offered without its rules;
   - lesson's and essay's Full path promise "both checks", while their steps run the fact check (lesson) or the style check (essay) only under a condition and otherwise offer it.
 - **Description:** One wording for each rule, in every skill that states it: only fixes that change a decision are approved; without a separate agent, the piece is shown first with the filled prompts; `handoff.md` is read before the message with the check results; Full says "the checks as Phase N says".
-
-### "Fits both, recommend the lighter" sends high-stakes pieces to the light path
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). lesson and essay say "When a lesson [text] fits both, recommend the lighter". Light only needs one reason such as "short", so a 50-minute class for students, a 30-minute talk for patients on medication or a short blog post published under the user's name fits both and gets the light path, where the cold reader is only offered. Against principle 4 (clients, the public or the user's name get the full flow), and it leaves lesson's own "a wrong fact would harm someone" criterion dead whenever the lesson is short.
-- **Description:** A Full criterion wins over a light one; "fits both" recommends the lighter only when no Full criterion applies, in both skills in the same branch.
 
 ### A how-to blog post or a written tutorial fits both essay and lesson
 - **Type:** Bug

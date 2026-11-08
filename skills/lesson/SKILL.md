@@ -29,7 +29,7 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Paths
 
-Recommend one in the Opening, with a one-line reason. When a lesson fits both, recommend the lighter and name what would make it heavier.
+Recommend one in the Opening, with a one-line reason. A Full criterion outweighs a Light one: a lesson that meets any Full criterion gets Full even when it is also short or internal; recommend the lighter only when none applies, and name what would make it heavier.
 
 - **Full** — the user is learning the subject to teach it; the learners are clients, students or the public; the lesson runs over about an hour; or a wrong fact would harm someone (health, money, law, safety). Every phase, the gate and both checks.
 - **Light** — the user knows the subject well, and the lesson is internal, short, low-risk or recurring. After the Opening (and a change to what the user decided, asked first), one message brings the whole proposal (steps 1.2 to 1.4 by their rules, with the cut and the time budget in a few lines, and each module's mistake taken from what the Opening heard learners get wrong or, where it left that open, a typical mistake of the subject marked `(hypothesis)`, not `[TO CONFIRM]`, for the gate to confirm) with the sample module, and one round of the three to five highest-risk questions from `references/stress-test.md`. One gate. If something changes the course (the user isn't sure of the content, the learners are outsiders, the time doesn't fit), suggest switching to full.
@@ -120,9 +120,9 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
     ~[minutes]
 ```
 
-With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
+With practice afterwards, the map follows "When practice comes after the lesson" in `references/learning.md`.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it, by what each idea needs, not how its recall or Builds on is phrased: one that needs a later module means reordering the modules or moving what it needs earlier, a proposal asked before the map when the order was the user's. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it, by what each idea needs, not how its recall or Builds on is phrased: one that needs a later module means reordering the modules or moving what it needs earlier, a proposal asked before the map when the order was the user's. Taught live, the minutes leave the buffer that the Time section of `references/learning.md` sets.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 
