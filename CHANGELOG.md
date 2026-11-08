@@ -18,7 +18,7 @@ applied to how the skills behave.
 - The principles of the lesson and deck skills state their boundary: a lesson's shift is a capability, a deck's a belief, a decision or a start.
 - deck: the storyline groups slides under the parts of the arc (for a lesson's slides, its modules) unless the deck is about 8 slides or fewer; a part's slides stay together and a closed part isn't reopened except on purpose. The cold reader also says where the deck seemed to jump ahead or go back. The training case keeps each module's slides together, in the lesson map's order.
 - lesson: with practice afterwards, the map keeps what each module builds on (a `Builds on:` line in place of the recall), and the key ideas, read in order, must each stand on the ones before.
-- deck: for a lesson's slides, each storyline line names its role (in a module: recall, key idea, example, mistake, question, practice or check), in express mode too; a question to the room is a slide of its own, marked `[question]`, inside its module, with its answer in the speaker notes; with practice in the lesson, the final task comes before the recap.
+- deck: for a lesson's slides, each storyline line names its role (in a module: recall, key idea, example, mistake, question, practice or check), in express mode too; a question to the room is a slide of its own, marked `[question]`, inside its module, with its answer in the speaker notes; with practice in the lesson, the final task comes before the recap; with practice afterwards, the recap comes before the take-home challenge, which closes the deck.
 
 ### Fixed
 
