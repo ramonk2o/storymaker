@@ -30,7 +30,6 @@ applied to how the skills behave.
 
 ### Fixed
 
-- deck, essay, lesson: a full-path criterion outweighs a light one, so a short or internal piece that goes to clients, students or the public, is published under the user's name or could harm someone with a wrong fact gets the full path, instead of the light one because it also fits there.
 - deck: the training case's typical skeleton keeps each mistake inside its module and adds the final task, instead of gathering the common mistakes on one slide after the modules, which contradicted the lesson's order. Its opening with what learners will be able to do stays, as in a lesson with practice in the session.
 - deck: for slides of a lesson, the proposal and the script no longer offer an alternative central idea or an arc choice: the central idea is the lesson's one thing and the arc is its modules, in the map's order.
 - deck: a deck handed over by the lesson skill no longer offers itself again before starting.

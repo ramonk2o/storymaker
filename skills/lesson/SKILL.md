@@ -29,7 +29,7 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Paths
 
-Recommend one in the Opening, with a one-line reason. A Full criterion outweighs a Light one: a lesson that meets any Full criterion gets Full even when it is also short or internal; recommend the lighter only when none applies, and name what would make it heavier.
+Recommend one in the Opening, with a one-line reason. When a lesson fits both, recommend the lighter and name what would make it heavier.
 
 - **Full** — the user is learning the subject to teach it; the learners are clients, students or the public; the lesson runs over about an hour; or a wrong fact would harm someone (health, money, law, safety). Every phase, the gate and both checks.
 - **Light** — the user knows the subject well, and the lesson is internal, short, low-risk or recurring. After the Opening (and a change to what the user decided, asked first), one message brings the whole proposal (steps 1.2 to 1.4 by their rules, with the cut and the time budget in a few lines, and each module's mistake taken from what the Opening heard learners get wrong or, where it left that open, a typical mistake of the subject marked `(hypothesis)`, not `[TO CONFIRM]`, for the gate to confirm) with the sample module, and one round of the three to five highest-risk questions from `references/stress-test.md`. One gate. If something changes the course (the user isn't sure of the content, the learners are outsiders, the time doesn't fit), suggest switching to full.

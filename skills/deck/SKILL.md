@@ -30,7 +30,7 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Modes
 
-Recommend one in the Opening, with a one-line reason. A full-mode criterion outweighs an express one: a deck that meets any of them gets full mode even when it is also short or internal.
+Recommend one in the Opening, with a one-line reason.
 
 - **Full** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or will be presented under the user's name to many people. Two gates.
 - **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson file, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
