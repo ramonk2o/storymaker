@@ -14,6 +14,7 @@ applied to how the skills behave.
 
 ### Changed
 
+- lesson: in the light path, each module's mistake comes from what the Opening heard learners get wrong; where it left that open, the proposal brings a typical mistake of the subject labeled as a hypothesis, not `[TO CONFIRM]`.
 - deck: a talk meant to teach goes to the lesson skill (or the training case without it); slides of an approved lesson map get express mode unless they face clients or the public; the training case covers practice afterwards.
 - The principles of the lesson and deck skills state their boundary: a lesson's shift is a capability, a deck's a belief, a decision or a start.
 - deck: the storyline groups slides under the parts of the arc (for a lesson's slides, its modules) unless the deck is about 8 slides or fewer; a part's slides stay together and a closed part isn't reopened except on purpose. The cold reader also says where the deck seemed to jump ahead or go back. The training case keeps each module's slides together, in the lesson map's order.
