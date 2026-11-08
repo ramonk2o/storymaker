@@ -7,7 +7,7 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 ```markdown
 # [Lesson title]
 
-**For:** [learners] · **Duration:** [minutes] ([practice share] practice) · **Format:** [live | online | self-study]
+**For:** [learners] · **Duration:** [minutes] ([practice share] practice, or "practice afterwards") · **Format:** [live | online | self-study]
 **Before this lesson:** [prerequisites, or "none"]
 **By the end you will be able to:** [objective(s), as actions]
 
@@ -60,5 +60,12 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 - Illustrative data is marked as such the first time it appears ("a fictional shop", "numbers for illustration").
 - A `[TO CONFIRM]` marker stays visible in the text and is listed in the delivery note.
 
+## When practice comes afterwards
+- A module keeps its key idea, explanation, **Example** and **Watch out**; it drops **Recall**, **Try it** and **Check**, and one or two modules in the whole lesson carry a **Question for the room:** [question], with its answer in the teacher block.
+- "Why this matters" opens with the hook.
+- "Final task" becomes **Try it on your own:** the case (one of their own), the steps, what a good result looks like and where to look when stuck. Its teacher block says how to introduce it and where people usually get stuck.
+- The body is what is said: the talk's script, written to be heard. The teacher blocks keep only cues, timing and the answers to the questions for the room. In slides, the body becomes the slides and their speaker notes.
+- The Answers section keeps the questions for the room, a model result of the challenge and the answers to the questions for later.
+
 ## Into slides
-When the deck skill builds slides from this file, the map approved here is its content: the key ideas are its slide titles, each module is a section with its example, practice and check, and the teacher notes become speaker notes. Say so in the handoff so the deck treats the content as settled.
+When the deck skill builds slides from this file, the map approved here is its content: the key ideas are its slide titles, each module is a section with its example, practice and check (with practice afterwards, its example, mistake and question for the room, and the challenge as the closing slide), and the teacher notes become speaker notes. Say so in the handoff so the deck treats the content as settled.

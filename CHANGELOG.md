@@ -8,6 +8,15 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Added
+
+- lesson: practice can happen in the lesson or afterwards, on the learners' own. A lesson with practice afterwards (expository, close to a talk) keeps each module's key idea, worked example and mistake, opens with a hook, may ask a quick question to the room and ends with a take-home challenge, which the cold learner tries. A talk meant to teach is now in scope, and the description names it.
+
+### Changed
+
+- deck: a talk meant to teach goes to the lesson skill (or the training case without it); slides of an approved lesson map get express mode unless they face clients or the public; the training case covers practice afterwards.
+- The principles of the lesson and deck skills state their boundary: a lesson's shift is a capability, a deck's a belief, a decision or a start.
+
 ## [0.4.1] - 2026-11-07
 
 Trims the email skill's description back under the 600-character limit, with the same triggers.

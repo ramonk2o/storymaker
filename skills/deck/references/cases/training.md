@@ -3,7 +3,7 @@
 Decks for teaching: onboarding, training on a tool or process, a class, a workshop, upskilling a team or a client. The goal is not to inform, it is to make the person **able to do something afterwards**.
 
 ## When the lesson skill did the content
-If the deck starts from a lesson file and its approved Lesson map, the content is settled: don't reopen the objective, the cut or the modules. Phase 1 turns the map into the Script: the opening, one section per module and the close, with the key ideas as slide titles (shortened only with the user's ok), each module's example, practice and check as its slides, and the teacher notes as speaker notes. The cold reader on the titles still runs; what it finds that would change the lesson's content is a proposal the user approves. If the content isn't settled and the session can load the lesson skill, the deck isn't offered: the lesson skill plans the content first. If the session can't, this case does the whole job.
+If the deck starts from a lesson file and its approved Lesson map, the content is settled: don't reopen the objective, the cut or the modules. Recommend express mode unless the slides face clients or the public, since the map already passed a gate. Skip what the map settled: the central idea is the lesson's one thing, with no alternative; no triage, arc choice or diagnosis round; the hook and the memorable moment are the lesson's opening and its one thing, never new content; the stress test asks only about the slides. The storyline (or, in full mode, the Script) turns the map into slides: the opening, one section per module and the close, with the key ideas as slide titles (shortened only with the user's ok), each module's example, practice and check as its slides, and the teacher notes as speaker notes. When practice comes afterwards, each module becomes its key idea, example and mistake, plus the quick question to the room where there is one; the lesson's body is what is said, so it becomes the slides and their speaker notes; and the take-home challenge is the closing slide, with its steps and, only if the lesson gives it, where to get help. The cold reader on the titles runs as the mode says; what it finds that would change the lesson's content is a proposal the user approves. If the content isn't settled and the session can load the lesson skill, the deck isn't offered: the lesson skill plans the content first. If the session can't, this case does the whole job.
 
 ## What the audience needs to leave knowing
 - What they will be able to do at the end, and why it matters to them.
@@ -14,7 +14,7 @@ If the deck starts from a lesson file and its approved Lesson map, the content i
 - At the end, what should the person be able to do? (An action verb: set up, analyze, write…)
 - What is the starting level? What do they already know and what do they probably get wrong?
 - Why does this matter to them, and not only to the company?
-- How much time is there, and how much of it can be practice?
+- How much time is there, and does practice happen in the session or afterwards, on their own?
 - Live, recorded or for later reference?
 - What are the most common mistakes of people learning this?
 - How will you know they learned it?
@@ -38,12 +38,14 @@ N+2. Recap on one screen
 N+3. Where to get help / reference material
 Appendix: full reference, shortcuts, FAQ.
 
+With practice afterwards (a short, talk-like session; learners try it on their own later): open with a hook tied to the one thing they should remember; per module concept → example → common mistake, with one or two quick questions to the room in the whole deck; close with a "Try it on your own" slide with the steps and where to get help.
+
 Two practices from learning research apply here more than anywhere: define the key terms before they're needed, and break the content into short modules with a visible break between them.
 
 ## Pitfalls
 - Too much content for the time available — better to teach 3 things well than 10 badly.
 - A concept without a concrete example.
-- No moment of practice or check.
+- No moment of practice or check, in the session or as a challenge to try afterwards.
 - Slides too dense for live delivery, or too empty for later reference.
 - Using jargon the audience doesn't know yet.
 

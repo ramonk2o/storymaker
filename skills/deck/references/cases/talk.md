@@ -1,6 +1,6 @@
 # Case: talk
 
-Presentations meant to move a room rather than inform a decision: a keynote, an all-hands, a kickoff, a vision or culture talk, a conference talk, a launch to a team or partners. The audience wants to **feel why this matters, believe it can change, and know their part in it**.
+Presentations meant to move a room rather than inform a decision or teach (a talk meant to teach, after which the audience can do something, is the training case or, when the session has it, the lesson skill): a keynote, an all-hands, a kickoff, a vision or culture talk, a conference talk, a launch to a team or partners. The audience wants to **feel why this matters, believe it can change, and know their part in it**.
 
 ## What the audience needs to leave knowing
 - The idea worth carrying out of the room, in one sentence they could repeat.

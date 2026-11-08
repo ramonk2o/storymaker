@@ -38,9 +38,12 @@ At the end:
 [lesson for learners]
 ```
 
+## With practice afterwards
+The learner works through the lesson as a listener or reader, then tries the challenge as they would at home. In the prompt, item 1 becomes "Answer the question for the room, if the module has one" and item 3 becomes "Do the 'Try it on your own' challenge on a plausible case of yours, following its steps and showing your work; say where you got stuck". When the challenge needs a tool the learner doesn't have, it describes each step it would take, and is judged on whether the steps are complete and correct.
+
 ## Using the answers
 - Compare each answer with the Answers section and the teacher blocks. A wrong hinge answer that matches one of its planned wrong options means the module didn't take that mistake apart; one that matches none means the question or the explanation is unclear.
 - Every "NOT TAUGHT" is a gap: a missing step, a term not defined, a prerequisite the profile doesn't have.
-- A failed final task sends you to the module it depends on; the task itself is rarely the problem.
+- A failed final task or challenge sends you to the module it depends on; the task itself is rarely the problem.
 - Compare answer 4 with the objective and answer 5 with the one thing; a difference is a problem of the lesson.
 - Show the answers next to what was expected and propose fixes. Any fix that changes an approved decision needs the user's ok and is written back into the map.
