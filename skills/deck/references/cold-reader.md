@@ -1,6 +1,6 @@
 # Cold reader
 
-Used in step 1.3 (before Gate 1, on the slide titles) and in Phase 3 (on the finished deck). A cold reader checks whether the deck communicates what is intended, and whether it would move its audience, through someone who never saw the conversation.
+Used in step 1.3 (before Gate 1, or the single gate in express, on the slide titles) and in Phase 3 (on the finished deck). A cold reader checks whether the deck communicates what is intended, and whether it would move its audience, through someone who never saw the conversation.
 
 ## Running the check
 - If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
@@ -9,7 +9,7 @@ Used in step 1.3 (before Gate 1, on the slide titles) and in Phase 3 (on the fin
 
 ## What the reader receives
 - The audience profile: role, what they know about the subject, what they believe and do about it today.
-- Before Gate 1: the slide titles, in order. After the build: the finished deck as the audience will see it, as images or a PDF of the rendered slides, without speaker notes.
+- Before Gate 1 (or the single gate): the slide titles, in order. After the build: the finished deck as the audience will see it, as images or a PDF of the rendered slides, without speaker notes.
 - Never the conversation, the objective, the central idea, the intended shift or your notes. Check that the profile doesn't hint at what the deck wants.
 
 ## Prompt
@@ -17,7 +17,7 @@ Write it in the user's language and fill in the brackets.
 
 ```
 You are [audience profile: role, what you know about the subject, what you believe and do about it today].
-Someone is about to show you a presentation. [Before Gate 1: Here are its slide titles, in order: …] [After the build: The deck is attached.]
+Someone is about to show you a presentation. [Before the gate: Here are its slide titles, in order: …] [After the build: The deck is attached.]
 
 Read it as that person would, and answer briefly:
 1. In one sentence, what does this deck want you to think or do?
@@ -32,7 +32,7 @@ Answer only from what is in front of you; don't guess what the presenter meant.
 ```
 
 ## Using the answers
-- Show the answers next to what was expected (the central idea, the shift and the resistance recorded in the Opening) and propose adjustments where they diverge.
+- Show the answers next to what was expected (the central idea, the shift and the resistance recorded in the Opening or the Proposal) and propose adjustments where they diverge.
 - Divergence in answers 1 or 6 is a storyline problem, not the reader's.
 - A jump or a return named in answer 4 is an order problem, unless the storyline plans it (a recap, a close that returns to the hook): propose moving the slide into its part, or the missing step between two parts.
 - Answer 5 measures whether the deck answers the resistance: if it names one the storyline doesn't address, propose an objection beat or an appendix slide.

@@ -9,30 +9,10 @@ Ideas, bugs and debt for this plugin, managed with sensei's kanban skill. Each e
 - **Motivation:** A cold reader planning a one-hour support training with practice in the session, without the lesson skill (2026-11-08), found that "internal, low-risk, short" fits it only half, so it picked full mode by judgment; and "about one slide per one to two minutes" gives 30 to 60 slides, though much of the hour is hands-on practice.
 - **Description:** The training case says how practice time counts in the mode choice and in the slide count.
 
-### A handoff from the lesson skill still gets the offer
-- **Type:** Bug
-- **Motivation:** A cold reader given the deck's files and a lesson the user had just accepted turning into slides (2026-11-08) offered the deck skill again before starting, because "Starting" knows only "called by name" and "started by the subject of the request"; the lesson's handoff says the deck starts without its offer, but the deck never says so.
-- **Description:** When a sibling hands a step over, the deck starts the Opening (or the express Proposal) without the offer. Reproduce: hand the deck a lesson file right after the lesson skill's offer is accepted and see whether the first reply is an offer.
-
-### No rule for a question to the room outside a module
-- **Type:** Idea
-- **Motivation:** Same cold reader (2026-11-08): the lesson's opening had a teacher note to ask the room who already saves monthly, but the training case defines `[question]` slides only inside modules; the reader kept it in the speaker notes by judgment.
-- **Description:** The training case says where a question to the room in the lesson's opening or close goes: a `[question]` slide where the lesson places it, or only the speaker notes when it is a teacher note.
-
-### Flaws other than figures in an approved lesson
-- **Type:** Idea
-- **Motivation:** Same cold reader (2026-11-08) found the take-home challenge asked for 120 and 240 monthly periods of compound interest "on the phone calculator", hardly doable; the deck can't reopen the content and only the cold reader's findings can lead to a content proposal, so nothing covers what the deck itself notices.
-- **Description:** Something in the lesson that the deck finds wrong or not doable goes to the user as a labeled proposal, as a mismatched figure already does.
-- **Open questions:**
-  - How far the deck may question an approved lesson without reopening its map.
-
-### The lesson-to-deck path is a list of exceptions
+### The description and the body name the lesson condition differently
 - **Type:** Debt
-- **Motivation:** Fixing the express-from-a-lesson entries (2026-11-08) added a rule for a mismatched figure, and the next cold reader found its general case at once (a take-home challenge that can't be done); "`[question]` slides sit inside modules" left a question in the opening with no rule. The training case's lesson paragraphs list case after case (about 1,200 words in the file), and each specific rule opens the next edge.
-- **Description:** One governing rule leads the path, e.g. "the approved map is the deck's content; the deck decides only how to show it; what it finds wrong or not doable in the content goes to the user as a proposal", with the mapping rules (key ideas as titles, one part per module, teacher notes as speaker notes) as detail under it. Behavior stays the same; the text gets shorter.
-- **Open questions:**
-  - Whether it absorbs the "Flaws other than figures" and "question outside a module" entries above.
-  - Whether it starts with a consistency audit of both sides (the deck's training case and the lesson's `handoff.md` and `lesson-file.md`).
+- **Motivation:** A consistency audit of the lesson-to-deck path (2026-11-08) found the description says "when the lesson skill exists" while the body says "when the session can load the lesson skill"; it was left out of that change because a description change needs the trigger suite.
+- **Description:** The description uses the body's wording, at the next description change that runs the trigger suite.
 
 ## lesson
 

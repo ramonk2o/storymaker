@@ -10,7 +10,7 @@ Used in Phase 2, step 5 (run in the full path, offered in the light path). A col
 ## What the learner receives
 - The learner profile from the map: who they are and what they already know. Leave out the mistakes they usually make, which are what the modules tackle, and check that nothing in it hints at the objective.
 - How the lesson reaches them: in a live class, online, or on their own.
-- The lesson file **without** the teacher blocks and without the Answers section.
+- The lesson file **without** the teacher blocks, the Answers section, or the header's objective and one-thing lines.
 - Never the conversation, the map, the objective or the answer key.
 
 ## The model's problem

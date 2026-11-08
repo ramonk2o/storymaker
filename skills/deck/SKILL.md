@@ -22,6 +22,7 @@ How the skill started decides the first reply, because someone who asked for sli
 
 - **Out of scope:** a deck whose slide-by-slide script is already written, including restyling or fixing a finished deck; the report or document the deck would present; a lesson, training or talk meant to teach whose content isn't settled yet, when the session can load the lesson skill, which plans it first (without that skill, such a deck is in scope through the training case; with a lesson file, its slides are in scope); the email that sends the deck, which the email skill plans; coaching how to deliver the talk; a carousel for a social network, which the post skill plans. Don't offer the skill; handle the request without it.
 - **Called by name:** start the Opening.
+- **Handed over by a sibling skill:** start without the offer, at the Opening or where the case says.
 - **Started by the subject of the request:** the first reply only offers the skill, in two or three sentences: what it does differently (settles what the deck must change in the audience before any slide is built) and what it costs (a few rounds, or one proposal and one approval in express mode). Ask whether to plan with it, with your recommended answer and a one-line reason drawn from the request. Don't read the materials or ask anything else yet.
 - **Accepted:** start the Opening. **Declined:** handle the request as you would without the skill, with no rounds, gates or documents, and don't offer it again in this conversation.
 
@@ -32,9 +33,9 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 Recommend one in the Opening, with a one-line reason.
 
 - **Full** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or will be presented under the user's name to many people. Two gates.
-- **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson whose map was approved, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
+- **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson file, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
 
-**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because a lesson map already approved its content.
+**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because the lesson already approved its content.
 
 ## How to run it
 
@@ -71,7 +72,7 @@ Recommend one in the Opening, with a one-line reason.
 
 The Opening gathers what the deck needs, through hypotheses the user reacts to. It doesn't settle the central idea; that opens Phase 1. It usually takes one or two rounds.
 
-**First reply** (after the offer was accepted, or right away when called by name):
+**First reply** (after the offer was accepted, or right away when called by name or handed over):
 - One sentence on how it works: first what the deck must say, then how it looks, then build and check.
 - The deck type, from `references/cases/` (read the matching file): `results-analysis.md`, `strategy-proposal.md`, `idea-pitch.md`, `research-presentation.md`, `project-status.md`, `training.md`, `campaign-concept.md`, `talk.md`. A hybrid deck (results that end in a proposal) reads both and picks the primary one.
 - **With material:** read all of it and bring a first reading: the findings that seem to matter and any risk an attentive audience would raise (a fragile figure, an unfair comparison). **Without material:** the case's typical skeleton adapted to what was said, and an invitation to dump loose ideas.
@@ -107,7 +108,7 @@ I. [Part] — its job in the arc
   1. [Assertion title] — role in the story — evidence/source — [hook | moment | objection | breather | ask]
 ```
 
-- Group the slides under the parts of the arc, each with one job (for the slides of a lesson, its modules); a deck of about 8 slides or fewer can stay a flat list. A part's slides stay together, and a part once closed isn't reopened, except on purpose, as a recap or a close that returns to the hook. Contrast, breathers and the objection beat alternate inside a part, never pulling a slide out of its own.
+- Group the slides under the parts of the arc, each with one job (for the slides of a lesson, its opening, modules and close, even when short); a deck of about 8 slides or fewer can stay a flat list. A part's slides stay together, and a part once closed isn't reopened, except on purpose, as a recap or a close that returns to the hook. Contrast, breathers and the objection beat alternate inside a part, never pulling a slide out of its own.
 
 - Titles are full sentences that state the slide's conclusion ("Repurchase fell 12% among inactive customers"), never labels ("Results"), and fit in two lines (about 15 words). One slide, one idea: a title that needs an "and" is probably two slides. The body proves the title, nothing more.
 - Read the parts in sequence, then only the titles: the story must hold and move forward.
@@ -173,7 +174,7 @@ After the Opening (or in its place, when the case says so), one message brings: 
 
 ```
 PROPOSAL — [deck name]
-Mode: express · Audience · shift · format · deck type
+Mode: express · Audience · shift · resistance · format · deck type
 Central idea: … (alternative: …)
 Arc: … · Hook · moment · close
 
