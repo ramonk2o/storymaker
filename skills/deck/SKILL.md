@@ -173,7 +173,7 @@ Ask for explicit approval.
 
 ## Express proposal
 
-After the Opening (or in its place, when the case says so) and a change to what the user decided, asked first, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md`, `references/delivery.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. With high stakes, run the cold reader on the titles as `references/cold-reader.md` says before asking for approval, and bring what it found in the same message.
+After the Opening (or in its place, when the case says so) and a change to what the user decided, asked first, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md`, `references/delivery.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. With high stakes, run the cold reader on the titles as `references/cold-reader.md` says before asking for approval, and bring what it found in the same message; without a separate agent, bring its filled prompt with the Proposal and ask for approval once the answers are back.
 
 ```
 PROPOSAL — [deck name]

@@ -45,8 +45,7 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
   - essay, post, lesson and email say in "Why the gate sits where it does" that "fixes the checks call for are approved one by one", while their own Phase 3 (or check step) and principle 10 say only fixes that change an approved decision need approval and the rest "go straight", so the model can't tell whether to ask about each fix;
   - only lesson says what happens without a separate agent ("show the lesson first … bring the fixes once the user pastes the answers back"); essay, post and email don't;
   - essay, post and lesson bring "the delivery options" with the check results but read `references/handoff.md` only at Deliver, so the options are offered without its rules;
-  - lesson's and essay's Full path promise "both checks", while their steps run the fact check (lesson) or the style check (essay) only under a condition and otherwise offer it.
-- **Description:** One wording for each rule, in every skill that states it: only fixes that change a decision are approved; without a separate agent, the piece is shown first with the filled prompts; `handoff.md` is read before the message with the check results; Full says "the checks as Phase N says".
+- **Description:** One wording for each rule, in every skill that states it: only fixes that change a decision are approved; without a separate agent, the piece is shown first with the filled prompts; `handoff.md` is read before the message with the check results.
 
 ### A how-to blog post or a written tutorial fits both essay and lesson
 - **Type:** Bug
