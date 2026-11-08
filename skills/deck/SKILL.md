@@ -1,6 +1,6 @@
 ---
 name: deck
-description: "Plans a presentation with the user before any slide is built: what it must change in the audience, the message, the story and how it holds attention; then the visual concept and production plan; then builds it and checks it with a reader who never saw the plan. Use when the user is building a deck, slides or a talk and the content isn't settled yet, in any language, from data or loose ideas (e.g., 'turn this report into slides for the director', 'monta um deck com esses resultados'). Not when the slide-by-slide script is written, nor for unsettled lesson content when the lesson skill exists."
+description: "Plans a presentation with the user before any slide is built: what it must change in the audience, the message, the story and how it holds attention; then the visual concept and production plan; then builds and checks it with a reader who never saw the plan. Use when the user is building a deck, slides or a talk and the content isn't settled, in any language, from data or notes (e.g., 'turn this report into slides for the director', 'monta um deck com esses resultados'). Not when the slide-by-slide script is written, nor for unsettled lesson content when the session can load the lesson skill."
 ---
 
 # Deck
