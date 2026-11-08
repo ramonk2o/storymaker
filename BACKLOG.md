@@ -16,7 +16,7 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 
 ## lesson
 
-### Where the light path gets the learners' mistakes
+### What happens to a `(hypothesis)` mistake at and after the gate
 - **Type:** Idea
-- **Motivation:** A cold reader (2026-11-08) on the light path saw that 1.1 asks the user for the mistakes learners make, while the light path starts at 1.2, and couldn't tell whether to propose the mistakes as hypotheses or leave them `[TO CONFIRM]`.
-- **Description:** The light path says where the mistakes each module tackles come from.
+- **Motivation:** A cold reader (2026-11-08) on the light path, with the Opening silent on what learners get wrong, marked each module's mistake `(hypothesis)` as the skill now says, but couldn't tell whether approving the map drops the mark, or what to do when the user rejects a mistake the sample module's Watch out block and hinge answers rest on.
+- **Description:** The light path says what the gate does with a hypothesis mistake: approval confirms it and drops the mark, and a rejected one changes the map, and the sample module with it, before approval. The SKILL.md is at its size limit, so this needs an equal cut.
