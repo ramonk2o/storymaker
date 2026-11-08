@@ -23,16 +23,18 @@ Read it as that person would, and answer briefly:
 1. In one sentence, what does this deck want you to think or do?
 2. What is the first question or objection you would raise?
 3. At what point would you lose interest?
-4. What would you still resist accepting, and why?
-5. At the end, what would you actually do?
-[After the build only:] 6. What would you remember tomorrow?
+4. At what point did it seem to jump ahead, or go back to something already covered?
+5. What would you still resist accepting, and why?
+6. At the end, what would you actually do?
+[After the build only:] 7. What would you remember tomorrow?
 
 Answer only from what is in front of you; don't guess what the presenter meant.
 ```
 
 ## Using the answers
 - Show the answers next to what was expected (the central idea, the shift and the resistance recorded in the Opening) and propose adjustments where they diverge.
-- Divergence in answers 1 or 5 is a storyline problem, not the reader's.
-- Answer 4 measures whether the deck answers the resistance: if it names one the storyline doesn't address, propose an objection beat or an appendix slide.
-- Answer 6 should be the memorable moment or the central idea; if it isn't, propose the adjustment.
+- Divergence in answers 1 or 6 is a storyline problem, not the reader's.
+- A jump or a return named in answer 4 is an order problem, unless the storyline plans it (a recap, a close that returns to the hook): propose moving the slide into its part, or the missing step between two parts.
+- Answer 5 measures whether the deck answers the resistance: if it names one the storyline doesn't address, propose an objection beat or an appendix slide.
+- Answer 7 should be the memorable moment or the central idea; if it isn't, propose the adjustment.
 - A new objection is resolved as in `stress-test.md`. After the build, a fix that changes content needs the user's approval and is written back into the gate documents.

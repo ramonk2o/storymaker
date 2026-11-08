@@ -103,11 +103,14 @@ Adjust until the user recognizes the idea and the story as theirs.
 - **The storyline**, which carries the arc and marks the hook, the moment, any objection beat and the close:
 
 ```
-1. [Assertion title] — role in the story — evidence/source — [hook | moment | objection | breather | ask]
+I. [Part] — its job in the arc
+  1. [Assertion title] — role in the story — evidence/source — [hook | moment | objection | breather | ask]
 ```
 
+- Group the slides under the parts of the arc, each with one job (for the slides of a lesson, its modules); a deck of about 8 slides or fewer can stay a flat list. A part's slides stay together, and a part once closed isn't reopened, except on purpose, as a recap or a close that returns to the hook. Contrast, breathers and the objection beat alternate inside a part, never pulling a slide out of its own.
+
 - Titles are full sentences that state the slide's conclusion ("Repurchase fell 12% among inactive customers"), never labels ("Results"), and fit in two lines (about 15 words). One slide, one idea: a title that needs an "and" is probably two slides. The body proves the title, nothing more.
-- Read only the titles in sequence: the story must hold.
+- Read the parts in sequence, then only the titles: the story must hold and move forward.
 - Length: live or hybrid, about one slide per one to two minutes; to read, fewer and denser slides.
 - **First stress round:** read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 
@@ -125,7 +128,8 @@ Central idea: …
 Arc: … (why, in one line)
 
 Storyline
-1. [Title] — role — evidence — [mark]
+I. [Part] — job
+  1. [Title] — role — evidence — [mark]
 …
 Appendix: … · Left out: …
 Cold reader: [what diverged and what changed, or "not run"]
@@ -174,7 +178,8 @@ Central idea: … (alternative: …)
 Arc: … · Hook · moment · close
 
 Storyline
-1. [Title] — evidence — visual — [mark]
+I. [Part] — job
+  1. [Title] — evidence — visual — [mark]
 …
 Visual concept: … · Global rules: … · Build: [option] — [why]
 Pending [TO CONFIRM]: …
