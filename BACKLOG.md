@@ -26,6 +26,14 @@ Ideas, bugs and debt for this plugin, managed with sensei's kanban skill. Each e
 - **Open questions:**
   - How far the deck may question an approved lesson without reopening its map.
 
+### The lesson-to-deck path is a list of exceptions
+- **Type:** Debt
+- **Motivation:** Fixing the express-from-a-lesson entries (2026-11-08) added a rule for a mismatched figure, and the next cold reader found its general case at once (a take-home challenge that can't be done); "`[question]` slides sit inside modules" left a question in the opening with no rule. The training case's lesson paragraphs list case after case (about 1,200 words in the file), and each specific rule opens the next edge.
+- **Description:** One governing rule leads the path, e.g. "the approved map is the deck's content; the deck decides only how to show it; what it finds wrong or not doable in the content goes to the user as a proposal", with the mapping rules (key ideas as titles, one part per module, teacher notes as speaker notes) as detail under it. Behavior stays the same; the text gets shorter.
+- **Open questions:**
+  - Whether it absorbs the "Flaws other than figures" and "question outside a module" entries above.
+  - Whether it starts with a consistency audit of both sides (the deck's training case and the lesson's `handoff.md` and `lesson-file.md`).
+
 ## lesson
 
 ### Minutes and the overrun buffer disagree
