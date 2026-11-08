@@ -5,6 +5,8 @@ Decks for teaching: onboarding, training on a tool or process, a class, a worksh
 ## When the lesson skill did the content
 If the deck starts from a lesson file and its approved Lesson map, the content is settled: don't reopen the objective, the cut or the modules. Recommend express mode unless the slides face clients or the public, since the map already passed a gate. Skip what the map settled: the central idea is the lesson's one thing, with no alternative; no triage, arc choice or diagnosis round; the hook and the memorable moment are the lesson's opening and its one thing, never new content; the stress test asks only about the slides. The storyline (or, in full mode, the Script) turns the map into slides: the opening, one part per module and the close, each a part of the storyline of its own even when the deck is short, the modules in the map's order with their slides together (contrast, breathers and the objection beat work inside a module, never moving an example, a mistake or a question into another one), with the key ideas as slide titles (shortened only with the user's ok), each module's example, practice and check as its slides, and the teacher notes as speaker notes. When practice comes afterwards, each module becomes its key idea, example and mistake, plus the quick question to the room where there is one; the lesson's body is what is said, so it becomes the slides and their speaker notes; and the take-home challenge is the closing slide, with its steps and, only if the lesson gives it, where to get help. The cold reader on the titles runs as the mode says; what it finds that would change the lesson's content is a proposal the user approves. If the content isn't settled and the session can load the lesson skill, the deck isn't offered: the lesson skill plans the content first. If the session can't, this case does the whole job.
 
+Each slide's line in the storyline names its role after the title, in both modes (in express it reads `Title — role — evidence — visual — mark`): key idea, example, mistake, question, practice, check, task or challenge, so a module missing its example or its mistake shows at a glance. A question to the room is a slide of its own, marked `[question]`, a mark this case adds: the question on the slide, its answer in the speaker notes, inside its module where the lesson places it; when the lesson doesn't say, a question asking learners to predict comes before the module's example and one asking them to apply comes after it. With practice in the lesson, the final task is the slide before the recap.
+
 ## What the audience needs to leave knowing
 - What they will be able to do at the end, and why it matters to them.
 - The few essential concepts, with examples.
@@ -25,7 +27,7 @@ Capability at the end + why it matters.
 - Strong: "By the end, every analyst builds a reactivation program alone, in under 30 minutes and with no help from the tech team."
 
 ## Recommended arcs
-- **Problem → concept → example → practice → recap** (default), repeated per module.
+- **Problem → concept → example → mistake → practice → recap** (default), repeated per module.
 - **Task journey**, following the order in which the person will do it in real life.
 - **From simple to complex**, when the concepts depend on one another.
 
@@ -34,19 +36,20 @@ Whatever the arc, a module uses only terms and ideas taught before it; a slide t
 ## Typical skeleton
 1. What you will be able to do at the end
 2. Why it matters
-3–N. Per module: concept → example → exercise or demonstration
-N+1. Common mistakes and how to avoid them
+3–N. Per module: concept → example → its common mistake → exercise or demonstration → check
+N+1. Final task: learners do it once, start to finish
 N+2. Recap on one screen
 N+3. Where to get help / reference material
 Appendix: full reference, shortcuts, FAQ.
 
-With practice afterwards (a short, talk-like session; learners try it on their own later): open with a hook tied to the one thing they should remember; per module concept → example → common mistake, with one or two quick questions to the room in the whole deck; close with a "Try it on your own" slide with the steps and where to get help.
+With practice afterwards (a short, talk-like session; learners try it on their own later): open with a hook tied to the one thing they should remember; per module concept → example → common mistake, with one or two quick questions to the room in the whole deck, each a `[question]` slide inside its module; close with a "Try it on your own" slide with the steps and where to get help.
 
 Two practices from learning research apply here more than anywhere: define the key terms before they're needed (the order rule above), and break the content into short modules with a visible break between them.
 
 ## Pitfalls
 - Too much content for the time available — better to teach 3 things well than 10 badly.
 - A concept without a concrete example.
+- Mistakes gathered on one slide at the end, away from the concept they misread.
 - No moment of practice or check, in the session or as a challenge to try afterwards.
 - Slides too dense for live delivery, or too empty for later reference.
 - Using jargon the audience doesn't know yet.
