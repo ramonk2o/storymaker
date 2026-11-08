@@ -120,7 +120,7 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
 
 With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier. The minutes add up to the duration.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier. Taught live (in the room or online), the modules' minutes add up to about 80% of the duration and the rest is buffer, shown on the map's Format line; self-study has none.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 
@@ -133,7 +133,7 @@ LESSON MAP — [lesson name]
 Path: full | light · Kind: … · Command of the subject: knows it | learning to teach
 Learners: … · They know … · They usually get wrong …
 Before this lesson: [prerequisites, or none]
-Format: live | online | self-study · duration (practice share, or "practice afterwards") · group · who teaches · practice: in the lesson | afterwards
+Format: live | online | self-study · duration (practice share, or "practice afterwards") · buffer · group · who teaches · practice: in the lesson | afterwards
 Objective: … · Evidence: [final task | take-home challenge]
 The one thing: …
 Arc: … (why, in one line)
@@ -153,7 +153,7 @@ Show the sample module below the block as the learner will read it. Ask for expl
 
 1. **Research** what the gate left to research, as `references/research.md` says, from a brief built on the map. What comes back is material with its sources; if it contradicts the map, stop and reopen the gate rather than writing around it.
 2. **Write** from the Lesson map as a closed specification, following `references/writing.md`, `references/lesson-file.md` and the case file, module by module, in order. If a module can't be written as planned (the fact isn't there, the practice doesn't fit the time), stop and go back to the map.
-3. **Revise:** each module lands its key idea, every practice has its answer, every fact its source, and the minutes still add up.
+3. **Revise:** each module lands its key idea, every practice has its answer, every fact its source, and the minutes still fit, with the buffer.
 4. **Fact check:** run it as `references/fact-check.md` says whenever the lesson states facts that came from research or that the user wasn't sure of; otherwise offer it in one line.
 5. **Cold learner:** run it as `references/cold-learner.md` says. Full path: run it. Light path: offer it in one line.
 

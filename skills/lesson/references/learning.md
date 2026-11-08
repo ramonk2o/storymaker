@@ -22,7 +22,7 @@ Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These
 - What is interesting but doesn't serve the objective goes to the support material.
 
 ## Time
-- Live: plan for the minutes to run about 20% over; a module that only fits if everything goes right doesn't fit.
+- Taught live (in the room or online): about 20% of the duration is buffer, left out of the modules' minutes; a module that only fits if everything goes right doesn't fit.
 - When practice happens in the lesson, at least a third of a live lesson is the learners doing something, more in a workshop.
 - Self-study: shorter modules, each with its own check, because no one is there to notice the learner got lost.
 

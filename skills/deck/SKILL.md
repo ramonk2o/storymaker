@@ -112,7 +112,7 @@ I. [Part] — its job in the arc
 
 - Titles are full sentences that state the slide's conclusion ("Repurchase fell 12% among inactive customers"), never labels ("Results"), and fit in two lines (about 15 words). One slide, one idea: a title that needs an "and" is probably two slides. The body proves the title, nothing more.
 - Read the parts in sequence, then only the titles: the story must hold and move forward.
-- Length: live or hybrid, about one slide per one to two minutes; to read, fewer and denser slides.
+- Length: live or hybrid, about one slide per one to two minutes of talk; to read, fewer and denser slides.
 - **First stress round:** read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 
 **1.3 Cold reader on the titles.** Run it as `references/cold-reader.md` says, before the gate.

@@ -37,6 +37,9 @@ Capability at the end + why it matters.
 
 Whatever the arc, a module uses only terms and ideas taught before it; a slide that needs a later one moves, or the term moves earlier.
 
+## Time and mode
+For a training without a lesson file, the stakes decide the mode, not the length: an internal training is express unless the slides face clients or the public. Taught live, about 20% of the duration is buffer, left out of the plan. Of the rest, only talk time counts toward the slide count: each practice block and the final task get one slide, with the instructions on screen, however long they run.
+
 ## Typical skeleton
 1. What you will be able to do at the end
 2. Why it matters

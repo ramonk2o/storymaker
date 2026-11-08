@@ -4,22 +4,12 @@ Ideas, bugs and debt for this plugin, managed with sensei's kanban skill. Each e
 
 ## deck
 
-### Mode and length rules ignore practice time
-- **Type:** Idea
-- **Motivation:** A cold reader planning a one-hour support training with practice in the session, without the lesson skill (2026-11-08), found that "internal, low-risk, short" fits it only half, so it picked full mode by judgment; and "about one slide per one to two minutes" gives 30 to 60 slides, though much of the hour is hands-on practice.
-- **Description:** The training case says how practice time counts in the mode choice and in the slide count.
-
 ### The description and the body name the lesson condition differently
 - **Type:** Debt
 - **Motivation:** A consistency audit of the lesson-to-deck path (2026-11-08) found the description says "when the lesson skill exists" while the body says "when the session can load the lesson skill"; it was left out of that change because a description change needs the trigger suite.
 - **Description:** The description uses the body's wording, at the next description change that runs the trigger suite.
 
 ## lesson
-
-### Minutes and the overrun buffer disagree
-- **Type:** Bug
-- **Motivation:** A cold reader planning a 40-minute lesson (2026-11-08) found that step 1.4 says module minutes add up to the duration, while `learning.md` says live lessons run about 20% over. It had to choose whether the modules sum to 40 or to about 33.
-- **Description:** The skill says whether the buffer sits inside the duration, so the map's minutes fit the slot. Reproduce: plan a live lesson and see what the minutes add up to.
 
 ### The user's topic order: decision or hypothesis
 - **Type:** Idea
