@@ -40,3 +40,6 @@ The module that tackles the strongest wrong intuition.
 - What will they predict wrongly before the lesson, and does a module make them see it?
 - Could they apply this to a case not in the lesson?
 - Which analogy will they keep, and will it mislead them later?
+
+## With practice afterwards
+Fits well: the worked examples carry the lesson, a question for the room asks learners to predict before the answer, and the take-home challenge applies the idea to a case of their own.

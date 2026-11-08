@@ -20,7 +20,7 @@ Converse in the user's language and write the gate document and the lesson in it
 
 How the skill started decides the first reply, because someone who asked for a lesson didn't necessarily ask for a planning process.
 
-- **Out of scope:** slides for a lesson whose content is already settled, which the deck skill builds; a talk or keynote meant to persuade or inspire rather than make people able to do something, which the deck skill plans; a whole course or curriculum planned as a whole (each lesson of it is in scope); an article or blog post explaining a subject to readers who won't practise it, which the essay skill plans; an exam or assessment on its own; coaching how to deliver the class; a teaching carousel or thread, which the post skill plans; proofreading lesson material whose content and order are settled. A written tutorial or guide that learners work through and practise with is in scope, as self-study. Don't offer the skill; handle the request without it.
+- **Out of scope:** slides for a lesson whose content is already settled, which the deck skill builds; a talk or keynote meant to persuade or inspire (success a week later is that the audience believes, decided or started something), which the deck skill plans, while a talk meant to teach is in scope, with practice afterwards; a whole course or curriculum planned as a whole (each lesson of it is in scope); an article or blog post explaining a subject to readers who won't practise it, which the essay skill plans; an exam or assessment on its own; coaching how to deliver the class; a teaching carousel or thread, which the post skill plans; proofreading lesson material whose content and order are settled. A written tutorial or guide that learners work through and practise with is in scope, as self-study. Don't offer the skill; handle the request without it.
 - **Called by name:** start the Opening.
 - **Started by the subject of the request:** the first reply only offers the skill, in two or three sentences: what it does differently (settles what the learner will be able to do, what to cut and what each module practises, on one module written in full, before writing the rest) and what it costs (a few rounds, or one proposal and one approval in the light path). Ask whether to plan with it, with your recommended answer and a one-line reason drawn from the request. Don't read the materials or ask anything else yet.
 - **Accepted:** start the Opening. **Declined:** handle the request as you would without the skill, with no rounds, gates or documents, and don't offer it again in this conversation.
@@ -59,7 +59,7 @@ Recommend one in the Opening, with a one-line reason. When a lesson fits both, r
 
 **Nothing invented.** Every fact, figure, rule, date or quote the lesson presents as true comes from the material, from the user or from a source found in research, and keeps that source. Data made up to illustrate (an exercise's numbers, a fictional customer) is fine when the lesson presents it as an illustration and it behaves like the real thing. A fact only the user can know (the company's own process, who to ask for help) never gets a guessed value as a recommended answer: it stays `[TO CONFIRM]` until resolved. A learner believes what the lesson says; a wrong fact taught is worse than one left out.
 
-**Push, cut, make them practise.** A teaching assistant tends to cover everything, explain instead of making the learner do, add theory and soften the cut. Do the opposite: cut to what the objective needs, turn explanations into examples and practice, and say which module is weakest.
+**Push, cut, make them practise.** A teaching assistant tends to cover everything, explain instead of making the learner do, add theory and soften the cut. Do the opposite: cut to what the objective needs, turn explanations into examples and practice, and say which module is weakest. When practice comes afterwards, the same push goes into the examples and the take-home challenge.
 
 **Teach by what works.** `references/learning.md` holds the teaching rules the map and the writing follow (recall, worked examples, practice in steps, hinge questions, load, transfer) and the myths the skill doesn't follow even when asked. Read it before the map.
 
@@ -88,6 +88,7 @@ The Opening gathers what the lesson needs, through hypotheses the user reacts to
   - **Learners:** who they are, what they already know (and what the lesson needs them to know before it starts), what they usually get wrong, why this matters to them.
   - **Capability:** what they should be able to do at the end, as an action.
   - **Format:** live in person, live online or self-study (read or recorded); duration and how much of it is practice; group size; who teaches it, the user or someone else.
+  - **Practice:** in the lesson, where learners do the tasks there, or afterwards, on their own: an expository lesson, close to a talk, that shows and explains and sends learners off with a challenge to try alone. A short lesson asked "for people to try later" is afterwards. `references/learning.md` says what changes.
   - **Constraints:** mandatory content, platform, deadline; whether it is one lesson of a series (the previous lesson's map is material).
 - One line asking for everything that helps: notes, previous classes or slides, the material learners already use, real examples and real mistakes.
 
@@ -100,8 +101,8 @@ You propose, the user adjusts. Skip any step the material or the conversation al
 **1.1 Terrain.** When the user is learning the subject, run the terrain research in `references/research.md` and bring it in one message: the central concepts and which depends on which, the mistakes learners typically make, where sources disagree, and the sources worth trusting. When the user knows the subject, ask them for the mistakes they see learners make instead.
 
 **1.2 Objective and evidence.** One message that brings:
-- **Objective:** one to three, each an observable action with its condition and standard ("compares two credit offers by total cost, alone, with a phone calculator"). The case file shows how to phrase it. If the user has a clear view, sharpen it and add one alternative that would make a different lesson; if not, propose two or three candidates, labeled as proposals.
-- **Evidence:** the final task that shows the learner can do it, close to how they will really use it.
+- **Objective:** one to three, each an observable action with its condition and standard ("compares two credit offers by total cost, alone, with a phone calculator"); with practice afterwards, the standard can be left out. The case file shows how to phrase it. If the user has a clear view, sharpen it and add one alternative that would make a different lesson; if not, propose two or three candidates, labeled as proposals.
+- **Evidence:** the final task that shows the learner can do it, close to how they will really use it; with practice afterwards, the take-home challenge, with the steps to try it alone.
 - **The one thing:** if the learner remembers one thing tomorrow, what it is.
 
 **1.3 Cut.** A table of the subject's blocks and the material's — In, Support material or Out, with the reason — and the time budget: minutes per block in, and how many go to practice. What goes in serves the objective; the rest goes to the support material or out. Teaching three things well beats covering ten.
@@ -117,6 +118,8 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
     ~[minutes]
 ```
 
+With practice afterwards, a module drops the recall, the practice and the hinge question, and may keep one quick question to the room; the opening is a hook tied to the one thing, and the close is the take-home challenge.
+
 Read only the key ideas in order: they must tell the whole lesson. The minutes add up to the duration.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
@@ -130,15 +133,15 @@ LESSON MAP — [lesson name]
 Path: full | light · Kind: … · Command of the subject: knows it | learning to teach
 Learners: … · They know … · They usually get wrong …
 Before this lesson: [prerequisites, or none]
-Format: live | online | self-study · duration (practice share) · group · who teaches
-Objective: … · Evidence: [final task]
+Format: live | online | self-study · duration (practice share) · group · who teaches · practice: in the lesson | afterwards
+Objective: … · Evidence: [final task | take-home challenge]
 The one thing: …
 Arc: … (why, in one line)
 
 Opening: … · ~min
 M1. [each module's full block from 1.4, with its content, never only the labels]
 …
-Close: final task · recap · later questions · ~min
+Close: final task or take-home challenge · recap · later questions · ~min
 Support material: … · Left out: …
 Sources so far: … · Research still to do: [questions per module | none]
 Pending [TO CONFIRM]: …

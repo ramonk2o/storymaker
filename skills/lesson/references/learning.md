@@ -1,6 +1,6 @@
 # Learning
 
-Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These are the teaching rules with the strongest evidence behind them, each tied to a line of the map or to the writing, so they change what the lesson does as well as how it sounds. They hold for every kind of lesson; the case file adapts them.
+Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These are the teaching rules with the strongest evidence behind them, each tied to a line of the map or to the writing, so they change what the lesson does as well as how it sounds. They hold for every kind of lesson; the case file adapts them, and "When practice comes after the lesson" says what changes when learners practise on their own later.
 
 ## The map's lines
 
@@ -23,8 +23,15 @@ Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These
 
 ## Time
 - Live: plan for the minutes to run about 20% over; a module that only fits if everything goes right doesn't fit.
-- At least a third of a live lesson is the learners doing something, more in a workshop.
+- When practice happens in the lesson, at least a third of a live lesson is the learners doing something, more in a workshop.
 - Self-study: shorter modules, each with its own check, because no one is there to notice the learner got lost.
+
+## When practice comes after the lesson
+The lesson shows and explains; learners practise alone, later. What holds: one key idea per module, the worked example, the mistake it takes apart, load and the one thing. What goes: the recall, practice in steps, hinge questions and the third of the time for practice. What it adds:
+- **A hook.** The opening ties a puzzle, a case or a contrast to the one thing, since no task will hold the room.
+- **Quick questions to the room,** one or two in the whole lesson, about 30 seconds each, asking learners to predict or apply rather than recognize. Retrieving still beats listening, even briefly.
+- **A take-home challenge** instead of the final task: a real case of their own, the steps to try it, what a good result looks like and where to look when stuck. It proves the objective, so it is written as carefully as a final task.
+- The questions for a few days later stay.
 
 ## Myths the skill doesn't follow
 When the user or the material asks for one of these, say in one line that the evidence doesn't support it and offer what does.

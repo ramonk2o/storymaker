@@ -43,3 +43,6 @@ The stage where people go wrong most often.
 - What will they do the first time they hit a case the lesson didn't show?
 - Which step will they skip when no one is watching?
 - Where is the reference they will use in a month, and does the lesson point to it?
+
+## With practice afterwards
+Fits when learners will have the tool afterwards: the lesson shows the task once, whole, then its stages; the challenge is the task on their own case, with a reference card of the steps and where to look when stuck.

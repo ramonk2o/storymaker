@@ -39,3 +39,6 @@ The first practice with feedback, with its model examples and criteria checklist
 - Could a learner use the criteria to judge their own work alone?
 - Is the practice case close enough to their real work?
 - What will they practise next week, and how?
+
+## With practice afterwards
+Rarely improves performance on its own, because the skill grows from attempts with feedback. If the user still wants it, say so in one line; the challenge then comes with a checklist of the criteria, so learners can judge their own attempt.

@@ -42,3 +42,6 @@ The first building round, with its instructions and an example output.
 - What will a team with a weak case or no case do?
 - Which round runs long, and what does whoever teaches cut?
 - Will they use the method again within a month?
+
+## With practice afterwards
+Doesn't fit: a workshop is the making. If the user wants a shorter session, recommend practice in the lesson with fewer rounds, or a concept or procedure lesson with practice afterwards.

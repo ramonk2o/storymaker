@@ -15,5 +15,5 @@ Used to bring the delivery options with the results of the checks (Phase 2) and 
 - Offer, in one line, to keep the approved map next to the lesson: it is the quickest way to rework or extend it later, or to plan the next lesson of a series.
 
 ## Into slides
-- **If the session can load the deck skill,** offer in one line to turn the lesson into slides with it. When the user accepts, hand the deck the lesson file and the approved map: the deck starts without its offer, treats the lesson's content as settled and turns the map into its script (key ideas as slide titles, teacher notes as speaker notes) without reopening what was approved here, as `references/lesson-file.md` says.
+- **If the session can load the deck skill,** offer in one line to turn the lesson into slides with it. When the user accepts, hand the deck the lesson file and the approved map: the deck starts without its offer, treats the lesson's content as settled and turns the map into its script (key ideas as slide titles, teacher notes as speaker notes and, with practice afterwards, the take-home challenge as the closing slide) without reopening what was approved here, as `references/lesson-file.md` says.
 - **If it can't,** say in one line that the file is ready to be used as the material for a presentation, with the key ideas as slide titles.

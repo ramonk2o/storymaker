@@ -3,7 +3,7 @@
 Used in step 1.6 (the sample module) and in Phase 2. These are rules the model doesn't follow on its own; they hold for every kind of lesson, and the case file adds to them. Facts follow "Nothing invented" in `SKILL.md`; teaching rules are in `references/learning.md`.
 
 ## The map is the specification
-- One module per map block, in order, landing its key idea with the example, the mistake, the practice and the hinge question listed there.
+- One module per map block, in order, landing its key idea with the example, the mistake and, when it has them, the practice and the hinge question listed there.
 - A module that wants to teach something its block doesn't is a sign the map needs to change: stop and ask.
 
 ## Explaining
