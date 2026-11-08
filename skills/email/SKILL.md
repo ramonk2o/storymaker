@@ -1,6 +1,6 @@
 ---
 name: email
-description: "Plans an email or long message with something at stake before writing it: what the reader should do after reading, who receives it (one person, a few, many), the move, the tone and the subject, shown on a real opening; then writes it and checks it with stand-ins for the recipients. Use for hard emails, bad news, saying no, asking, pushing back, apologizing or explaining, and long Slack or WhatsApp messages and letters, in any language (e.g., 'help me tell the client we'll miss the deadline', 'como respondo esse email do meu chefe?'). Not for routine emails, newsletters, sales emails or proofreading."
+description: "Plans an email or long message with something at stake before writing it: what the reader should do after reading, who receives it (one person, a few, many), the move, tone and subject, shown on a real opening; then writes it and checks it with stand-ins for the recipients. Use for hard emails, bad news, saying no, asking, pushing back, apologizing or explaining, and long Slack or WhatsApp messages and letters, in any language (e.g., 'help me tell the client we'll miss the deadline', 'como respondo esse email do meu chefe?'). Not for routine emails, newsletters, sales emails or proofreading."
 ---
 
 # Email
