@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.4.1] - 2026-11-07
+
+Trims the email skill's description back under the 600-character limit, with the same triggers.
+
 ### Fixed
 
 - email: description trimmed back under the 600-character limit, with the same triggers.
