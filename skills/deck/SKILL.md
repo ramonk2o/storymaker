@@ -32,7 +32,7 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 Recommend one in the Opening, with a one-line reason. How much is still open chooses the mode; the stakes choose the checks in express mode.
 
-- **Full** — the message, the story or the shift in the audience is still open, or the deck is long or new to the user. Two gates.
+- **Full** — any deck Express doesn't cover, such as a long or new deck whose message or shift in the audience is still open. Two gates.
 - **Express** — the content is settled or the deck is short and familiar: a recurring update, a short internal deck, the slides of a lesson file. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
 - **Stakes** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or puts the user's reputation directly at play is high stakes; presenting to many people under the user's name isn't on its own. In express mode, high stakes run the cold reader on the titles before the gate instead of offering it. Say which applies in the first round.
 
@@ -173,7 +173,7 @@ Ask for explicit approval.
 
 ## Express proposal
 
-After the Opening (or in its place, when the case says so) and a change to what the user decided, asked first, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md`, `references/delivery.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem.
+After the Opening (or in its place, when the case says so) and a change to what the user decided, asked first, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md`, `references/delivery.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. With high stakes, run the cold reader on the titles as `references/cold-reader.md` says before asking for approval, and bring what it found in the same message.
 
 ```
 PROPOSAL — [deck name]
@@ -187,6 +187,7 @@ I. [Part] — job
 …
 Visual concept: … · Global rules: … · Build: [option] — [why]
 Speaker notes (live or hybrid): source (the material, the presenter's points, or written here) · style · the hook's exact line
+Cold reader: [what diverged and what changed, or "not run"]
 Pending [TO CONFIRM]: …
 ```
 

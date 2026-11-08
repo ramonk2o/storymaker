@@ -11,7 +11,7 @@ People often come with a subject, a hunch or a pile of notes, not a thesis. That
 
 ```
 Full:  Opening → PHASE 1 Message → PHASE 2 Arc, outline and voice → [GATE: Essay outline] → PHASE 3 Write and check → Deliver
-Light: Opening → Proposal with outline and sample → [GATE: Essay outline] → PHASE 3 Write → Deliver
+Light: Opening → Proposal with outline and sample → [GATE: Essay outline] → PHASE 3 Write and check (by stakes) → Deliver
 ```
 
 Converse in the user's language and write the gate document in it; the templates below are molds, not fixed text. Write the text in the language the user asks for, by default the one they are using.
@@ -31,9 +31,9 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 Recommend one in the Opening, with a one-line reason. How much is still open chooses the path; the stakes choose the checks on the light path.
 
-- **Full** — the argument or the position isn't settled yet, the piece runs over about 1,500 words, or a voice the user cares about still has to be found. Every phase, the gate and the checks Phase 3 runs.
-- **Light** — settled content, a short piece, a recurring issue in an established format, or a rework that keeps the argument. After the Opening, one message brings the whole proposal (Phase 1 and Phase 2 by their rules) with the sample passage, and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. One gate. If something changes the course (the argument doesn't hold, the user hasn't taken a position yet), suggest switching to full.
-- **Stakes** — a text that faces readers likely to resist, makes an argument with consequences, or puts the user's reputation directly at play is high stakes; being published under the user's name isn't on its own. On the light path, high stakes run the checks after writing instead of offering them. Say which applies in the first round.
+- **Full** — any text Light doesn't cover, such as one whose position isn't settled yet, one over about 1,500 words, or one whose voice the user cares about still has to be found. Every phase, the gate and the checks Phase 3 runs.
+- **Light** — the user's position is settled, and the piece is short, a recurring issue in an established format, or a rework that keeps the argument. After the Opening, one message brings the whole proposal (Phase 1 and Phase 2 by their rules) with the sample passage, and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. One gate. If something changes the course (the argument doesn't hold, the user hasn't taken a position yet), suggest switching to full.
+- **Stakes** — a text that faces readers likely to resist, makes an argument with consequences, or puts the user's reputation directly at play is high stakes; being published under the user's name isn't on its own. Say which applies in the first round.
 
 **Why the gate sits where it does.** The gate closes what the text says, in what order and in what voice before writing, because writing is the expensive step and a draft built on an argument or a voice that later moves is rewritten whole. There is no second gate: nothing after writing depends on a new decision, and fixes the checks call for are approved one by one. The light path keeps the same gate because even a short text is cheaper to fix as an outline than as prose.
 
