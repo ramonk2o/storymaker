@@ -65,8 +65,8 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 - A module keeps its key idea, explanation, **Example** and **Watch out**; it drops **Recall**, **Try it** and **Check**, and one or two modules in the whole lesson carry a **Question for the room:** [question], with its answer in the teacher block.
 - "Why this matters" opens with the hook.
 - "Final task" becomes **Try it on your own:** the case (one of their own), the steps, what a good result looks like and where to look when stuck. Its teacher block says how to introduce it and where people usually get stuck.
-- The body is what is said: the talk's script, written to be heard. The teacher blocks keep only cues, timing and the answers to the questions for the room. In slides, the body becomes the slides and their speaker notes.
+- The body is what is said: the talk's script, written to be heard. The teacher blocks keep only cues, timing and the answers to the questions for the room.
 - The Answers section keeps the questions for the room, a model result of the challenge and the answers to the questions for later.
 
 ## Into slides
-When the deck skill builds slides from this file, the file is its content, with or without the map: what the learner sees becomes slides in the lesson's order, with the key ideas as slide titles and one part per module; the teacher blocks become speaker notes; with practice afterwards, the body becomes the slides and their speaker notes, and the challenge closes the deck, after the recap. Say so in the handoff so the deck treats the content as settled.
+When the deck skill builds slides from this file, the file is its content, with or without the map: what the learner sees becomes slides in the lesson's order (support material and sources stay in the file), with the key ideas as slide titles and one part per module; the teacher blocks become speaker notes; with practice afterwards, the body becomes the slides and their speaker notes, and the challenge closes the deck, after the recap. Say so in the handoff so the deck treats the content as settled.

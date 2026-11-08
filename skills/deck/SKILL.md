@@ -35,7 +35,7 @@ Recommend one in the Opening, with a one-line reason.
 - **Full** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or will be presented under the user's name to many people. Two gates.
 - **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson file, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
 
-**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because a lesson map already approved its content.
+**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because the lesson already approved its content.
 
 ## How to run it
 
@@ -72,7 +72,7 @@ Recommend one in the Opening, with a one-line reason.
 
 The Opening gathers what the deck needs, through hypotheses the user reacts to. It doesn't settle the central idea; that opens Phase 1. It usually takes one or two rounds.
 
-**First reply** (after the offer was accepted, or right away when called by name):
+**First reply** (after the offer was accepted, or right away when called by name or handed over):
 - One sentence on how it works: first what the deck must say, then how it looks, then build and check.
 - The deck type, from `references/cases/` (read the matching file): `results-analysis.md`, `strategy-proposal.md`, `idea-pitch.md`, `research-presentation.md`, `project-status.md`, `training.md`, `campaign-concept.md`, `talk.md`. A hybrid deck (results that end in a proposal) reads both and picks the primary one.
 - **With material:** read all of it and bring a first reading: the findings that seem to matter and any risk an attentive audience would raise (a fragile figure, an unfair comparison). **Without material:** the case's typical skeleton adapted to what was said, and an invitation to dump loose ideas.
