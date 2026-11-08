@@ -1,6 +1,6 @@
 # Speaker notes and likely questions
 
-Used in step 2.2, in the express proposal and build, and when delivering. The deck's impact depends on what is said with it, so the skill hands over the words that go with the slides. It doesn't coach how to deliver the talk.
+Used in step 2.2, in the express proposal (only the notes' source, their style and the hook's exact line) and build, and when delivering. The deck's impact depends on what is said with it, so the skill hands over the words that go with the slides. It doesn't coach how to deliver the talk.
 
 ## Speaker notes
 For live and hybrid decks, write notes for every slide:
