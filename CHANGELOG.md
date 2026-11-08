@@ -20,11 +20,13 @@ applied to how the skills behave.
 - lesson: with practice afterwards, the map keeps what each module builds on (a `Builds on:` line in place of the recall), and the key ideas, read in order, must each stand on the ones before.
 - deck: for a lesson's slides, each storyline line names its role (in a module: recall, key idea, example, mistake, question, practice or check), in express mode too; a question to the room is a slide of its own, marked `[question]`, inside its module, with its answer in the speaker notes; with practice in the lesson, the final task comes before the recap; with practice afterwards, the recap comes before the take-home challenge, which closes the deck.
 - deck: express mode's proposal says where the speaker notes come from and gives the hook's exact line, so they no longer appear for the first time at delivery. For slides from a lesson file, the questions the lesson leaves open join the proposal's round instead of a separate Opening message, and a figure in the lesson that doesn't match its source or another part of it goes to the user as a proposal.
+- deck: the lesson path follows one rule: the lesson is the deck's content and the deck decides only how to show it; anything it finds wrong or not doable in the lesson, not only a figure, goes to the user as a proposal. What the learner sees becomes slides in the lesson's order and the teacher blocks become speaker notes; with practice afterwards, the lesson's body goes into the notes as written. A lesson file is enough without its map, and full mode says what it skips. The express proposal's first line names the resistance. lesson: the lesson file carries the one thing, and the slide mapping is stated once, in `lesson-file.md`. The deck's title principle names a question to the room as its one exception.
 
 ### Fixed
 
 - deck: the training case's typical skeleton keeps each mistake inside its module and adds the final task, instead of gathering the common mistakes on one slide after the modules, which contradicted the lesson's order. Its opening with what learners will be able to do stays, as in a lesson with practice in the session.
 - deck: for slides of a lesson, the proposal and the script no longer offer an alternative central idea or an arc choice: the central idea is the lesson's one thing and the arc is its modules, in the map's order.
+- deck: a deck handed over by the lesson skill no longer offers itself again before starting.
 
 ## [0.4.1] - 2026-11-07
 
