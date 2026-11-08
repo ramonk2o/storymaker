@@ -1,5 +1,5 @@
 ---
-description: fires deck on churn story
+description: fires deck on data with no story yet (pt)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

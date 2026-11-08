@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on talk to blog
+description: does not fire deck on a blog post from a talk (essay's)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

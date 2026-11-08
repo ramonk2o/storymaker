@@ -1,5 +1,5 @@
 ---
-description: fires deck on steering status
+description: fires deck on a status update with bad news
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

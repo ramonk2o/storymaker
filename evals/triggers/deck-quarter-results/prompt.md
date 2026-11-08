@@ -1,5 +1,5 @@
 ---
-description: fires deck on quarter results
+description: fires deck on presenting quarterly results to leadership (pt)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

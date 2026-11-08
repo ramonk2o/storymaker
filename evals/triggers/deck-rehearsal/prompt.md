@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on rehearsal
+description: does not fire deck on delivery coaching
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

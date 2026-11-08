@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on instagram carousel
+description: does not fire deck on a social carousel (post's)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

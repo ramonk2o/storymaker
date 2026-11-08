@@ -1,5 +1,5 @@
 ---
-description: fires deck on pricing pitch
+description: fires deck on a pitch whose framing isn't settled
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

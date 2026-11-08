@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on restyle
+description: does not fire deck on restyling a finished deck
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

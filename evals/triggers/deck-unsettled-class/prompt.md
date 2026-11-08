@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on unsettled class
+description: does not fire deck on slides for a class whose content is not settled (lesson's)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

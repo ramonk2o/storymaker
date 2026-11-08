@@ -1,5 +1,5 @@
 ---
-description: does not fire deck on report doc
+description: does not fire deck on the report the deck would present
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

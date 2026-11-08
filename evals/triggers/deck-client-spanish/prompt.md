@@ -1,5 +1,5 @@
 ---
-description: fires deck on client spanish
+description: fires deck on a client project presentation (es)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]
