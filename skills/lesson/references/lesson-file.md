@@ -68,4 +68,4 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 - The Answers section keeps the questions for the room, a model result of the challenge and the answers to the questions for later.
 
 ## Into slides
-When the deck skill builds slides from this file, the map approved here is its content: the key ideas are its slide titles, each module is a section, in the map's order and with its slides together, with its example, practice and check (with practice afterwards, its example, mistake and question for the room, and the challenge as the closing slide), and the teacher notes become speaker notes. Say so in the handoff so the deck treats the content as settled.
+When the deck skill builds slides from this file, the map approved here is its content: the key ideas are its slide titles, each module is a section, in the map's order and with its slides together, with its example, mistake, practice and check (with practice afterwards, its example, mistake and question for the room, and the challenge as the closing slide), and the teacher notes become speaker notes. Say so in the handoff so the deck treats the content as settled.
