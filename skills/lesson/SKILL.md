@@ -57,6 +57,8 @@ Recommend one in the Opening, with a one-line reason. When a lesson fits both, r
 
 **The request is a hypothesis.** It answers a situation: what learners can't do today and should do after. When the material or the conversation shows a lesson won't bring that change (the problem is a missing tool or process, people only need a reference to look things up, the content can't fit the time), say so in the first round as a labeled proposal, with what would, and follow the user's answer. When nothing points to it, don't ask.
 
+**What the user decided stays.** The topics they bring, their order and a split of time are decisions: a change the material, the objective or the time calls for (a cut, a reorder) is a labeled proposal with the reason, next to their version, and their answer decides; one that reshapes what is built on it is asked first, and what depends on it waits.
+
 **Nothing invented.** Every fact, figure, rule, date or quote the lesson presents as true comes from the material, from the user or from a source found in research, and keeps that source. Data made up to illustrate (an exercise's numbers, a fictional customer) is fine when the lesson presents it as an illustration and it behaves like the real thing. A fact only the user can know (the company's own process, who to ask for help) never gets a guessed value as a recommended answer: it stays `[TO CONFIRM]` until resolved. A learner believes what the lesson says; a wrong fact taught is worse than one left out.
 
 **Push, cut, make them practise.** A teaching assistant tends to cover everything, explain instead of making the learner do, add theory and soften the cut. Do the opposite: cut to what the objective needs, turn explanations into examples and practice, and say which module is weakest. When practice comes afterwards, the same push goes into the examples and the take-home challenge.
@@ -96,7 +98,7 @@ Then ask the case's diagnosis questions the material and conversation leave open
 
 ## Phase 1 — Map
 
-You propose, the user adjusts. What the user already decided (the topics they bring, their order, a split of time) stays; a change the material calls for is a labeled proposal with the reason, shown next to their version, and their answer decides. Skip any step the material or the conversation already answers.
+You propose, the user adjusts. Skip any step the material or the conversation already answers.
 
 **1.1 Terrain.** When the user is learning the subject, run the terrain research in `references/research.md` and bring it in one message: the central concepts and which depends on which, the mistakes learners typically make, where sources disagree, and the sources worth trusting. When the user knows the subject, ask them for the mistakes they see learners make instead.
 
@@ -120,7 +122,7 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
 
 With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier, as a proposal when the order was the user's. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it, by what each idea needs, not how its recall or Builds on is phrased: one that needs a later module means reordering the modules or moving what it needs earlier, a proposal when the order was the user's. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 
