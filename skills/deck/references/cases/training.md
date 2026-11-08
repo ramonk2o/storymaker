@@ -35,7 +35,7 @@ Capability at the end + why it matters.
 - **Task journey**, following the order in which the person will do it in real life.
 - **From simple to complex**, when the concepts depend on one another.
 
-Whatever the arc, a module uses only terms and ideas taught before it, judged by what each slide needs, not how it is phrased; a slide that needs a later one moves, or the term moves earlier, a proposal when the order was the user's.
+Whatever the arc, a module uses only terms and ideas taught before it, judged by what each slide needs, not how it is phrased; a slide that needs a later one moves, or the term moves earlier, a proposal when the order was the user's or the lesson's.
 
 ## Time and mode
 For a training without a lesson file, the length doesn't decide the mode: an internal training is express unless it meets a full-mode criterion (clients or the public, a skeptical room, many people under the user's name). Live or hybrid, about 20% of the duration is buffer, left out of the talk time and the slide count; shares of time, such as practice, are of the minutes left, and a split the user gave is shown in minutes and confirmed in the round. Of those, only talk time counts toward the slide count: each practice block and the final task get one slide, with the instructions on screen, however long they run.
