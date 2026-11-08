@@ -30,12 +30,13 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Modes
 
-Recommend one in the Opening, with a one-line reason.
+Recommend one in the Opening, with a one-line reason. How much is still open chooses the mode; the stakes choose the checks in express mode.
 
-- **Full** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or will be presented under the user's name to many people. Two gates.
-- **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson file, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
+- **Full** — the message, the story or the shift in the audience is still open, or the deck is long or new to the user. Two gates.
+- **Express** — the content is settled or the deck is short and familiar: a recurring update, a short internal deck, the slides of a lesson file. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
+- **Stakes** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or puts the user's reputation directly at play is high stakes; presenting to many people under the user's name isn't on its own. In express mode, high stakes run the cold reader on the titles before the gate instead of offering it. Say which applies in the first round.
 
-**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because the lesson already approved its content.
+**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short or familiar deck costs little to redo, or because the lesson already approved its content.
 
 ## How to run it
 
@@ -68,7 +69,7 @@ Recommend one in the Opening, with a one-line reason.
 
 **A gate is explicit approval.** "OK", "approved", "go ahead" count; silence, a change of subject or a passing comment don't. An "ok to all" in a round approves the answers, not the gate, which has its own request. After a gate, its document is a closed specification: what comes next doesn't add, drop or swap anything decided there without asking, and later content changes, even after delivery, are written back into it.
 
-**Checks by someone who wasn't here.** A model inside this conversation already knows the objective, so never play the reader yourself. `references/cold-reader.md` says how to run the cold reader, with or without a separate agent. In express mode, offer the title check in one line.
+**Checks by someone who wasn't here.** A model inside this conversation already knows the objective, so never play the reader yourself. `references/cold-reader.md` says how to run the cold reader, with or without a separate agent. In express mode, run the title check when the stakes are high; otherwise offer it in one line.
 
 ## Opening
 
@@ -123,7 +124,7 @@ I. [Part] — its job in the arc
 
 ```
 SCRIPT — [deck name]
-Mode: full · Deck type: …
+Mode: full · Stakes: high | low · Deck type: …
 Audience: … · Today they … → after, they should …
 Resistance: …
 Format: live | reading | hybrid · duration · presenter
@@ -176,7 +177,7 @@ After the Opening (or in its place, when the case says so) and a change to what 
 
 ```
 PROPOSAL — [deck name]
-Mode: express · Audience · shift · resistance · format · deck type
+Mode: express · Stakes: high | low · Audience · shift · resistance · format · deck type
 Central idea: … (alternative: …)
 Arc: … · Hook · moment · close
 

@@ -14,6 +14,7 @@ applied to how the skills behave.
 
 ### Changed
 
+- deck, essay, lesson: how much is still open chooses the path, and the stakes choose the checks: a piece whose content is settled or that is short and familiar takes the light path (express in deck) even when it goes to a client or the public, and then its checks after writing (in deck, the title check) run instead of being offered. High stakes are a client, a decision, money or approval, readers likely to resist, the user's reputation directly at play, or a wrong fact that could harm someone; being published under the user's name or reaching many people isn't on its own. lesson: the fact check also runs with high stakes. The gate documents carry a Stakes line. Principle 4 states the two axes.
 - lesson: the map's rules for practice afterwards and for the buffer live only in `references/learning.md`, which step 1.4 points to, instead of being stated in both.
 - deck: the description names the lesson condition as the body does (when the session can load the lesson skill), and its wording is trimmed to fit; a trigger suite for the deck skill now lives in `evals/triggers/deck-*`.
 - deck: in the training case, every training deck names each slide's role and marks questions to the room `[question]`, with or without a lesson file, and the slide on where to get help has its own role; the rule moved out of the lesson-file section.

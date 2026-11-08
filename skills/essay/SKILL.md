@@ -29,10 +29,11 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Paths
 
-Recommend one in the Opening, with a one-line reason. When a text fits both, recommend the lighter and name what would make it heavier.
+Recommend one in the Opening, with a one-line reason. How much is still open chooses the path; the stakes choose the checks on the light path.
 
-- **Full** — a text published under the user's name to outside or skeptical readers, an argument with consequences, a piece over about 1,500 words, or a voice the user cares about getting right. Every phase, the gate and both checks.
-- **Light** — settled content, a short or low-risk piece, a recurring newsletter issue, or a rework that keeps the argument. After the Opening, one message brings the whole proposal (Phase 1 and Phase 2 by their rules) with the sample passage, and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. One gate; after writing, the checks are offered in one line, not run. If something changes the course (the reader is skeptical, the argument doesn't hold, the user hasn't taken a position yet), suggest switching to full.
+- **Full** — the argument or the position isn't settled yet, the piece runs over about 1,500 words, or a voice the user cares about still has to be found. Every phase, the gate and the checks Phase 3 runs.
+- **Light** — settled content, a short piece, a recurring issue in an established format, or a rework that keeps the argument. After the Opening, one message brings the whole proposal (Phase 1 and Phase 2 by their rules) with the sample passage, and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem. One gate. If something changes the course (the argument doesn't hold, the user hasn't taken a position yet), suggest switching to full.
+- **Stakes** — a text that faces readers likely to resist, makes an argument with consequences, or puts the user's reputation directly at play is high stakes; being published under the user's name isn't on its own. On the light path, high stakes run the checks after writing instead of offering them. Say which applies in the first round.
 
 **Why the gate sits where it does.** The gate closes what the text says, in what order and in what voice before writing, because writing is the expensive step and a draft built on an argument or a voice that later moves is rewritten whole. There is no second gate: nothing after writing depends on a new decision, and fixes the checks call for are approved one by one. The light path keeps the same gate because even a short text is cheaper to fix as an outline than as prose.
 
@@ -127,7 +128,7 @@ Read in sequence, the lines must tell the whole argument. Above about 2,500 word
 
 ```
 ESSAY OUTLINE — [working title]
-Path: full | light · Kind: … · Where: … · Length: ~… words
+Path: full | light · Stakes: high | low · Kind: … · Where: … · Length: ~… words
 Reader: … · Today they think … → after, they should …
 Central idea: …
 Objection and answer: …
@@ -151,8 +152,8 @@ Show the sample passage below the block as normal prose, so the user reads it as
 
 1. **Write** from the Essay outline as a closed specification, following `references/writing.md`, the case file and the style sheet: one paragraph per line, in order. If a paragraph can't be written as planned (the fact isn't there, the step doesn't follow), stop and go back to the outline rather than improvising.
 2. **Revise:** each paragraph makes its line's claim, the text sounds like the sample, and the length is within about 10% of the plan.
-3. **Cold reader:** run it as `references/cold-reader.md` says. Besides reading as the real reader, it outlines the text back paragraph by paragraph; compare that reverse outline with the approved one to find where the writing drifted. Full path: run it. Light path: offer it in one line.
-4. **Style check:** in the full path, when the voice comes from the user's texts, reference texts or a named person, run it as `references/style-check.md` says; otherwise offer it in one line.
+3. **Cold reader:** run it as `references/cold-reader.md` says. Besides reading as the real reader, it outlines the text back paragraph by paragraph; compare that reverse outline with the approved one to find where the writing drifted. Run it in the full path and with high stakes; otherwise offer it in one line.
+4. **Style check:** in the full path or with high stakes, when the voice comes from the user's texts, reference texts or a named person, run it as `references/style-check.md` says; otherwise offer it in one line.
 
 With a separate agent, run the checks before showing the text, and bring in one message the text, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the outline; fixes that change no decision go straight.
 

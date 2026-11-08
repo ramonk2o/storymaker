@@ -48,11 +48,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
   - lesson's and essay's Full path promise "both checks", while their steps run the fact check (lesson) or the style check (essay) only under a condition and otherwise offer it.
 - **Description:** One wording for each rule, in every skill that states it: only fixes that change a decision are approved; without a separate agent, the piece is shown first with the filled prompts; `handoff.md` is read before the message with the check results; Full says "the checks as Phase N says".
 
-### "Fits both, recommend the lighter" sends high-stakes pieces to the light path
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). lesson and essay say "When a lesson [text] fits both, recommend the lighter". Light only needs one reason such as "short", so a 50-minute class for students, a 30-minute talk for patients on medication or a short blog post published under the user's name fits both and gets the light path, where the cold reader is only offered. Against principle 4 (clients, the public or the user's name get the full flow), and it leaves lesson's own "a wrong fact would harm someone" criterion dead whenever the lesson is short.
-- **Description:** A Full criterion wins over a light one; "fits both" recommends the lighter only when no Full criterion applies, in both skills in the same branch.
-
 ### A how-to blog post or a written tutorial fits both essay and lesson
 - **Type:** Bug
 - **Motivation:** Consistency audit (2026-11-08). essay leaves out "written tutorials learners work through" but offers a How-to arc for practical blog posts; lesson takes "a written tutorial or guide that learners work through and practise with" and leaves out only posts "to readers who won't practise it". Readers of a how-to post follow its steps, so "a blog post on how to set up webhooks" can be claimed by both (an essay outline against modules, hinge questions and a final task), against principle 1. lesson's description names only "a class, training, workshop or teaching talk", so a request for a study guide or tutorial may fire neither.
