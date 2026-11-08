@@ -14,6 +14,7 @@ applied to how the skills behave.
 
 ### Changed
 
+- lesson: the map's rules for practice afterwards and for the buffer live only in `references/learning.md`, which step 1.4 points to, instead of being stated in both.
 - deck: the description names the lesson condition as the body does (when the session can load the lesson skill), and its wording is trimmed to fit; a trigger suite for the deck skill now lives in `evals/triggers/deck-*`.
 - deck: in the training case, every training deck names each slide's role and marks questions to the room `[question]`, with or without a lesson file, and the slide on where to get help has its own role; the rule moved out of the lesson-file section.
 - lesson: in the light path, each module's mistake comes from what the Opening heard learners get wrong; where it left that open, the proposal brings a typical mistake of the subject marked `(hypothesis)`, not `[TO CONFIRM]`, for the gate to confirm.

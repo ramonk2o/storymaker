@@ -120,9 +120,9 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
     ~[minutes]
 ```
 
-With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
+With practice afterwards, the map follows "When practice comes after the lesson" in `references/learning.md`.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it, by what each idea needs, not how its recall or Builds on is phrased: one that needs a later module means reordering the modules or moving what it needs earlier, a proposal asked before the map when the order was the user's. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it, by what each idea needs, not how its recall or Builds on is phrased: one that needs a later module means reordering the modules or moving what it needs earlier, a proposal asked before the map when the order was the user's. Taught live, the minutes leave the buffer that the Time section of `references/learning.md` sets.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 

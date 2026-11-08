@@ -23,13 +23,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Open questions:**
   - Re-ask after the change, or settle the move before the Blocks are drafted (one more turn on every full email)?
 
-## lesson
-
-### SKILL.md is at the size limit, with the practice-afterwards variant stated three times
-- **Type:** Debt
-- **Motivation:** Consistency audit (2026-11-08). SKILL.md is about 4,998 tokens against the 5,000 limit, so the next change can't add anything without a cut. Part of it is single-variant material: the practice-afterwards map (Builds on, questions to the room, the hook, recap before the challenge) is stated in step 1.4, in `references/learning.md` and in `references/lesson-file.md`, and the 20% buffer rule in steps 1.3, 1.4 and `learning.md`; the next edit to one variant is likely to reach only one copy.
-- **Description:** Step 1.4 keeps one line pointing to `learning.md` for the practice-afterwards variant and the buffer, and the full rule lives only there, freeing room in the core.
-
 ## post
 
 ### No first reply for a long single post or a request mixing paths
