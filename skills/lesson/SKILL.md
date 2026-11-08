@@ -105,7 +105,7 @@ You propose, the user adjusts. Skip any step the material or the conversation al
 - **Evidence:** the final task that shows the learner can do it, close to how they will really use it; with practice afterwards, the take-home challenge, with the steps to try it alone.
 - **The one thing:** if the learner remembers one thing tomorrow, what it is.
 
-**1.3 Cut.** A table of the subject's blocks and the material's — In, Support material or Out, with the reason — and the time budget: minutes per block in, and how many go to practice. What goes in serves the objective; the rest goes to the support material or out. Teaching three things well beats covering ten.
+**1.3 Cut.** A table of the subject's blocks and the material's — In, Support material or Out, with the reason — and the time budget, out of the duration less its buffer when taught live: minutes per block in, and how many go to practice. What goes in serves the objective; the rest goes to the support material or out. Teaching three things well beats covering ten.
 
 **1.4 Map.** Read `references/learning.md`. Choose the arc from the case file's recommended arcs (two or three when it isn't obvious, one recommended). Then an opening (why it matters to them, what they will be able to do), one block per module and a close (the final task, the recap, questions to answer days later):
 
@@ -120,7 +120,7 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
 
 With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier. Taught live (in the room or online), the modules' minutes add up to about 80% of the duration and the rest is buffer, shown on the map's Format line; self-study has none.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 

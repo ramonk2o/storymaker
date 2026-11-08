@@ -22,8 +22,8 @@ Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These
 - What is interesting but doesn't serve the objective goes to the support material.
 
 ## Time
-- Taught live (in the room or online): about 20% of the duration is buffer, left out of the modules' minutes; a module that only fits if everything goes right doesn't fit.
-- When practice happens in the lesson, at least a third of a live lesson is the learners doing something, more in a workshop.
+- Taught live (in the room or online): about 20% of the duration is buffer, left out of the minutes of the opening, the modules and the close; a module that only fits if everything goes right doesn't fit. Shares of time, such as practice, are of the minutes left.
+- When practice happens in the lesson, at least a third of a live lesson's planned minutes is the learners doing something, more in a workshop.
 - Self-study: shorter modules, each with its own check, because no one is there to notice the learner got lost.
 
 ## When practice comes after the lesson
