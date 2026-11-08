@@ -27,7 +27,7 @@ Used in step 1.4 (the map), in the sample module and in Phase 2 (writing). These
 - Self-study: shorter modules, each with its own check, because no one is there to notice the learner got lost.
 
 ## When practice comes after the lesson
-The lesson shows and explains; learners practise alone, later. What holds: one key idea per module, the worked example, the mistake it takes apart, load and the one thing. What goes: the recall, practice in steps, hinge questions and the third of the time for practice. What it adds:
+The lesson shows and explains; learners practise alone, later. What holds: one key idea per module, the worked example, the mistake it takes apart, load and the one thing. What goes: the recall question (the map keeps what each module builds on, as a `Builds on:` line), practice in steps, hinge questions and the third of the time for practice. What it adds:
 - **A hook.** The opening ties a puzzle, a case or a contrast to the one thing, since no task will hold the room.
 - **Quick questions to the room,** one or two in the whole lesson, about 30 seconds each, asking learners to predict or apply rather than recognize. Retrieving still beats listening, even briefly.
 - **A take-home challenge** instead of the final task: a real case of their own, the steps to try it, what a good result looks like and where to look when stuck. It proves the objective, so it is written as carefully as a final task.
