@@ -169,7 +169,7 @@ Ask for explicit approval.
 
 ## Express proposal
 
-After the Opening, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem.
+After the Opening, one message brings: the Proposal block below, built by the rules of 1.1, 1.2 and 2.1 and the references they load (`references/narrative.md`, `references/attention.md`, `references/visual-concept.md`, `references/visuals-and-charts.md`, `references/handoff.md`, `references/delivery.md` and the matching case); a low-fidelity prototype; and one round of the three to five highest-risk questions from `references/stress-test.md`, opening with the pre-mortem.
 
 ```
 PROPOSAL — [deck name]
@@ -182,6 +182,7 @@ I. [Part] — job
   1. [Title] — evidence — visual — [mark]
 …
 Visual concept: … · Global rules: … · Build: [option] — [why]
+Speaker notes (live or hybrid): where they come from · the hook's exact line
 Pending [TO CONFIRM]: …
 ```
 
