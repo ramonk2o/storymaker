@@ -96,7 +96,7 @@ Then ask the case's diagnosis questions the material and conversation leave open
 
 ## Phase 1 — Map
 
-You propose, the user adjusts. Skip any step the material or the conversation already answers.
+You propose, the user adjusts. What the user already decided (the topics they bring, their order, a split of time) stays; a change the material calls for is a labeled proposal with the reason, shown next to their version, and their answer decides. Skip any step the material or the conversation already answers.
 
 **1.1 Terrain.** When the user is learning the subject, run the terrain research in `references/research.md` and bring it in one message: the central concepts and which depends on which, the mistakes learners typically make, where sources disagree, and the sources worth trusting. When the user knows the subject, ask them for the mistakes they see learners make instead.
 
@@ -120,7 +120,7 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
 
 With practice afterwards, a module drops the practice and the hinge question, and the recall becomes `Builds on: [what it uses from an earlier module or from what learners already know]`, a line in the map only; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
 
-Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
+Read only the key ideas in order: they must tell the whole lesson, each standing on the ones before it: a recall or Builds on that points to a later module, not an earlier one or what learners already know, means reordering the modules or moving what it needs earlier, as a proposal when the order was the user's. Taught live (in the room or online), the minutes of the opening, the modules and the close add up to about 80% of the duration, and the rest is buffer, shown on the map's Format line; self-study has none.
 
 **1.5 Stress round.** Read `references/stress-test.md` and open with its pre-mortem. Further rounds only for branches left open.
 

@@ -87,7 +87,7 @@ Then ask the case's diagnosis questions the material and conversation leave open
 
 ## Phase 1 — Story
 
-You propose, the user adjusts. Skip any step the material or the conversation already answers.
+You propose, the user adjusts. What the user already decided (the points they bring, their order, a split of time) stays; a change the material calls for is a labeled proposal with the reason, shown next to their version, and their answer decides. Skip any step the material or the conversation already answers.
 
 **1.1 Message.** One message that brings:
 - **Central idea:** one sentence with a point of view (someone could disagree) and what is at stake for this audience (what they gain or lose). The case file shows how to phrase it. If the user has a clear view, phrase it more sharply and add one alternative that would make a different deck; if not, propose two or three candidates. Label alternatives as proposals, so approving the idea is a choice.
