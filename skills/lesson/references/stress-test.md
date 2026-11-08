@@ -5,7 +5,7 @@ Used in step 1.5 and in the light proposal. The goal is to press the map until i
 ## How to run it
 - Use the question-round format from `SKILL.md`.
 - **Open with the pre-mortem.** "The lesson happened, and a week later the learners can't [objective]. Why?" Recommend the two or three most likely reasons for this lesson and these learners, each with how the map answers it. Imagining a failure that already happened surfaces risks a plain critique misses. With practice afterwards: "A week later they haven't tried it, or tried and got stuck. Why?"
-- **Ground each question in this map.** Find the weak spot (a module with no practice, a key idea that needs a term defined later, a time budget that only works if nothing goes wrong) and recommend how to fix it. A generic question gets a rubber-stamp answer.
+- **Ground each question in this map.** Find the weak spot (a module with no practice when practice happens in the lesson, a key idea that needs a term defined later, a time budget that only works if nothing goes wrong) and recommend how to fix it. A generic question gets a rubber-stamp answer.
 - **Follow the tree.** The objective first; only once it is firm, the other branches. Usually one or two rounds are enough; in the light path, a single round.
 - The bank below is a menu, not a script. Add the "Specific stress test" questions from the case file.
 

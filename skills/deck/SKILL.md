@@ -34,7 +34,7 @@ Recommend one in the Opening, with a one-line reason.
 - **Full** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or will be presented under the user's name to many people. Two gates.
 - **Express** — an internal, low-risk, short or recurring deck, or the slides of a lesson whose map was approved, unless they face clients or the public. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
 
-**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo.
+**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short, low-risk deck costs little to redo, or because a lesson map already approved its content.
 
 ## How to run it
 

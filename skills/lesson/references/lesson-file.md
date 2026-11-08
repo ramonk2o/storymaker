@@ -61,7 +61,7 @@ Used in step 1.6 (the sample module) and in Phase 2 (writing). The lesson is del
 - A `[TO CONFIRM]` marker stays visible in the text and is listed in the delivery note.
 
 ## When practice comes afterwards
-- A module keeps its key idea, explanation, **Example** and **Watch out**; it drops **Recall**, **Try it** and **Check**, and may carry one **Question for the room:** [question], with its answer in the teacher block.
+- A module keeps its key idea, explanation, **Example** and **Watch out**; it drops **Recall**, **Try it** and **Check**, and one or two modules in the whole lesson carry a **Question for the room:** [question], with its answer in the teacher block.
 - "Why this matters" opens with the hook.
 - "Final task" becomes **Try it on your own:** the case (one of their own), the steps, what a good result looks like and where to look when stuck. Its teacher block says how to introduce it and where people usually get stuck.
 - The teacher blocks carry what to say, so they become the talk's script and, in slides, the speaker notes.

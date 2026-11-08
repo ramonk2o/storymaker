@@ -35,7 +35,7 @@ The stage where people go wrong most often.
 
 ## Pitfalls
 - Teaching every feature instead of the task.
-- Demonstrating without the learners doing it.
+- Demonstrating without the learners doing it, when practice happens in the lesson.
 - Screenshots that will be outdated by next month without a date or source.
 - No reference card or link to use afterwards.
 

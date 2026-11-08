@@ -118,7 +118,7 @@ M1. [Key idea: the module's conclusion as a full sentence, about 15 words]
     ~[minutes]
 ```
 
-With practice afterwards, a module drops the recall, the practice and the hinge question, and may keep one quick question to the room; the opening is a hook tied to the one thing, and the close is the take-home challenge.
+With practice afterwards, a module drops the recall, the practice and the hinge question; one or two modules in the whole lesson carry a quick question to the room (`Question for the room: …`, with its answer). The opening starts with a hook tied to the one thing, and the close brings the take-home challenge before the recap and the questions for later.
 
 Read only the key ideas in order: they must tell the whole lesson. The minutes add up to the duration.
 

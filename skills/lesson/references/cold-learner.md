@@ -39,7 +39,7 @@ At the end:
 ```
 
 ## With practice afterwards
-The learner works through the lesson as a listener or reader, then tries the challenge as they would at home. In the prompt, item 1 becomes "Answer the question for the room, if the module has one" and item 3 becomes "Do the 'Try it on your own' challenge on a plausible case of yours, following its steps and showing your work; say where you got stuck".
+The learner works through the lesson as a listener or reader, then tries the challenge as they would at home. In the prompt, item 1 becomes "Answer the question for the room, if the module has one" and item 3 becomes "Do the 'Try it on your own' challenge on a plausible case of yours, following its steps and showing your work; say where you got stuck". When the challenge needs a tool the learner doesn't have, it describes each step it would take, and is judged on whether the steps are complete and correct.
 
 ## Using the answers
 - Compare each answer with the Answers section and the teacher blocks. A wrong hinge answer that matches one of its planned wrong options means the module didn't take that mistake apart; one that matches none means the question or the explanation is unclear.
