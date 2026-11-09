@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-11-09
+
+Lets a lesson leave practice for afterwards, adds counting scripts to post and lesson, and makes how much is still open choose each skill's path while the stakes choose its checks.
+
 ### Added
 
 - lesson: practice can happen in the lesson or afterwards, on the learners' own. A lesson with practice afterwards (expository, close to a talk) keeps each module's key idea, worked example and mistake, opens with a hook, may ask a quick question to the room and ends with a take-home challenge, which the cold learner tries. A talk meant to teach is now in scope, and the description names it.
