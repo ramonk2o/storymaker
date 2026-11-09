@@ -32,7 +32,7 @@ Answer briefly:
 
 ## Prompt 2 — the whole post
 ```
-You are [the same reader profile]. You stopped and now see the whole post. Read it as that person would, and answer briefly:
+You are [the same reader profile], on [network]. You stopped and now see the whole post. Read it as that person would, and answer briefly:
 3. In one sentence, what did this post tell you?
 4. Did the rest give you what the opening promised?
 5. At which post or slide would you have stopped? Quote its first words.
@@ -45,7 +45,7 @@ Answer only from the post; don't guess what the author meant.
 [post]
 ```
 
-For a short post that fits whole before the "see more" cut, merge both prompts into one call, skipping questions 4, 5 and 8. When it runs past the cut, keep the two calls and skip only 5 and 8 in the second.
+For a short post that fits whole before the "see more" cut, merge both prompts into one call, with Prompt 1's framing and the whole post as what the feed shows, skipping questions 2, 4, 5 and 8. When it runs past the cut, keep the two calls and skip only 5 and 8 in the second.
 
 ## Using the answers
 - A "no" on answer 1 sends you back to the hook; answer 2 against the script shows whether the hook promises the right thing, and answer 4 whether the post pays it off.
