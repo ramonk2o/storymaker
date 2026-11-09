@@ -9,6 +9,11 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Motivation:** The deck trigger suite (2026-11-08) case `deck-lesson-file`, a finished lesson pasted with "transforma essa aula em slides", fired deck in 2 of 3 runs: the deck's description speaks of content that "isn't settled" and the lesson's says "not for slides of settled content", so the model sometimes built slides with no skill. Accepted for now because the main path in is the lesson skill's handoff, which loads the deck directly.
 - **Description:** The deck's description admits a lesson file's slides (e.g. "or a lesson file's slides"), within the 600-character limit, with more lesson-file cases in the suite.
 
+### A hybrid deck's reading notes are lost when it is shared as a PDF
+- **Type:** Bug
+- **Motivation:** Cold reader test of the deck change `deck-cold-reader-format` (2026-11-08): a hybrid deck presented to the board, then sent "as a PDF to the directors who weren't there". `references/delivery.md` writes hybrid notes as "full reading text, so someone who gets the file later understands the slide without the presenter", but a PDF or a view-only link doesn't carry them, and nothing links how the deck will be shared (weighed when choosing how to build in `references/handoff.md`) to where those notes go. The absent readers get slides written to lean on notes they never see; the cold reader, which now gets the hybrid deck without notes in a PDF, catches it only after the build.
+- **Description:** When a hybrid deck will be shared in a form that drops speaker notes, the choice of how to build says so and proposes where the reading text goes (on the slides, a file that keeps notes, or a written summary sent with it), before the Production plan or the express proposal is approved.
+
 ## post
 
 ### No first reply for a long single post or a request mixing paths
