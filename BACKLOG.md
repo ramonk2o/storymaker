@@ -2,13 +2,6 @@
 
 Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each entry starts from a real case. Done work leaves this file: what changed goes to CHANGELOG.md.
 
-## Plugin
-
-### A how-to blog post or a written tutorial fits both essay and lesson
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). essay leaves out "written tutorials learners work through" but offers a How-to arc for practical blog posts; lesson takes "a written tutorial or guide that learners work through and practise with" and leaves out only posts "to readers who won't practise it". Readers of a how-to post follow its steps, so "a blog post on how to set up webhooks" can be claimed by both (an essay outline against modules, hinge questions and a final task), against principle 1. lesson's description names only "a class, training, workshop or teaching talk", so a request for a study guide or tutorial may fire neither.
-- **Description:** Both Starting sections draw the same line: material built around exercises or checks the reader does is a lesson; a post that shows the steps without practice is an essay. lesson's description names self-study tutorials and guides, within the 600-character limit, with cases for both sides in the trigger suites.
-
 ## Discarded
 
 ### Likely questions for a deck nobody presents
