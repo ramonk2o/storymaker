@@ -25,7 +25,7 @@ Takeaway + proof.
 
 ## Recommended arcs
 - **Lesson learned**, **How-to** or **Thesis first** (a take), by what the post does.
-- **Newsletter issue:** one main item in one of those arcs, then short items. Its subject line and preview text are its title and opening; plan both. A recurring issue reuses the last issue's style sheet and structure, and takes the light path.
+- **Newsletter issue:** one main item in one of those arcs, then short items. Its subject line and preview text are its title and opening; plan both. A recurring issue reuses the last issue's style sheet and structure, which makes its voice known, and takes the light path when its position is settled.
 
 ## Specific stress test
 - Could anyone have written this, or does it carry what only the author saw?

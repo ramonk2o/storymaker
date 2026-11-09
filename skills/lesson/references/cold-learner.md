@@ -1,6 +1,6 @@
 # Cold learner
 
-Used in Phase 2, step 5 (run in the full path and with high stakes, offered otherwise). A cold learner checks whether the lesson teaches what it means to: someone with the learners' starting point works through the material and does its checks and its final task without the answers. Where they fail, the lesson failed.
+Used in Phase 2, step 5 (run in the full path, and in the light path when the stakes are high; offered otherwise). A cold learner checks whether the lesson teaches what it means to: someone with the learners' starting point works through the material and does its checks and its final task without the answers. Where they fail, the lesson failed.
 
 ## Running the check
 - If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file and not to search.
