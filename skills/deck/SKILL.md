@@ -32,11 +32,11 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 Recommend one in the Opening, with a one-line reason. How much is still open chooses the mode; the stakes choose the checks in express mode.
 
-- **Full** — any deck Express doesn't cover, such as a long or new deck whose message or shift in the audience is still open. Two gates.
-- **Express** — the content is settled or the deck is short and familiar: a recurring update, a short internal deck, the slides of a lesson file. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
+- **Full** — everything else: for example, a long deck that isn't a recurring update or a lesson's slides. Two gates.
+- **Express** — the content is settled (a recurring update, the slides of a lesson file), or the deck is short: about 15 minutes or 10 slides or fewer. Same Opening, then one message with the whole proposal and a prototype, and one gate. If something changes the course midway (the audience is different, the main figure doesn't exist, the central idea doesn't hold), suggest switching to full mode.
 - **Stakes** — a deck that goes to a client, asks for a decision, money or approval, faces a skeptical room or puts the user's reputation directly at play is high stakes; presenting to many people under the user's name isn't on its own. In express mode, high stakes run the cold reader on the titles before the gate instead of offering it. Say which applies in the first round.
 
-**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short or familiar deck costs little to redo, or because the lesson already approved its content.
+**Why the gates sit where they do.** Gate 1 closes what the deck says before any visual work, because a visual built on a story that later moves is thrown away. Gate 2 closes how it looks and how it is built before the build, because a built deck is the most expensive thing to redo. Express mode joins them because a short or settled deck costs little to redo, or because the lesson already approved its content.
 
 ## How to run it
 
