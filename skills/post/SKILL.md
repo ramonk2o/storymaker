@@ -145,7 +145,7 @@ Sources: … · Left out: …
 Pending [TO CONFIRM]: …
 ```
 
-Below the block, the hooks as the reader will see them, then the sample passage. Ask for the hook choice and explicit approval in the same message. Approval counts for the script as shown: when the user picks another hook, or an answer changes the central idea, the script, the reader or the voice, the next reply brings the revised script, with the sample passage rewritten from the chosen hook, and asks for approval again; answers that only fill a pending item or adjust wording approve it. With several networks, one block per network under the shared central idea.
+Below the block, the hooks as the reader will see them, then the sample passage. Ask for the hook choice and explicit approval in the same message. Approval counts for the script as shown: when the user picks another hook, or an answer changes the central idea, the script, the reader or the voice, the next reply brings the revised script, with the sample passage rewritten from the chosen hook, and asks for approval again; an approval that comes with answers that only fill a pending item or adjust wording stands. With several networks, one block per network under the shared central idea.
 
 For the short path:
 
