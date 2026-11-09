@@ -16,13 +16,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 
 ## post
 
-### No first reply for a long single post or a request mixing paths
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). Paths sends "a post long enough that its order matters" (over about 150 words, a common LinkedIn post) to the script path, but Starting only has bullets for "Short post" (reply with the draft) and "Thread or carousel" (offer or Opening), so for "write a LinkedIn post about my layoff" the model guesses between a draft and an offer. The same gap for one idea going to networks on different paths ("this article as a LinkedIn post and an X thread"): "each network follows its own path inside the same gate" doesn't say whether the short post is drafted now or held for the Post script.
-- **Description:** Starting covers the long single post, called by name and by subject, with the same first reply as its path; a request where any network takes the script path follows the script path, with the short units drafted inside the Post script.
-- **Open questions:**
-  - Is the length known at the start, or does the first reply pick the path from the request and the network?
-
 ### The short post's cold reader tests the stop after reading the whole post
 - **Type:** Bug
 - **Motivation:** Consistency audit (2026-11-08). `references/cold-reader.md` tests the stop first because "a reader handed the whole post can't unread it", then says "For a short post, merge both prompts into one call". A short post of up to 150 words usually runs past the "see more" cut, so the merged call asks whether the reader would stop after they read everything: the test principle post-1 depends on, on the high-stakes posts where the reader is required.
