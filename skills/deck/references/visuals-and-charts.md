@@ -41,7 +41,7 @@ A deck where every slide has the same layout — a headline, three rounded cards
 ## Density by format
 - **Live:** little text; the presenter tells the story. On screen, only short key phrases, never the sentences the presenter will say: reading and listening to the same words at once hurts understanding. Speaker notes carry the detail; type large enough for the back of the room.
 - **Reading:** the slide explains itself — assertion title, visual, one or two sentences reading the chart. More density is fine, with a clear hierarchy.
-- **Hybrid:** slides designed for the room; speaker notes written as full reading text for whoever gets the file later. If the deck will circulate beyond the room, put a one-slide annotated summary at the front of the appendix.
+- **Hybrid:** slides designed for the room; speaker notes written as full reading text for whoever gets the file later, in a separate Markdown file when the shared form drops notes (`handoff.md`). If the deck will circulate beyond the room, put a one-slide annotated summary at the front of the appendix.
 
 ## Identity materials to ask for
 - Brand manual (colors, typography, logo use).

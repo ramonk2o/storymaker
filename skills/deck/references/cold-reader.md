@@ -10,7 +10,7 @@ Used in step 1.3 (before Gate 1, or the single gate in express, on the slide tit
 
 ## What the reader receives
 - The audience profile: role, what they know about the subject, what they believe and do about it today.
-- Before Gate 1 (or the single gate): the slide titles, in order. After the build: the finished deck as the audience will receive it, as images or a PDF of the rendered slides. Live or to read: without speaker notes. Hybrid: as it will be sent to those who weren't there, with the speaker notes when they travel in the file, without them in a PDF or a view-only link (how it will be shared, weighed when choosing how to build in `handoff.md`).
+- Before Gate 1 (or the single gate): the slide titles, in order. After the build: the finished deck as the audience will receive it, as images or a PDF of the rendered slides. Live or to read: without speaker notes. Hybrid: as it will be sent to those who weren't there, with the speaker notes, in the file or in the separate notes file that goes with a PDF or a view-only link (`handoff.md`).
 - Never the conversation, the objective, the central idea, the intended shift or your notes. Check that the profile doesn't hint at what the deck wants.
 
 ## Prompt

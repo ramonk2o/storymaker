@@ -160,7 +160,7 @@ Adjust with the user's reaction before moving on.
 ```
 PRODUCTION PLAN — [deck name]
 Visual concept: … · Global rules: palette · type · density · charts · images
-Template/identity: … · Build: [option] — [why]
+Template/identity: … · Build: [option] — [why] · Hybrid: shared as … · notes in the file | in a separate .md
 Prototype: approved
 
 Slide 1 — [Title] — [mark]
@@ -185,7 +185,7 @@ Storyline
 I. [Part] — job
   1. [Title] — evidence — visual — [mark]
 …
-Visual concept: … · Global rules: … · Build: [option] — [why]
+Visual concept: … · Global rules: … · Build: [option] — [why] · Hybrid: shared as … · notes in the file | in a separate .md
 Speaker notes (live or hybrid): source (the material, the presenter's points, or written here) · style · the hook's exact line
 Cold reader: [what diverged and what changed, or "not run"]
 Pending [TO CONFIRM]: …
