@@ -1,6 +1,6 @@
 # Fact check
 
-Used in Phase 2, step 4. A lesson's learners believe what it says, so every fact it presents as true is checked against its source by someone who didn't write it and doesn't know which facts the writer was unsure of.
+Used in Phase 2, step 4 (run when the lesson states researched facts or ones the user wasn't sure of, or with high stakes; offered otherwise). A lesson's learners believe what it says, so every fact it presents as true is checked against its source by someone who didn't write it and doesn't know which facts the writer was unsure of.
 
 ## Running the check
 - If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it. It may search the web if the session allows; it doesn't open any other file.

@@ -29,10 +29,11 @@ If a request turns out midway to be out of scope, say so in one line and offer t
 
 ## Paths
 
-Recommend one in the Opening, with a one-line reason. When a lesson fits both, recommend the lighter and name what would make it heavier.
+Recommend one in the Opening, with a one-line reason. How much is still open chooses the path; the stakes choose the checks on the light path.
 
-- **Full** — the user is learning the subject to teach it; the learners are clients, students or the public; the lesson runs over about an hour; or a wrong fact would harm someone (health, money, law, safety). Every phase, the gate and both checks.
-- **Light** — the user knows the subject well, and the lesson is internal, short, low-risk or recurring. After the Opening (and a change to what the user decided, asked first), one message brings the whole proposal (steps 1.2 to 1.4 by their rules, with the cut and the time budget in a few lines, and each module's mistake taken from what the Opening heard learners get wrong or, where it left that open, a typical mistake of the subject marked `(hypothesis)`, not `[TO CONFIRM]`, for the gate to confirm) with the sample module, and one round of the three to five highest-risk questions from `references/stress-test.md`. One gate. If something changes the course (the user isn't sure of the content, the learners are outsiders, the time doesn't fit), suggest switching to full.
+- **Full** — everything else: for example, a subject the user is learning to teach, or a new lesson over about an hour. Every phase, the gate and the checks Phase 2 runs.
+- **Light** — the user knows the subject well, and the lesson runs about an hour or less, recurs, or its content is settled. After the Opening (and a change to what the user decided, asked first), one message brings the whole proposal (steps 1.2 to 1.4 by their rules, with the cut and the time budget in a few lines, and each module's mistake taken from what the Opening heard learners get wrong or, where it left that open, a typical mistake of the subject marked `(hypothesis)`, not `[TO CONFIRM]`, for the gate to confirm) with the sample module, and one round of the three to five highest-risk questions from `references/stress-test.md`. One gate. If something changes the course (the user isn't sure of the content, the time doesn't fit), suggest switching to full.
+- **Stakes** — learners who are clients or likely to resist, a lesson that puts the user's reputation directly at play, or a wrong fact that could harm someone (health, money, law, safety) make it high stakes; teaching students or the public isn't on its own. Say which applies in the first round.
 
 **Why the gate sits where it does.** The gate closes the objective, the cut and the module map before the deep research and the writing, because both are spent on what the map keeps: research done before the cut is wasted on what gets cut, and a lesson written on an objective or an order that later moves is rewritten whole. The sample module lets the user judge depth, tone and practice on real material. There is no second gate: nothing after writing depends on a new decision, and fixes the checks call for are approved one by one.
 
@@ -132,7 +133,7 @@ Read only the key ideas in order: they must tell the whole lesson, each standing
 
 ```
 LESSON MAP — [lesson name]
-Path: full | light · Kind: … · Command of the subject: knows it | learning to teach
+Path: full | light · Stakes: high | low · Kind: … · Command of the subject: knows it | learning to teach
 Learners: … · They know … · They usually get wrong …
 Before this lesson: [prerequisites, or none]
 Format: live | online | self-study · duration (practice share, or "practice afterwards") · buffer · group · who teaches · practice: in the lesson | afterwards
@@ -156,8 +157,8 @@ Show the sample module below the block as the learner will read it. Ask for expl
 1. **Research** what the gate left to research, as `references/research.md` says, from a brief built on the map. What comes back is material with its sources; if it contradicts the map, stop and reopen the gate rather than writing around it.
 2. **Write** from the Lesson map as a closed specification, following `references/writing.md`, `references/lesson-file.md` and the case file, module by module, in order. If a module can't be written as planned (the fact isn't there, the practice doesn't fit the time), stop and go back to the map.
 3. **Revise:** each module lands its key idea, every practice has its answer, every fact its source, and the minutes still fit, with the buffer.
-4. **Fact check:** run it as `references/fact-check.md` says whenever the lesson states facts that came from research or that the user wasn't sure of; otherwise offer it in one line.
-5. **Cold learner:** run it as `references/cold-learner.md` says. Full path: run it. Light path: offer it in one line.
+4. **Fact check:** run it as `references/fact-check.md` says whenever the lesson states facts that came from research or that the user wasn't sure of, or when the stakes are high; otherwise offer it in one line.
+5. **Cold learner:** run it as `references/cold-learner.md` says. Run it in the full path, and in the light path when the stakes are high; otherwise offer it in one line.
 
 With a separate agent, run the checks before showing the lesson, and bring in one message the lesson, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the map; fixes that change no decision go straight. Without a separate agent, show the lesson first, with the filled prompts the check files give, and bring the fixes once the user pastes the answers back.
 

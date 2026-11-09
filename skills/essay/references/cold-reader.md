@@ -1,6 +1,6 @@
 # Cold reader
 
-Used in Phase 3 (run in the full path, offered in the light path). A cold reader checks whether the text works for someone who has only the text, which is exactly the situation of its real reader, and outlines it back so you can see where the writing drifted from the plan.
+Used in Phase 3 (run in the full path, and in the light path when the stakes are high; offered otherwise). A cold reader checks whether the text works for someone who has only the text, which is exactly the situation of its real reader, and outlines it back so you can see where the writing drifted from the plan.
 
 ## Running the check
 - If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
