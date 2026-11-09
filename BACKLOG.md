@@ -14,13 +14,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Motivation:** Cold reader test of the deck change `deck-cold-reader-format` (2026-11-08): a hybrid deck presented to the board, then sent "as a PDF to the directors who weren't there". `references/delivery.md` writes hybrid notes as "full reading text, so someone who gets the file later understands the slide without the presenter", but a PDF or a view-only link doesn't carry them, and nothing links how the deck will be shared (weighed when choosing how to build in `references/handoff.md`) to where those notes go. The absent readers get slides written to lean on notes they never see; the cold reader, which now gets the hybrid deck without notes in a PDF, catches it only after the build.
 - **Description:** When a hybrid deck will be shared in a form that drops speaker notes, the choice of how to build says so and proposes where the reading text goes (on the slides, a file that keeps notes, or a written summary sent with it), before the Production plan or the express proposal is approved.
 
-## post
-
-### The short post's cold reader tests the stop after reading the whole post
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). `references/cold-reader.md` tests the stop first because "a reader handed the whole post can't unread it", then says "For a short post, merge both prompts into one call". A short post of up to 150 words usually runs past the "see more" cut, so the merged call asks whether the reader would stop after they read everything: the test principle post-1 depends on, on the high-stakes posts where the reader is required.
-- **Description:** Merge the two calls only when the whole post fits before the cut; otherwise the first call gets the text before the cut, then the second the whole post.
-
 ## Plugin
 
 ### The after-checks rules drifted between skills
