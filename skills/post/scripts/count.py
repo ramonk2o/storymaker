@@ -8,9 +8,12 @@ are separated by a line holding only ---. Read from stdin when no file is given.
 
 Characters are counted as the reader sees them: accented letters, emoji built
 from several code points and flags count once. The network's own weighting
-comes from the plan (references/research.md), never from this script:
-  --url N   each link counts as N characters (e.g. 23 on X)
-  --wide N  each emoji or wide (CJK) character counts as N (e.g. 2 on X)
+comes from the plan (references/research.md), never from this script or
+from memory:
+  --url N   each link counts as N characters (links with http(s)://, www.
+            or a bare domain such as example.com; trailing punctuation is
+            left out of the link)
+  --wide N  each emoji or wide (CJK) character counts as N
   --cut N   show where the "see more" cut falls in the first unit
 """
 import argparse
@@ -18,7 +21,8 @@ import re
 import sys
 import unicodedata
 
-URL = re.compile(r"https?://\S+|www\.\S+")
+URL = re.compile(r"(?:https?://|www\.)\S+|\b[\w-]+(?:\.[\w-]+)*\.[a-z]{2,}(?:/\S*)?", re.I)
+TRAIL = ".,;:!?)]}\"'»”’"
 JOINERS = {"‍", "︎", "️"}
 
 
@@ -57,9 +61,12 @@ def weigh(text, url, wide):
     total = 0
     pos = 0
     for m in URL.finditer(text):
+        link = m.group().rstrip(TRAIL)
+        if "@" in text[max(0, m.start() - 1):m.start()]:
+            continue  # part of an email address or a mention
         total += weigh_plain(text[pos:m.start()], wide)
-        total += url if url else len(clusters(m.group()))
-        pos = m.end()
+        total += url if url else len(clusters(link))
+        pos = m.start() + len(link)
     return total + weigh_plain(text[pos:], wide)
 
 

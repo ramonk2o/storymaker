@@ -3,7 +3,7 @@
 Used before the first draft or script that depends on a network's rules, and when the post needs published facts beyond the material.
 
 ## Platform rules
-Character limits, how many posts a thread or slides a carousel can hold, slide proportions, where the "see more" cut falls, how links, mentions and hashtags behave and whether links lower reach change often and differ by network and by account type. Never take them from memory.
+Character limits, how many posts a thread or slides a carousel can hold, slide proportions, where the "see more" cut falls, how links, mentions, hashtags, emoji and other characters are counted and behave and whether links lower reach change often and differ by network and by account type. Never take them from memory.
 - When the session can search or read pages, look them up in the network's own help or developer documentation, and note the date. Third-party guides only for what the network doesn't document (where the cut falls on most screens, say), labeled as such.
 - When it can't, ask the user, or use a conservative margin and mark the figure `[TO CONFIRM]`.
 - Write the figures you used into the plan, so the user can correct them.

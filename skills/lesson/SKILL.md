@@ -156,7 +156,7 @@ Show the sample module below the block as the learner will read it. Ask for expl
 
 1. **Research** what the gate left to research, as `references/research.md` says, from a brief built on the map. What comes back is material with its sources; if it contradicts the map, stop and reopen the gate rather than writing around it.
 2. **Write** from the Lesson map as a closed specification, following `references/writing.md`, `references/lesson-file.md` and the case file, module by module, in order. If a module can't be written as planned (the fact isn't there, the practice doesn't fit the time), stop and go back to the map.
-3. **Revise:** each module lands its key idea, every practice has its answer, every fact its source, and the minutes still fit, with the buffer.
+3. **Revise:** each module lands its key idea, every practice has its answer, every fact its source, and the minutes still fit, with the buffer (counted as `references/writing.md` says).
 4. **Fact check:** run it as `references/fact-check.md` says whenever the lesson states facts that came from research or that the user wasn't sure of, or when the stakes are high; otherwise offer it in one line.
 5. **Cold learner:** in the full path, and in the light path when the stakes are high, run it as `references/cold-learner.md` says; otherwise offer it in one line.
 
