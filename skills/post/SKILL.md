@@ -39,7 +39,7 @@ The format decides the path; the stakes decide the checks.
 
 **One idea, several networks.** When the same idea goes to several networks, one plan holds one central idea and, per network, its own format, first unit, length and script (a draft, for a short post). When any network takes the script path, the whole request does: each short post is drafted in full inside the Post script, in its network's block, and approved at the same gate.
 
-**Why the gate sits where it does.** In a thread or carousel, the gate closes the point, the first unit and what each unit does before the rest is written, because the first unit decides whether anyone reads on, and every later unit pays off its promise: a hook that changes after writing means rewriting the whole thread. There is no second gate, since nothing after writing depends on a new decision; fixes the checks call for are approved one by one. A short post is cheaper to judge as a draft than as a plan, so its draft is the gate.
+**Why the gate sits where it does.** In a thread or carousel, the gate closes the point, the first unit and what each unit does before the rest is written, because the first unit decides whether anyone reads on, and every later unit pays off its promise: a hook that changes after writing means rewriting the whole thread. There is no second gate, since nothing after writing depends on a new decision; a fix the checks call for needs approval only when it changes an approved decision. A short post is cheaper to judge as a draft than as a plan, so its draft is the gate.
 
 ## How to run it
 
@@ -87,7 +87,7 @@ The first reply holds, in this order:
 - One line with another way in: the first line in a different angle (a scene, a number, the claim itself), so the user picks how the post opens on real sentences.
 - A round of at most three questions, the stakes first when it isn't obvious.
 
-Approval with answers that only fill placeholders or adjust wording approves the post: the next reply brings the final post with the checks that apply and the delivery options, without asking again. Answers that change what the post says reopen the draft.
+Approval with answers that only fill placeholders or adjust wording approves the post: the next reply brings the post with the checks that apply and the delivery options (read `references/handoff.md` first), without asking again; without a separate agent, the fixes and the options come once the answers are back. Answers that change what the post says reopen the draft.
 
 ## Opening (script path)
 
@@ -164,7 +164,7 @@ Pending: [placeholders in the draft]
 3. **Cold reader:** run it as `references/cold-reader.md` says when the stakes are high; offer it in one line otherwise. Compare its unit-by-unit summary with the script to find where the writing drifted.
 4. **Style check:** with high stakes, when the voice comes from the user's posts, reference texts or a named person, run it as `references/style-check.md` says; otherwise offer it in one line.
 
-With a separate agent, run the checks before showing the post, and bring in one message the post, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves; fixes that change no decision go straight.
+Read `references/handoff.md` before the message that brings the delivery options. With a separate agent, run the checks before showing the post, and bring in one message the post, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the plan; fixes that change no decision go straight into the post. Without a separate agent, show the post first, with the filled prompts the check files give, and bring the fixes, with the delivery options, once the user pastes the answers back.
 
 ## Deliver
 

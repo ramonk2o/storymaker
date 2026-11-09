@@ -4,14 +4,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 
 ## Plugin
 
-### The after-checks rules drifted between skills
-- **Type:** Debt
-- **Motivation:** Consistency audit (2026-11-08). Shared rules about the checks differ across skills (principle 11):
-  - essay, post, lesson and email say in "Why the gate sits where it does" that "fixes the checks call for are approved one by one", while their own Phase 3 (or check step) and principle 10 say only fixes that change an approved decision need approval and the rest "go straight", so the model can't tell whether to ask about each fix;
-  - only lesson says what happens without a separate agent ("show the lesson first … bring the fixes once the user pastes the answers back"); essay, post and email don't;
-  - essay, post and lesson bring "the delivery options" with the check results but read `references/handoff.md` only at Deliver, so the options are offered without its rules;
-- **Description:** One wording for each rule, in every skill that states it: only fixes that change a decision are approved; without a separate agent, the piece is shown first with the filled prompts; `handoff.md` is read before the message with the check results.
-
 ### A how-to blog post or a written tutorial fits both essay and lesson
 - **Type:** Bug
 - **Motivation:** Consistency audit (2026-11-08). essay leaves out "written tutorials learners work through" but offers a How-to arc for practical blog posts; lesson takes "a written tutorial or guide that learners work through and practise with" and leaves out only posts "to readers who won't practise it". Readers of a how-to post follow its steps, so "a blog post on how to set up webhooks" can be claimed by both (an essay outline against modules, hinge questions and a final task), against principle 1. lesson's description names only "a class, training, workshop or teaching talk", so a request for a study guide or tutorial may fire neither.
