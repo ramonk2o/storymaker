@@ -5,4 +5,4 @@ max_turns: 4
 allowed_tools: [Skill]
 ---
 
-escreve um post pro blog da empresa sobre como configurar webhooks na nossa API
+escreve um tutorial pro blog da empresa sobre como configurar webhooks na nossa API
