@@ -164,7 +164,7 @@ Pending: [placeholders in the draft]
 3. **Cold reader:** run it as `references/cold-reader.md` says when the stakes are high; offer it in one line otherwise. Compare its unit-by-unit summary with the script to find where the writing drifted.
 4. **Style check:** with high stakes, when the voice comes from the user's posts, reference texts or a named person, run it as `references/style-check.md` says; otherwise offer it in one line.
 
-Read `references/handoff.md` before the message that brings the delivery options, with the check results or without them. With a separate agent, run the checks before showing the post, and bring in one message the post, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the plan; fixes that change no decision go straight into the post. Without a separate agent, show the post first, with the filled prompts the check files give, and bring the fixes, with the delivery options, once the user pastes the answers back.
+Read `references/handoff.md` before the message that brings the delivery options. With a separate agent, run the checks before showing the post, and bring in one message the post, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the plan; fixes that change no decision go straight into the post. Without a separate agent, show the post first, with the filled prompts the check files give, and bring the fixes, with the delivery options, once the user pastes the answers back.
 
 ## Deliver
 
