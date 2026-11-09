@@ -14,15 +14,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Motivation:** The deck trigger suite (2026-11-08) case `deck-lesson-file`, a finished lesson pasted with "transforma essa aula em slides", fired deck in 2 of 3 runs: the deck's description speaks of content that "isn't settled" and the lesson's says "not for slides of settled content", so the model sometimes built slides with no skill. Accepted for now because the main path in is the lesson skill's handoff, which loads the deck directly.
 - **Description:** The deck's description admits a lesson file's slides (e.g. "or a lesson file's slides"), within the 600-character limit, with more lesson-file cases in the suite.
 
-## email
-
-### Picking another move at the Strategy gate approves Blocks the user never saw
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). The Strategy card's Message and Blocks are written for the recommended move, and the gate asks "for the choice of move and explicit approval in the same message". A reply like "move 2, approved" approves Blocks written for move 1, and Write then follows the card "one block per card line": the model either invents blocks for move 2 or writes move 1's blocks under move 2's opening. The same happens when a pre-mortem answer changes the card. Against principle 8 (at a gate the user judges real text).
-- **Description:** Approval counts for the card as shown. When the user picks another move, or an answer in the round changes the Message, Blocks, readers or tone, the next reply shows the revised card and asks for approval again.
-- **Open questions:**
-  - Re-ask after the change, or settle the move before the Blocks are drafted (one more turn on every full email)?
-
 ## post
 
 ### No first reply for a long single post or a request mixing paths
