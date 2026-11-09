@@ -36,6 +36,7 @@ applied to how the skills behave.
 - deck: a deck handed over by the lesson skill no longer offers itself again before starting.
 - lesson: taught live, the minutes of the opening, the modules and the close add up to about 80% of the duration, the time budget and the practice share count from there, and the map shows the rest as buffer, instead of filling the slot that `learning.md` says runs about 20% over.
 - email, post: approval at the Strategy card or the Post script counts for the plan as shown. Picking another move or hook, or an answer that changes what the plan says, brings the revised plan, in post with the sample passage rewritten from the chosen hook, and asks for approval again, so the user never approves blocks or a sample written for another option. The revised plan comes whole, with the changes marked; the pre-mortem isn't rerun, but a change that undoes how it resolved an objection is named in one line. A changed fact, figure, name or date counts as a change, not wording.
+- deck: when the build option leaves no rendered deck (a prompt for an external tool, a build checklist), the cold reader's filled prompt goes with the delivery, marked pending, to run on the exported slides. The prompt's framing follows the format: presented live, sent to read alone, or, for a hybrid deck, missed and read afterwards, with the speaker notes when they travel in the file.
 
 ## [0.4.1] - 2026-11-07
 
