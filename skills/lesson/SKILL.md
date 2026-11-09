@@ -1,6 +1,6 @@
 ---
 name: lesson
-description: "Plans a lesson with the user before writing it: what learners should be able to do at the end and how they'll show it, what to cut, and a map of every module with its example, the mistake it fixes and its practice, judged on one module; researches it when the user isn't an expert; then writes it, checks its facts and tests it on a fresh learner. Use for a class, training, workshop, teaching talk, tutorial or guide, even for a blog, on any subject, in any language (e.g., 'help me build a class on compound interest', 'monta uma aula sobre IA'). Not for slides of settled content or whole courses."
+description: "Plans a lesson with the user before writing it: what learners should be able to do at the end and how they'll show it, what to cut, and a map of every module with its example, the mistake it fixes and its practice, judged on one module; researches it when the user isn't an expert; then writes it, checks its facts and tests it on a fresh learner. Use for a class, training, workshop, teaching talk, tutorial or guide on any subject, in any language (e.g., 'help me build a class on compound interest', 'monta uma aula sobre IA'). Not for blog explainers, slides of settled content or whole courses."
 ---
 
 # Lesson
