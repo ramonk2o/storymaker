@@ -6,7 +6,7 @@ Used in steps 2.1 and 2.2, in the express proposal and in the rendered review. T
 The audience should get each slide's point in about three seconds. One point per slide, the claim in the title, and contrast, size and white space spent on what the title claims. If a stranger can't say what the slide claims after a glance, the slide is redone, not decorated.
 
 ## Explanations are drawn
-When a slide explains (who does what, what happens on its own and what doesn't, how one thing relates to another, how something works), its body draws that explanation instead of describing it: the actors as shapes, the actions as labeled arrows, the relationship as the layout. Two mechanisms compared are drawn the same way, side by side, so the one difference stands out. A slide whose title only states a conclusion, a figure or an ask doesn't need a drawing. An explaining slide left as text is the exception, and the Production plan says why.
+When a slide's body would otherwise be sentences describing who does what, what happens on its own and what doesn't, what causes what or how something works, it draws that explanation instead: the actors as shapes, the actions as labeled arrows, the relationship as the layout. Two mechanisms compared are drawn the same way, side by side, so the one difference stands out. A slide whose body is evidence (a chart, a number, a quote) or an ask doesn't need a drawing. An explaining slide left as text is the exception, and the plan says why: the Production plan, or in express mode the slide's visual in the Proposal.
 
 ## From message to visual
 
