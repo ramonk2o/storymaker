@@ -1,5 +1,5 @@
 ---
-description: fires deck on slides for an approved workshop plan with modules, exercises and timing
+description: fires deck on slides for an approved workshop outline that is not a lesson file (the training case)
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]
