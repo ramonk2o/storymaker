@@ -22,7 +22,7 @@ Look at images or a preview of the slides, not only the code or text behind them
 
 - **Against the plan:** every slide present, exact titles, correct data, highlight on the figure the title claims, speaker notes in place.
 - **Glance test:** each slide's point readable in about three seconds; one point per slide.
-- **Proof:** each visual proves its title; nothing decorative or merely interesting that doesn't serve it.
+- **Proof:** each visual proves its title; nothing decorative or merely interesting that doesn't serve it; a slide that explains (actors, actions, relationships) is drawn, not left as text, unless the plan says why.
 - **Rhythm:** no more than three dense slides in a row; the hook, the memorable moment and the close stand out from the slides around them.
 - **Form:** text cut off, overflowing or overlapping; a title past two lines; type too small for the format; weak contrast; a chart missing source and period; the same color meaning different things.
 - **Concept:** the visual concept holds across the deck; layouts vary by the slide's job instead of repeating one stock layout everywhere.
