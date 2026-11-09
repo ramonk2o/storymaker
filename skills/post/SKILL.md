@@ -160,7 +160,7 @@ Pending: [placeholders in the draft]
 ## Write and check
 
 1. **Write** from the Post script as a closed specification, following `references/writing.md`, the case file and the voice: one unit per line, in order. If a unit can't be written as planned (the fact isn't there, it breaks the limit), stop and go back to the script rather than improvising.
-2. **Revise:** each unit makes its line's claim, fits its limit, and the post sounds like the sample.
+2. **Revise:** each unit makes its line's claim, fits its limit (counted as `references/handoff.md` says), and the post sounds like the sample.
 3. **Cold reader:** run it as `references/cold-reader.md` says when the stakes are high; offer it in one line otherwise. Compare its unit-by-unit summary with the script to find where the writing drifted.
 4. **Style check:** with high stakes, when the voice comes from the user's posts, reference texts or a named person, run it as `references/style-check.md` says; otherwise offer it in one line.
 
