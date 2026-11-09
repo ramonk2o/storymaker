@@ -153,7 +153,7 @@ Pending: [placeholders in the draft]
 3. **Cold reader:** run it as `references/cold-reader.md` says in the full path; offer it in one line in the light path.
 4. **Intensity:** one line offering a firmer or a softer version, naming what would change.
 
-Read `references/handoff.md` before the message with the check results. With a separate agent, run the check before showing the email, and bring in one message the email, what the readers said with the fixes you propose, and the delivery. A fix that changes an approved decision (the move, a tone position, what is said or to whom) is a proposal the user approves and is written back into the card; fixes that change no decision go straight. Without a separate agent, show the email first, with the filled prompts `references/cold-reader.md` gives, and bring the fixes once the user pastes the answers back.
+Read `references/handoff.md` before the message that brings the delivery. With a separate agent, run the check before showing the email, and bring in one message the email, what the readers said with the fixes you propose, and the delivery. A fix that changes an approved decision (the move, a tone position, what is said or to whom) is a proposal the user approves and is written back into the card; fixes that change no decision go straight into the email. Without a separate agent, show the email first, with the filled prompts `references/cold-reader.md` gives, and bring the fixes, with the delivery, once the user pastes the answers back.
 
 ## Deliver
 

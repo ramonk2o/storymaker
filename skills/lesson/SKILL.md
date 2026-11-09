@@ -160,7 +160,7 @@ Show the sample module below the block as the learner will read it. Ask for expl
 4. **Fact check:** run it as `references/fact-check.md` says whenever the lesson states facts that came from research or that the user wasn't sure of, or when the stakes are high; otherwise offer it in one line.
 5. **Cold learner:** run it as `references/cold-learner.md` says. Run it in the full path, and in the light path when the stakes are high; otherwise offer it in one line.
 
-Read `references/handoff.md` before the message with the check results. With a separate agent, run the checks before showing the lesson, and bring in one message the lesson, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the map; fixes that change no decision go straight. Without a separate agent, show the lesson first, with the filled prompts the check files give, and bring the fixes once the user pastes the answers back.
+Read `references/handoff.md` before the message that brings the delivery options, with the check results or without them. With a separate agent, run the checks before showing the lesson, and bring in one message the lesson, what each check found with the fixes you propose, and the delivery options. A fix that changes an approved decision is a proposal the user approves and is written back into the map; fixes that change no decision go straight into the lesson. Without a separate agent, show the lesson first, with the filled prompts the check files give, and bring the fixes, with the delivery options, once the user pastes the answers back.
 
 ## Deliver
 
