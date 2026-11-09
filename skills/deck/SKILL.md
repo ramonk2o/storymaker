@@ -153,7 +153,7 @@ As the story starts from a central idea, the visual starts from a **visual conce
 
 Adjust with the user's reaction before moving on.
 
-**2.2 Production plan.** Define every slide in one go: title (exactly the one in the Script; change it only with approval, and update the Script), visual (type, exact data, what to highlight), the minimum supporting text and, for live or hybrid decks, speaker notes. Add the likely questions with their answers, as `references/delivery.md` says. Before the gate, no `[TO CONFIRM]` is left.
+**2.2 Production plan.** Define every slide in one go: title (exactly the one in the Script; change it only with approval, and update the Script), visual (type, exact data, what to highlight; a slide that explains is drawn, as `references/visuals-and-charts.md` says), the minimum supporting text and, for live or hybrid decks, speaker notes. Add the likely questions with their answers, as `references/delivery.md` says. Before the gate, no `[TO CONFIRM]` is left.
 
 ### Gate 2 — Production plan
 

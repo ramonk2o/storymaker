@@ -5,6 +5,9 @@ Used in steps 2.1 and 2.2, in the express proposal and in the rendered review. T
 ## The glance test
 The audience should get each slide's point in about three seconds. One point per slide, the claim in the title, and contrast, size and white space spent on what the title claims. If a stranger can't say what the slide claims after a glance, the slide is redone, not decorated.
 
+## Explanations are drawn
+When a slide's body would otherwise be sentences describing who does what, what happens on its own and what doesn't, what causes what or how something works, it draws that explanation instead: the actors as shapes, the actions as labeled arrows, the relationship as the layout. Two mechanisms compared are drawn the same way, side by side, so the one difference stands out. A slide whose body is evidence (a chart, a number, a quote) or an ask doesn't need a drawing. An explaining slide left as text is the exception, and the plan says why: the Production plan, or in express mode the slide's visual in the Proposal.
+
 ## From message to visual
 
 | The title's message is about… | Recommended visual | Avoid |
@@ -20,6 +23,10 @@ The audience should get each slide's point in about three seconds. One point per
 | Comparing segments across several metrics | Small multiples, heatmap | One chart with 8 series |
 | One number that matters | Big number with context (vs. what) | A loose number |
 | Process or sequence | Diagram with steps | Bullet list |
+| How something works (actors, actions) | Diagram: actors as boxes, actions as labeled arrows | Sentences describing it |
+| Contrast between two models | The same diagram drawn twice, side by side, the difference highlighted | Two columns of text |
+| Before and after a change | Before/after in the same layout | Text describing the change |
+| An abstract idea | A concrete image or metaphor of it, within the visual concept | Stock photo, an icon per bullet |
 | Comparing options | Criteria table, 2x2 matrix | Running text |
 | Voice of the customer | Quote + profile of who said it | Wall of quotes |
 | Schedule | Timeline or simplified Gantt | Table of dates |
@@ -33,7 +40,7 @@ The audience should get each slide's point in about three seconds. One point per
 - **Source and period** in the footer of every chart with data.
 - **One chart per slide** by default; two only when the comparison between them is the message.
 - **Consistency:** the same color means the same thing across the whole deck.
-- **No decorative images or icons.** An image earns its place by proving the title or making the memorable moment; otherwise it is a seductive detail and goes.
+- **Illustrate, don't decorate.** A drawing, image or icon earns its place by showing what the title claims (the mechanism, the difference, the real case) or by making the memorable moment. One that only fills the slide is a seductive detail and goes.
 
 ## Layout by the slide's job
 A deck where every slide has the same layout — a headline, three rounded cards side by side, an icon in each — reads as generated and makes every point look equally important. Choose the layout by what the slide does: a single number for a reveal, a chart for evidence, a comparison for a choice, a sequence for a process, a full image for the moment, a short ask for the close. Vary deliberately, within the visual concept.
