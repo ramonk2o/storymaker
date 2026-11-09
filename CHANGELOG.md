@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.6.0] - 2026-11-09
+
+Makes the deck draw a slide that explains instead of writing it.
+
 ### Changed
 
 - deck: a slide that explains (actors, actions, relationships, how something works) is drawn instead of written: the actors as shapes, the actions as labeled arrows, two mechanisms compared side by side with the one difference highlighted. A slide whose body is evidence (a chart, a number, a quote) or an ask doesn't need a drawing; an explaining slide left as text needs a reason in the plan, and the rendered review flags it. The chart table gains rows for mechanisms, contrasts, before and after, and abstract ideas, and "no decorative images" becomes "illustrate, don't decorate".
