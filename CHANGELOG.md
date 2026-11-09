@@ -35,6 +35,7 @@ applied to how the skills behave.
 - deck: for slides of a lesson, the proposal and the script no longer offer an alternative central idea or an arc choice: the central idea is the lesson's one thing and the arc is its modules, in the map's order.
 - deck: a deck handed over by the lesson skill no longer offers itself again before starting.
 - lesson: taught live, the minutes of the opening, the modules and the close add up to about 80% of the duration, the time budget and the practice share count from there, and the map shows the rest as buffer, instead of filling the slot that `learning.md` says runs about 20% over.
+- email, post: approval at the Strategy card or the Post script counts for the plan as shown. Picking another move or hook, or an answer that changes what the plan says, brings the revised plan, in post with the sample passage rewritten from the chosen hook, and asks for approval again, so the user never approves blocks or a sample written for another option.
 
 ## [0.4.1] - 2026-11-07
 

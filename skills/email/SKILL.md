@@ -135,7 +135,7 @@ Before sending: … (a call, a talk with someone first, timing)
 Pending [TO CONFIRM]: …
 ```
 
-Below the block, the moves as the reader will see them. Ask for the choice of move and explicit approval in the same message.
+Below the block, the moves as the reader will see them. Ask for the choice of move and explicit approval in the same message. Approval counts for the card as shown: when the user picks another move, or an answer changes the Message, the Blocks, the readers or the tone, the next reply brings the revised card and asks for approval again; answers that only fill a pending item or adjust wording approve it.
 
 For the light path:
 
