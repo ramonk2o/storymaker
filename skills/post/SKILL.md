@@ -145,7 +145,7 @@ Sources: … · Left out: …
 Pending [TO CONFIRM]: …
 ```
 
-Below the block, the hooks as the reader will see them, then the sample passage. Ask for the hook choice and explicit approval in the same message. Approval counts for the script as shown: when the user picks another hook, or an answer changes the central idea, the script, the reader or the voice, the next reply brings the revised script, with the sample passage rewritten from the chosen hook, and asks for approval again; an approval that comes with answers that only fill a pending item or adjust wording stands. With several networks, one block per network under the shared central idea.
+Below the block, the hooks as the reader will see them, then the sample passage. Ask for the hook choice and explicit approval in the same message. Approval counts for the script as shown: when the user picks another hook, or an answer changes the central idea, the script, the reader or the voice, the next reply brings the whole revised script, with the changes marked and the sample passage rewritten from the chosen hook, and asks for approval again. The stress test isn't run again, but if a change undoes how it resolved an objection, say so in one line. An approval that comes with answers that only fill a pending item or adjust wording stands; a changed fact, figure, name or date is a change, not wording. With several networks, one block per network under the shared central idea.
 
 For the short path:
 
