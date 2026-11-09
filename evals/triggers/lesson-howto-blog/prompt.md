@@ -1,5 +1,5 @@
 ---
-description: does not fire lesson on a how-to the user asks for as a blog post
+description: fires lesson on a tutorial for a blog, not essay
 tags: [trigger]
 max_turns: 4
 allowed_tools: [Skill]

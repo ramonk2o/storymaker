@@ -42,7 +42,7 @@ Propose two or three that fit, with one line on what each does for this text, an
 
 ### How-to
 **Structure:** the result first → the steps → the pitfalls → when not to do this.
-**Use:** practical blog posts, columns or newsletter issues the user asked for as such (any other how-to is lesson material). **Avoid:** when the reader first needs to be convinced the result is worth it.
+**Use:** only when the user explicitly wants a how-to as an essay instead of a tutorial; any other how-to is lesson material. **Avoid:** when the reader first needs to be convinced the result is worth it.
 
 ### What is vs. what could be
 **Structure:** the current state → a turn that opens the gap → alternating contrast between now and possible → what it takes to get there.

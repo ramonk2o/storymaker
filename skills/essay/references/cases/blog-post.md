@@ -24,7 +24,7 @@ Takeaway + proof.
 - Strong: "Our cutover took three weekends instead of one because we tested without production traffic; test under real load before you book the date."
 
 ## Recommended arcs
-- **Lesson learned**, **How-to** or **Thesis first** (a take), by what the post does.
+- **Lesson learned** or **Thesis first** (a take), by what the post does; **How-to** only as `arcs.md` says.
 - **Newsletter issue:** one main item in one of those arcs, then short items. Its subject line and preview text are its title and opening; plan both. A recurring issue reuses the last issue's style sheet and structure, which makes its voice known, and takes the light path when its position is settled.
 
 ## Specific stress test
