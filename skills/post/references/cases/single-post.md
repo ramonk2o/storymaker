@@ -28,7 +28,7 @@ The idea + the proof, in a line the first line can carry.
 - **Take:** the claim → the case behind it → the objection in one line → what follows.
 - **Explainer:** the question the reader has → the answer in plain terms → one example.
 - **Caption:** a line that adds what the image can't show (the context, the number, the why) → at most a few lines more.
-- A long single post whose order matters (a long LinkedIn post, say) takes the script path, with each paragraph as a unit.
+- A long single post (one the user asks to be long, or a text turned into one post on a network that allows a long one) takes the script path, with each paragraph as a unit.
 
 ## Pitfalls
 - A first line that warms up instead of saying something.
