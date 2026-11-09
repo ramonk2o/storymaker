@@ -38,7 +38,7 @@ The stakes and the audience decide the path.
 - **Full** — an email to many people; one going up the hierarchy or to a client with a lot riding on it; a reply to an angry or hostile message; news that touches someone's job, money or a relationship the user wants to keep; or whenever the user asks to plan it.
 - **Light** — everything else in scope: one reader or a few, something at stake but recoverable. The first reply is the draft with its strategy, and approving the draft is the gate. If it turns out heavier (another recipient, a hostile reader, bigger news), suggest switching to full.
 
-**Why the gate sits where it does.** The move decides every line after it: what is said first, what is left out, how firm the close is. A draft built on the wrong move is rewritten whole, so in the full path the Strategy card closes the objective, the readers, the move and the tone before writing, on a real subject line and opening. There is no second gate: nothing after writing depends on a new decision, and fixes the checks call for are approved one by one. A light email is cheaper to judge as a draft than as a card, so its draft is the gate.
+**Why the gate sits where it does.** The move decides every line after it: what is said first, what is left out, how firm the close is. A draft built on the wrong move is rewritten whole, so in the full path the Strategy card closes the objective, the readers, the move and the tone before writing, on a real subject line and opening. There is no second gate: nothing after writing depends on a new decision, and a fix the checks call for needs approval only when it changes an approved decision. A light email is cheaper to judge as a draft than as a card, so its draft is the gate.
 
 ## How to run it
 
@@ -153,7 +153,7 @@ Pending: [placeholders in the draft]
 3. **Cold reader:** run it as `references/cold-reader.md` says in the full path; offer it in one line in the light path.
 4. **Intensity:** one line offering a firmer or a softer version, naming what would change.
 
-With a separate agent, run the check before showing the email, and bring in one message the email, what the readers said with the fixes you propose, and the delivery. A fix that changes an approved decision (the move, a tone position, what is said or to whom) is a proposal the user approves and is written back into the card; fixes that change no decision go straight.
+Read `references/handoff.md` before the message with the check results. With a separate agent, run the check before showing the email, and bring in one message the email, what the readers said with the fixes you propose, and the delivery. A fix that changes an approved decision (the move, a tone position, what is said or to whom) is a proposal the user approves and is written back into the card; fixes that change no decision go straight. Without a separate agent, show the email first, with the filled prompts `references/cold-reader.md` gives, and bring the fixes once the user pastes the answers back.
 
 ## Deliver
 
