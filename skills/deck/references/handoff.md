@@ -28,4 +28,4 @@ Look at images or a preview of the slides, not only the code or text behind them
 
 Fix what is only appearance; for anything that changes content, ask first and write it back into the gate documents. Tell the user what was fixed and what still diverges from the plan.
 
-If the chosen option doesn't let you see the result (a prompt for an external tool, a build checklist), deliver this review as a checklist for the user to run after assembling.
+If the chosen option doesn't let you see the result (a prompt for an external tool, a build checklist), deliver this review as a checklist for the user to run after assembling, with the cold reader's filled prompt (`cold-reader.md`).

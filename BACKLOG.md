@@ -4,11 +4,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 
 ## deck
 
-### The after-build cold reader has nothing to read, or reads the wrong format
-- **Type:** Bug
-- **Motivation:** Consistency audit (2026-11-08). `references/cold-reader.md` gives the reader "the finished deck … as images or a PDF of the rendered slides", but two build options in `references/handoff.md` (a prompt for an external slide tool, a build checklist) leave no rendered deck at delivery, and nothing says what happens to the check then. Its prompt always says "Someone is about to show you a presentation", so a deck sent to be read alone is judged as if a presenter filled its gaps, which hides the failure a sent deck has.
-- **Description:** With a build option that renders nothing, the delivery hands over the filled prompt for the user to run once they export the deck, and the delivery note records it as pending. The reader receives the format recorded in the Opening (live, to read alone, hybrid), and the prompt's framing line follows it.
-
 ### A loose lesson file doesn't always fire the deck
 - **Type:** Bug
 - **Motivation:** The deck trigger suite (2026-11-08) case `deck-lesson-file`, a finished lesson pasted with "transforma essa aula em slides", fired deck in 2 of 3 runs: the deck's description speaks of content that "isn't settled" and the lesson's says "not for slides of settled content", so the model sometimes built slides with no skill. Accepted for now because the main path in is the lesson skill's handoff, which loads the deck directly.
