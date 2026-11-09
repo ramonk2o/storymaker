@@ -9,11 +9,6 @@ Ideas, bugs and debt for this plugin, managed with sensei's `log` skill. Each en
 - **Motivation:** Consistency audit (2026-11-08). essay leaves out "written tutorials learners work through" but offers a How-to arc for practical blog posts; lesson takes "a written tutorial or guide that learners work through and practise with" and leaves out only posts "to readers who won't practise it". Readers of a how-to post follow its steps, so "a blog post on how to set up webhooks" can be claimed by both (an essay outline against modules, hinge questions and a final task), against principle 1. lesson's description names only "a class, training, workshop or teaching talk", so a request for a study guide or tutorial may fire neither.
 - **Description:** Both Starting sections draw the same line: material built around exercises or checks the reader does is a lesson; a post that shows the steps without practice is an essay. lesson's description names self-study tutorials and guides, within the 600-character limit, with cases for both sides in the trigger suites.
 
-### Counts the model does by hand: characters and spoken minutes
-- **Type:** Idea
-- **Motivation:** Consistency audit (2026-11-08). post's delivery gives each unit "its character count against the limit" (`references/handoff.md`), and lesson's Revise checks that "the minutes still fit" at about 130 spoken words a minute, up to about 6,000 words for an hour taught with practice afterwards. Models miscount at both sizes, especially with accents, emoji and links weighted by the network, so a post can be cut at publishing or a lesson run long with a delivery note that says it fits.
-- **Description:** A small script in each skill's `scripts/` counts characters per unit (with the network's weighting from the plan) and words per module (converted to minutes); without code execution, the count is labeled approximate.
-
 ## Discarded
 
 ### Likely questions for a deck nobody presents

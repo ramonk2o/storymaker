@@ -11,6 +11,8 @@ applied to how the skills behave.
 ### Added
 
 - lesson: practice can happen in the lesson or afterwards, on the learners' own. A lesson with practice afterwards (expository, close to a talk) keeps each module's key idea, worked example and mistake, opens with a hook, may ask a quick question to the room and ends with a take-home challenge, which the cold learner tries. A talk meant to teach is now in scope, and the description names it.
+- post: `scripts/count.py` counts the characters of each post or slide against the limit, as the reader sees them (accents, emoji and flags count once), with the network's weights for links and emoji from the research, and shows where the "see more" cut falls; without code execution, the counts are labeled approximate. The research now looks up how the network counts emoji and other characters.
+- lesson: `scripts/minutes.py` counts the words of each section of a lesson file, apart from the quote blocks, and converts them to minutes of talk at 130 words a minute or another pace, leaving out the sections not taught; a module's planned minutes include its practice, so with practice in the lesson its talk plus its practice time fit them. The delivery note says whether the minutes were counted or estimated.
 
 ### Changed
 
