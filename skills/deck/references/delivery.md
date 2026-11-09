@@ -5,7 +5,7 @@ Used in step 2.2, in the express proposal (only the notes' source, their style a
 ## Speaker notes
 For live and hybrid decks, write notes for every slide:
 - **Live:** what to say, in the presenter's voice, in a few short sentences — the point of the slide, the one thing to show on the visual, and the transition to the next slide. Not a script to read word for word.
-- **Hybrid:** full reading text, so someone who gets the file later understands the slide without the presenter.
+- **Hybrid:** full reading text, so someone who gets the file later understands the slide without the presenter. When the deck is shared in a form that drops notes, they go in a separate Markdown file (`handoff.md`).
 - **Moments:** for the hook, the memorable moment and the close, the exact line to say, since those are the ones people repeat.
 - **Timing:** mark where the presenter should be at the halfway point, and which slides to drop first if the slot is cut.
 
