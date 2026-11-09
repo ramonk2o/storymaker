@@ -45,7 +45,7 @@ Answer only from the post; don't guess what the author meant.
 [post]
 ```
 
-For a short post, merge both prompts into one call, skipping questions 4, 5 and 8.
+For a short post that fits whole before the "see more" cut, merge both prompts into one call, skipping questions 4, 5 and 8. When it runs past the cut, keep the two calls and skip only 5 and 8 in the second.
 
 ## Using the answers
 - A "no" on answer 1 sends you back to the hook; answer 2 against the script shows whether the hook promises the right thing, and answer 4 whether the post pays it off.
