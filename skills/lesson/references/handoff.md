@@ -9,11 +9,11 @@ Used to bring the delivery options with the results of the checks (Phase 2) and 
 
 ## Delivering
 - The Lesson map is the specification: moving the lesson to another format doesn't reword it.
-- Outside the lesson, deliver in a few lines: what changed from the map, if anything; open items marked `[TO CONFIRM]`; the minutes against the time, counted with `scripts/minutes.py` or labeled an estimate; the fact check (how many facts, what changed) and the cold learner (what failed, what was fixed), one line each, or "not run".
+- Outside the lesson, deliver in a few lines: what changed from the map, if anything; open items marked `[TO CONFIRM]`; the minutes against the time, counted with `../scripts/minutes.py` or labeled an estimate; the fact check (how many facts, what changed) and the cold learner (what failed, what was fixed), one line each, or "not run".
 - When learners get their own copy, offer a learner version without the teacher blocks, keeping the Answers section.
 - After moving the lesson, check that headings, tables, the teacher blocks and the source list survived.
 - Offer, in one line, to keep the approved map next to the lesson: it is the quickest way to rework or extend it later, or to plan the next lesson of a series.
 
 ## Into slides
-- **If the session can load the deck skill,** offer in one line to turn the lesson into slides with it. When the user accepts, hand the deck the lesson file and the approved map: the deck starts without its offer, and treats the content as settled as `references/lesson-file.md` says.
+- **If the session can load the deck skill,** offer in one line to turn the lesson into slides with it. When the user accepts, hand the deck the lesson file and the approved map: the deck starts without its offer, and treats the content as settled as `lesson-file.md` says.
 - **If it can't,** say in one line that the file is ready to be used as the material for a presentation, with the key ideas as slide titles.

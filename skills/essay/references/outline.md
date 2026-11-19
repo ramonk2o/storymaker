@@ -13,7 +13,7 @@ I. [Movement] — its job in the arc
 - **Proof or material:** what the paragraph uses to make its claim (a scene, a case, a number with its comparison, a quote with its source), or "argument" when it reasons from what came before. A claim with nothing next to it is a gap: find the proof, mark it `[TO CONFIRM]`, or cut the line.
 - **Words:** an estimate per paragraph, so the proportion is visible. The movement that carries the central idea usually gets the most words; a long setup with a short payoff shows up here before it shows up in the prose.
 - **Mark:** `opening`, `turn` (the point where the arc changes direction), `objection`, `close`. Most lines have none.
-- **Movements:** the parts of the arc (`references/arcs.md`), each with its job in one line. Headings in the published text follow the case file, not the movements.
+- **Movements:** the parts of the arc (`arcs.md`), each with its job in one line. Headings in the published text follow the case file, not the movements.
 
 ## Checks before showing it
 
