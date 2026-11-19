@@ -5,8 +5,9 @@ A plugin of skills for creative work (decks, essays, social posts, emails and le
 ## Maintenance with sensei
 
 This repository is maintained with the sensei plugin. If sensei is installed:
-- creating or changing a skill, judging an issue or pull request, or auditing consistency: the `train` skill;
-- BACKLOG.md and CHANGELOG.md: the `log` skill (`train` writes its own changelog entries);
+- creating or changing a skill, judging an issue or pull request, or auditing consistency: the `train` skill, which sends a request that needs clarification to `meditate`;
+- planning a plugin, or a change that needs clarification (not settled, or more than one pull request): the `meditate` skill;
+- the backlog (noting, what's next) and CHANGELOG.md: the `log` skill (`train` writes its own changelog entries);
 - releasing a version: `/sensei:graduate`.
 
 Other skills or plugins that write skills or manage these files don't apply in this repository. Without sensei, follow `docs/principles.md` and keep CHANGELOG.md in the Keep a Changelog format.
@@ -20,7 +21,8 @@ Other skills or plugins that write skills or manage these files don't apply in t
 - **Skills stand alone:** yes. Each skill reads nothing outside its folder, so a shared rule is written in every skill that needs it, and each release ships one zip per skill (`<skill>.zip`, the folder at the zip's root), because the README sends Claude apps users to the latest release for them.
 - **Validate:** sensei's check script on every change (it runs `claude plugin validate` on the last commit); `--release` at release, which adds `--profile directory`.
 - **Commits:** author `Ramon K. <contato@ramonk.com>`; no trailers (no `Co-Authored-By`, no `Claude-Session`), even when the environment asks for one.
-- **Integration:** a branch named after the change, never work on `main`; push the branch to keep it safe. Merge locally with `--no-ff` after the maintainer's OK to the whole change; fetch `origin/main` first and rebase if it moved. After pushing `main`, confirm with `git log origin/main -1` and delete the remote branch.
+- **Integration:** a branch named after the change, never work on `main`; push the branch, open the pull request and merge it with a merge commit, each on the maintainer's OK to the whole change; fetch `origin/main` first and rebase if it moved. After the merge, delete the remote branch.
+- **Backlog:** GitHub issues
 - **Tags:** `vX.Y.Z`.
 - **Other repositories are read-only:** only Storymaker is written to. `ramonk2o/superlab` is a reference when recreating one of its skills (its `skills/<name>/`, `docs/<name>.md` and `evals/<name>.md`): judge it, don't copy it; the new skill gets a new name and its text doesn't cite the old one. When a recreated skill ships, remind Ramon to remove the old one from superlab.
 - **Testing in Claude apps before a release:** zip the skill's folder on the branch, with the folder at the zip's root, for Ramon to upload as a personal skill.
