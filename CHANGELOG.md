@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Fixed
+
+- deck, essay, lesson and post: a reference file that names another file or a script now gives the path as it resolves from where it sits, so each skill reads its own files without depending on where it is run from.
+
 ## [0.6.0] - 2026-11-09
 
 Makes the deck draw a slide that explains instead of writing it.

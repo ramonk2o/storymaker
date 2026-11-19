@@ -1,6 +1,6 @@
 # Writing the lesson
 
-Used in step 1.6 (the sample module) and in Phase 2. These are rules the model doesn't follow on its own; they hold for every kind of lesson, and the case file adds to them. Facts follow "Nothing invented" in `SKILL.md`; teaching rules are in `references/learning.md`.
+Used in step 1.6 (the sample module) and in Phase 2. These are rules the model doesn't follow on its own; they hold for every kind of lesson, and the case file adds to them. Facts follow "Nothing invented" in `SKILL.md`; teaching rules are in `learning.md`.
 
 ## The map is the specification
 - One module per map block, in order, landing its key idea with the example, the mistake and, when it has them, the practice and the hinge question listed there.
@@ -29,4 +29,4 @@ These mark a lesson written on autopilot:
 - Frequent dashes.
 
 ## Length
-Write to the minutes in the map: about 130 spoken words a minute for what is said live, less for what learners read during the lesson. With practice afterwards, the body is what is said, so the count applies to it. A module that runs long gets cut, not squeezed. When the session can run code, check the written lesson with `scripts/minutes.py` (a lower `--wpm` for what learners read); otherwise estimate them. A module's planned minutes include its practice: with practice in the lesson, its minutes of talk plus its practice time fit them; with practice afterwards or self-study, its talk or reading does. The delivery note says whether the minutes were counted or estimated (`handoff.md`).
+Write to the minutes in the map: about 130 spoken words a minute for what is said live, less for what learners read during the lesson. With practice afterwards, the body is what is said, so the count applies to it. A module that runs long gets cut, not squeezed. When the session can run code, check the written lesson with `../scripts/minutes.py` (a lower `--wpm` for what learners read); otherwise estimate them. A module's planned minutes include its practice: with practice in the lesson, its minutes of talk plus its practice time fit them; with practice afterwards or self-study, its talk or reading does. The delivery note says whether the minutes were counted or estimated (`handoff.md`).
