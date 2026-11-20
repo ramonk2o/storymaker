@@ -33,7 +33,7 @@ Propose two or three, one recommended. For each:
 - palette and fonts, from the guide when there is one;
 - why it serves the central idea, and its risk.
 
-Before recommending one, check that it works on the densest slide, fits the guide and can be built with what this session can make slides with (`build.md`, Choosing how to build). For a sober deck read alone, a discreet concept usually works better than a strong metaphor.
+Before recommending one, check that it works on the densest slide, fits the guide and can be built with what this session can make slides with: read `build.md`, Choosing how to build, to find out. For a sober deck read alone, a discreet concept usually works better than a strong metaphor.
 
 ## Illustration plan
 
@@ -49,4 +49,4 @@ Each illustration shows what its title claims; one that only fills the slide goe
 
 ## Sample
 
-With the plan, draw two or three slides in the concept, the densest among them, at low fidelity: inline, when the session can show an image or a page; otherwise as a precise description of each. The sample tests the concept and the plan, not the deck, so it is a sketch, not the built file. Gate 2 asks for approval of the concept, the illustration plan, the text changes and the sample, with no `[TO CONFIRM]` left except a placeholder someone else fills in after delivery.
+With the plan, draw two or three slides in the concept, the densest among them, at low fidelity: inline, when the session can show an image or a page; otherwise as a precise description of each. The sample tests the concept and the plan, not the deck, so it is a sketch, not the built file.
