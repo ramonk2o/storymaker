@@ -1,6 +1,6 @@
 # Cold reader
 
-Used in step 5, on the outline the user reviewed, before the gate. A model inside this conversation already knows what the text wants to say, so it can't play the reader.
+A model inside this conversation already knows what the text wants to say, so it can't play the reader.
 
 ## Running it
 
