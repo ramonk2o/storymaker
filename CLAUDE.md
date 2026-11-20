@@ -24,6 +24,6 @@ Other skills or plugins that write skills or manage these files don't apply in t
 - **Integration:** a branch named after the change, never work on `main`; push the branch, open the pull request and merge it with a merge commit, each on the maintainer's OK to the whole change; fetch `origin/main` first and rebase if it moved. After the merge, delete the remote branch.
 - **Backlog:** GitHub issues
 - **Tags:** `vX.Y.Z`.
-- **Other repositories are read-only:** only Storymaker is written to. `ramonk2o/superlab` is a reference when recreating one of its skills (its `skills/<name>/`, `docs/<name>.md` and `evals/<name>.md`): judge it, don't copy it; the new skill gets a new name and its text doesn't cite the old one. When a recreated skill ships, remind Ramon to remove the old one from superlab.
+- **Other repositories are read-only:** only Storymaker is written to.
 - **Testing in Claude apps before a release:** zip the skill's folder on the branch, with the folder at the zip's root, for Ramon to upload as a personal skill.
 - **GitHub repository settings** (name, description, visibility) are Ramon's: describe the step or give the text to paste.
