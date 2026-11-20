@@ -2,7 +2,7 @@
   "name": "storymaker",
   "displayName": "Storymaker",
   "version": "0.6.0",
-  "description": "Skills for creative work: they plan the piece with you — what it says, what goes in, how it holds attention — before making it.",
+  "description": "Skills for work that tells a story: each plans the story with you before making the piece.",
   "author": {
     "name": "Ramon K.",
     "email": "contato@ramonk.com"
@@ -19,19 +19,9 @@
     "deck",
     "storyline",
     "pitch",
+    "proposal",
     "essay",
     "writing",
-    "blog post",
-    "outline",
-    "social media",
-    "thread",
-    "carousel",
-    "email",
-    "messages",
-    "difficult conversations",
-    "lesson",
-    "class",
-    "training",
-    "teaching"
+    "article"
   ]
 }

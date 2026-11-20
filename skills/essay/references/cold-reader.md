@@ -1,55 +1,39 @@
 # Cold reader
 
-Used in Phase 3 (run in the full path, and in the light path when the stakes are high; offered otherwise). A cold reader checks whether the text works for someone who has only the text, which is exactly the situation of its real reader, and outlines it back so you can see where the writing drifted from the plan.
+A model inside this conversation already knows what the text wants to say, so it can't play the reader.
 
-## Running the check
-- If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, never a copy of it, and put in its prompt only what this file says to give it, with the instruction not to open any other file.
-- Otherwise, give the user the prompts below, filled in, to paste into one new conversation with no access to this one, each only after the previous one has been answered, and ask them to paste the answers back. When the style check also runs, its prompt goes last in that same conversation, so the reader judges the text before learning how it was meant to sound.
-- If the user prefers to skip it, record "not run" in the delivery note.
+## Running it
 
-## What the reader receives
-- The finished text, as it will be read, with its title.
-- The reader profile from the Essay outline: who they are, what they already know about the subject, what they think about it today. Check that it doesn't hint at what the text wants.
-- How the text reaches them: an essay in a publication, a blog post they clicked, a newsletter in their inbox, a column in an outlet.
-- Never the conversation, the outline, the central idea, the objective, the style sheet or the sample passage.
+- If the session can start a separate agent, start a fresh one that doesn't inherit this conversation, with only the prompt below, filled in, and the instruction not to open any other file.
+- Otherwise, give the user the filled prompt to paste into a new conversation with no access to this one, and ask them to bring back the answers.
+- If the user prefers to skip it, say in one line what it would catch; if they still skip, write "cold reader: not run" in the gate request.
 
-## Two calls
-A reader handed the whole text can't unread it, so the opening is tested first. With a separate agent, the first call gets only the preview; the whole text goes to a second agent, or to the same one only after it has answered.
+## What the reader gets
 
-## Prompt 1 — the preview
-Write it in the user's language and fill in the brackets. The preview is the title and the first paragraph; for a newsletter, the subject line, the preview text and the first paragraph.
+- **The reader profile:** who they are, what they know about the subject, what they believe and do about it today. Never the objective, the central idea, what the reader should do after, or anything else from the conversation; check that the profile doesn't hint at them.
+- **The outline,** in order: the title and the paragraph lines, without the part headings, which the reader never sees.
+- **How it reaches them:** a blog post they clicked, a newsletter in their inbox, a column in a publication, a document someone sent them.
+
+## Prompt
+
+Write it in the user's language and fill in the brackets.
 
 ```
-You are [reader profile: who you are, what you already know about the subject, what you think about it today].
-This is what you see of a text [in … | as a blog post | as a newsletter in your inbox | as a column in …] before choosing whether to read on:
+You are [reader profile].
+A text is about to reach you as [how it reaches them]. Before it is written, here is its title and one line for each paragraph, in order, saying what that paragraph will say:
 
-[preview]
+[outline]
 
-Answer briefly:
-1. Would you keep reading? Why?
-```
+Read it as that person would, and answer briefly:
+1. In one sentence, what does this text want you to think or do?
+2. Where would you stop reading, or where does it seem to jump ahead or go back?
+3. What would you doubt or resist, and why?
+4. What does it assume you know that you don't?
+5. After reading it, what would you think or do?
 
-## Prompt 2 — the whole text
-```
-You are [the same reader profile].
-You now have the whole text. Read it once, as that person would, and answer briefly:
-2. In one sentence, what is this text telling you?
-3. After reading, what would you think or do?
-4. Where would you have stopped reading? Quote the first words.
-5. Which claim would you not believe without more evidence?
-6. What did the text assume you knew that you didn't?
-7. Summarize each paragraph, in order, in one sentence of up to 12 words saying what it claims. Number them.
-
-Answer only from the text; don't guess what the author meant.
-
-[text]
+Answer only from what is in front of you; don't guess what the author meant.
 ```
 
 ## Using the answers
-- Answer 1 tests the opening; a "no" sends you back to the title and the opening line of the outline.
-- Compare answer 2 with the central idea and answer 3 with the objective. A difference in either is a problem of the text, not of the reader.
-- Answer 4 points to something to cut, move or shorten.
-- Answer 5 asks for evidence, or a `[TO CONFIRM]` marker.
-- Answer 6 asks for context.
-- Answer 7 is the reverse outline. Compare it with the approved outline line by line, as `outline.md` says: a paragraph whose summary doesn't match its planned claim drifted; two paragraphs with the same summary repeat; a planned claim no summary carries is missing from the text.
-- Show the answers next to what was expected and propose fixes. Any fix that changes an approved decision needs the user's ok and is written back into the outline.
+
+Show the answers next to what the text intends: the central idea, and what the reader should understand or do (steps 1 and 2). Where they diverge, the outline is at fault, not the reader: propose the fix, such as a line that states its point, a missing step between two parts, an argument without its evidence, or a doubt the text doesn't answer. A fix that changes no decision goes straight into the outline, marked, so the user sees it at the gate.

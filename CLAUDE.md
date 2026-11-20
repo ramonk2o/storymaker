@@ -1,6 +1,6 @@
 # Storymaker
 
-A plugin of skills for creative work (decks, essays, social posts, emails and lessons) that plan the piece with the user before making it.
+A plugin of skills for work that tells a story (decks and essays): each plans the story with the user before making the piece.
 
 ## Maintenance with sensei
 
@@ -12,7 +12,7 @@ This repository is maintained with the sensei plugin. If sensei is installed:
 
 Other skills or plugins that write skills or manage these files don't apply in this repository. Without sensei, follow `docs/principles.md` and keep CHANGELOG.md in the Keep a Changelog format.
 
-**The skills are the object of the work here, not tools.** When the conversation is about the plugin's subject (presentations, essays, social posts, emails and lessons), it's about improving the skills. Don't run a skill's flow unless explicitly asked to use it.
+**The skills are the object of the work here, not tools.** When the conversation is about the plugin's subject (presentations and essays), it's about improving the skills. Don't run a skill's flow unless explicitly asked to use it.
 
 ## Project facts
 

@@ -1,20 +1,17 @@
 # Storymaker
 
-Skills for creative work. Each skill plans the piece with you before making it — what it has to say, what goes in, how it holds attention and what a good result looks like — and only then builds it, so what you end up with does its job the first time.
+Skills for work that tells a story. Each skill plans the story with you before making the piece, and checks it with a reader who never saw the conversation.
 
 The skills are written in English and talk to you in your own language.
 
 ## Skills
 
-- **deck** — plans a presentation with you before any slide is built: what it must change in the audience, the message, the story and how it holds attention, then the visual concept and production plan. Then it builds the deck, reviews the rendered slides, checks it with a reader who never saw the plan, and hands over speaker notes and the likely questions with their answers.
-- **essay** — plans a long text with you before writing it — essays, blog posts, opinion columns and newsletter issues: the point it makes, the arc, a one-line outline of every paragraph so you can judge the order before any prose exists, and the voice, taken from a register, your own texts, texts you admire or someone you want to take inspiration from, shown on a sample passage. Then it writes the text and checks it with a reader who never saw the plan. Bring a draft and it starts by outlining it back, so you can see where the order breaks.
-- **post** — plans a social post with you before writing it — single posts, captions, threads and carousels, for one network or several at once: the point it makes, the opening picked from a few first lines written in full, and for threads and carousels a one-line script of every post or slide, in a voice taken from a register, your own posts or someone you admire. A short post comes back as a draft right away. Then it writes the post and checks it with a reader who meets it in a feed. Bring an article or essay and it starts from what survives in the format. For carousels it writes each slide's words with a visual note, the caption and alt text; it doesn't design the images.
-- **email** — plans an email or long message with something at stake before writing it — bad news, a no, a hard ask, a disagreement, an apology, an explanation, an announcement to many, and long Slack or WhatsApp messages and letters: what the reader should do after reading, who receives it (one person, a few or many), the move that gets them there, the tone set on three axes (proximity, firmness, warmth) and the subject line, with the opening written in full so you choose on real sentences. A lighter email comes back as a draft right away. Then it writes the email in your own voice and checks it with readers who stand in for the recipients and write the reply they would send.
-- **lesson** — plans a lesson with you before writing it — a class, a training, a workshop, a written tutorial or guide, for a blog too, that learners work through on their own, or a quick, talk-like lesson learners try on their own afterwards, on a subject you know or one you are learning to teach: what learners should be able to do at the end and the task that proves it, what to cut, and a map of every module with its example, the mistake it takes apart, its practice and a check question, judged on one module written in full. When you aren't an expert it researches the subject, with sources. Then it writes the lesson file, with notes for whoever teaches, and checks its facts against the sources and with a learner who never saw the plan and works through the exercises. The file is ready to become slides with the deck skill.
+- **deck** — plans a presentation that must get a message across, presented live or read alone: the central idea, the arguments, the arc and the text of every slide, settled with you and read by a reader who never saw the conversation before any visual work. Then it proposes visual concepts that give each kind of information a form (a flow, a side-by-side comparison, dots, a metaphor), plans how each slide is illustrated, shows a few slides drawn, and builds the deck with the tools your session has. Slides that only support a meeting, such as an agenda or a status update, are left out. It runs only when you call it: `/storymaker:deck` in Claude Code, or by asking Claude to use the deck skill in the Claude apps.
+- **essay** — plans a text in prose that takes its reader through an argument, such as an essay, an article, a column or a blog post: the central idea, the arguments, the arc and one line for every paragraph, read by a reader who never saw the conversation, then a sample passage in the voice you want (a register, your own texts, or an author it researches and takes traits from, never passages). Then it writes the whole text. Summaries and proofreading are left out. It runs only when you call it: `/storymaker:essay` in Claude Code, or by asking Claude to use the essay skill in the Claude apps.
 
 ## Status
 
-Early and experimental (before 1.0). Skills are being built one at a time. See [CHANGELOG.md](CHANGELOG.md) for what has changed.
+Early and experimental (before 1.0). Skills are being rebuilt one at a time. See [CHANGELOG.md](CHANGELOG.md) for what has changed.
 
 ## Install
 
@@ -29,7 +26,7 @@ Auto-update is off by default for marketplaces outside Anthropic's. To get new v
 
 ### Claude apps (claude.ai, desktop, mobile)
 
-Each skill can be installed on its own: download its zip (`deck.zip`, `essay.zip`, `post.zip`, `email.zip`, `lesson.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
+Each skill can be installed on its own: download its zip (`deck.zip`, `essay.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
 
 ## How it is built
 
