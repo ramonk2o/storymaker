@@ -67,7 +67,7 @@ I. [Part] — its job
 - Density follows the format: presented live, short phrases the presenter talks over; read alone, each slide explains itself.
 - Before showing it, read only the titles, in order: they must tell the story on their own.
 
-The user adjusts the text. Then read `references/cold-reader.md` and run the cold reader on the text the user reviewed. Bring its answers next to what the deck intends, with the fixes you propose, and ask for approval of the slide text: Gate 1. `[TO CONFIRM]` items may pass Gate 1 if the user agrees.
+The user adjusts the text. Then read `references/cold-reader.md` and run the cold reader on the text the user reviewed. Then, in one message: its answers next to what the deck intends, with the fixes you propose, and the text of every slide with the fixes that went straight in marked in it. Ask for approval of the slide text: Gate 1. `[TO CONFIRM]` items may pass Gate 1 if the user agrees.
 
 ## 6. Visual — Gate 2
 
