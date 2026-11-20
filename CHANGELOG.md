@@ -11,10 +11,12 @@ applied to how the skills behave.
 ### Changed
 
 - The principles are rewritten for a lean rebuild: only rules a real case uses stay, the light path is gone, and the stress test and cold reader run before the costliest step.
+- deck: rebuilt from scratch. It settles the central idea, the arguments, the arc and the text of every slide with you, with a stress test on the arc and a cold reader on the slide text, before any visual work; then it proposes visual concepts that give each kind of information a form, plans how each slide is illustrated, shows a sample, and builds with the tools the session has. It runs only when you call it (`/storymaker:deck`), never on its own. Express mode, speaker notes, likely questions, the deck types and the recurring blueprint are gone.
+- The plugin's description, keywords and README now cover work that tells a story, with the deck as its first skill.
 
 ### Removed
 
-- lesson, post and email. deck and essay are being rebuilt from scratch.
+- lesson, post and email. essay is being rebuilt from scratch.
 
 ### Fixed
 

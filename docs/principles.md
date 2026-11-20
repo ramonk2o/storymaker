@@ -30,6 +30,13 @@ Storymaker's skills help with work that tells a story: a presentation that carri
 
 Each skill adds a section here when it is created, with the principles that apply only to it, including why its gates are where they are.
 
+### deck
+
+- **Started only by its command.** The deck runs only when the user calls it, so whether a deck gets planned is the user's choice, not a description's; the offer of principle 2 doesn't apply, and its description only tells the user what it does.
+- **Where its gates sit.** Gate 1 closes the text of every slide before any visual work, because what the audience understands and remembers is decided by that text, and a visual planned on text that later moves is thrown away. Gate 2 closes the visual concept, the plan of how each slide is illustrated and the text changes it asks for, before the build, because a built deck costs the most to redo.
+- **The checks read the text.** The stress test runs on the arc and the cold reader on the full slide text, both before the visual, because a flaw in the story found after the build costs the visual and the build with it. After the build, the user judges.
+- **One visual approach.** Each kind of information gets the form that shows it (a sequence as a flow, a comparison side by side, a set as dots, nested groups as nested circles, an abstract idea as a metaphor), the same kind the same way across the deck, because a slide that solves its visual alone turns the deck into a collage.
+
 ## Judging a proposal
 
 1. Which case does it come from, and is it real or hypothetical?
