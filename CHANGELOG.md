@@ -8,6 +8,14 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Changed
+
+- The principles are rewritten for a lean rebuild: only rules a real case uses stay, the light path is gone, and the stress test and cold reader run before the costliest step.
+
+### Removed
+
+- lesson, post and email. deck and essay are being rebuilt from scratch.
+
 ### Fixed
 
 - deck, essay, lesson and post: a reference file that names another file or a script now gives the path as it resolves from where it sits, so each skill reads its own files without depending on where it is run from.
