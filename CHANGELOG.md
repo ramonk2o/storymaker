@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.7.0] - 2026-11-20
+
+Rebuilds the deck and the essay from scratch around a lean set of principles and removes lesson, post and email; a breaking change, so it bumps MINOR while the plugin is experimental.
+
 ### Changed
 
 - The principles are rewritten for a lean rebuild: only rules a real case uses stay, the light path is gone, and the stress test and cold reader run before the costliest step.
@@ -23,7 +27,7 @@ applied to how the skills behave.
 
 ### Fixed
 
-- deck, essay, lesson and post: a reference file that names another file or a script now gives the path as it resolves from where it sits, so each skill reads its own files without depending on where it is run from.
+- deck and essay: a reference file that names another file or a script now gives the path as it resolves from where it sits, so each skill reads its own files without depending on where it is run from.
 
 ## [0.6.0] - 2026-11-09
 
