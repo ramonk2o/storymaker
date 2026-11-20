@@ -6,13 +6,13 @@ disable-model-invocation: true
 
 # Deck
 
-Plans a presentation that has a message to get across, presented live or read alone, before building it: first what the deck says, down to the text of every slide, then how it looks, then the build. Slides that only support a meeting are left out: an agenda, a recurring status, content the user already settled slide by slide, restyling a finished deck. The test: the deck must change what its audience understands or does, and what it should say isn't settled yet.
+Plans a presentation that has a message to get across, presented live or read alone, before building it: first what the deck says, down to the text of every slide, then how it looks, then the build. Slides that only support a meeting are left out: an agenda, a recurring status, content the user already settled slide by slide, restyling a finished deck. A text in prose goes to the essay skill. The test: the deck must change what its audience understands or does, and what it should say isn't settled yet.
 
 Talk to the user in their language, and write every proposal in it.
 
 ## Starting
 
-The skill runs only when the user calls it. A request that is out of scope, from the start or midway: say so in one line and offer to go on without the skill; if the user wants the skill anyway, go on with it. Otherwise, go to step 1.
+The skill runs only when the user calls it. A request that is out of scope, from the start or midway: say so in one line, naming the essay skill for a text in prose, and offer to go on without this skill; if the user wants the skill anyway, go on with it. Otherwise, go to step 1.
 
 ## Rules for every step
 

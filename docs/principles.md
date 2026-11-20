@@ -37,6 +37,13 @@ Each skill adds a section here when it is created, with the principles that appl
 - **The checks read the text.** The stress test runs on the arc and the cold reader on the full slide text, both before the visual, because a flaw in the story found after the build costs the visual and the build with it. After the build, the user judges.
 - **One visual approach.** Each kind of information gets the form that shows it (a sequence as a flow, a comparison side by side, a set as dots, nested groups as nested circles, an abstract idea as a metaphor), the same kind the same way across the deck, because a slide that solves its visual alone turns the deck into a collage.
 
+### essay
+
+- **Started only by its command.** The essay runs only when the user calls it, so whether a text gets planned is the user's choice, not a description's; the offer of principle 2 doesn't apply, and its description only tells the user what it does.
+- **Where its gate sits.** One gate, on the outline of every paragraph with a sample passage in the chosen voice, before writing, because the argument's order and weight are decided in the outline, a text written on an outline that later moves is rewritten whole, and a voice is judged on real sentences, not on a description of it.
+- **The checks read the outline.** The stress test runs on the arc and the cold reader on the paragraph outline, both before writing, because a flaw in the argument found in the written text costs the draft. After writing, the user judges.
+- **Traits, never passages.** A voice taken from an author is a few observable traits of their writing (tone, sentence rhythm, how they argue, how they use examples), imitated in new sentences, because the text must be the user's: no passage of theirs is reproduced or closely paraphrased, and no signature phrase is used.
+
 ## Judging a proposal
 
 1. Which case does it come from, and is it real or hypothetical?
