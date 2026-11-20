@@ -11,7 +11,7 @@ Used in step 7.
 
 ## Building
 
-The two gates are the specification: the approved slide text with the Gate 2 changes, the concept and the illustration plan. No rewritten titles, added slides, swapped forms or text the plan doesn't have, such as speaker notes; if the tool can't do something the plan asks, ask before adapting it.
+The two gates are the specification: the approved slide text with the Gate 2 changes, the concept and the illustration plan. No rewritten titles, added slides, swapped forms or text the plan doesn't have, such as speaker notes.
 
 ## Reviewing the rendered deck
 
@@ -24,4 +24,4 @@ Fix what is only form; anything that changes content is a proposal. Tell the use
 
 ## After the user sees it
 
-The user judges the deck. Apply their fixes in the built deck, slide by slide, instead of rebuilding it, so what was already right stays as it is. A fix that changes an approved decision (the concept, the arc, a slide's point) is named as one before it is applied.
+The user judges the deck. Apply their fixes in the built deck, slide by slide, instead of rebuilding it, so what was already right stays as it is.

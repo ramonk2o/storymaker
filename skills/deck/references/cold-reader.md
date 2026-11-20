@@ -36,4 +36,4 @@ Answer only from what is in front of you; don't guess what the author meant.
 
 ## Using the answers
 
-Show the answers next to what the deck intends: the central idea, and what the audience should understand or do (steps 1 and 2). Where they diverge, the text is at fault, not the reader: propose the fix, such as a title that states its point, a missing step between two parts, an argument without its evidence, or a doubt the text doesn't answer. A fix that changes no decision goes straight into the text; one that changes the central idea, the arguments or the arc is a marked proposal the user approves.
+Show the answers next to what the deck intends: the central idea, and what the audience should understand or do (steps 1 and 2). Where they diverge, the text is at fault, not the reader: propose the fix, such as a title that states its point, a missing step between two parts, an argument without its evidence, or a doubt the text doesn't answer. A fix that changes no decision goes straight into the text.
