@@ -36,4 +36,4 @@ Answer only from what is in front of you; don't guess what the author meant.
 
 ## Using the answers
 
-Show the answers next to what the text intends: the central idea, and what the reader should understand or do (steps 1 and 2). Where they diverge, the outline is at fault, not the reader: propose the fix, such as a line that states its point, a missing step between two parts, an argument without its evidence, or a doubt the text doesn't answer. A fix that changes no decision goes straight into the outline.
+Show the answers next to what the text intends: the central idea, and what the reader should understand or do (steps 1 and 2). Where they diverge, the outline is at fault, not the reader: propose the fix, such as a line that states its point, a missing step between two parts, an argument without its evidence, or a doubt the text doesn't answer. A fix that changes no decision goes straight into the outline, marked, so the user sees it at the gate.

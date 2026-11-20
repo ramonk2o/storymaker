@@ -66,7 +66,7 @@ I. [Part] — its job
 - One idea per paragraph: a line that needs an "and" is probably two paragraphs.
 - Before showing it, read only the lines, in order: they must carry the argument on their own.
 
-The user adjusts the outline. Then read `references/cold-reader.md` and run the cold reader on the outline the user reviewed. Then, in one message: its answers next to what the text intends, the outline with the fixes you propose marked in it, and the voice sample: one or two paragraphs of the outline written in the voice from step 1 (when the user named an author, read `references/voice.md` first), with the traits it follows named above it: tone, sentence rhythm, how it argues, how it uses examples. Ask for approval of the outline and the sample: the gate.
+The user adjusts the outline. Then read `references/cold-reader.md` and run the cold reader on the outline the user reviewed. Then, in one message: its answers next to what the text intends, the outline with its fixes marked in it, and the voice sample: one or two paragraphs of the outline written in the voice from step 1 (when the user named an author, read `references/voice.md` first), with the traits it follows named above it: tone, sentence rhythm, how it argues, how it uses examples. Ask for approval of the outline and the sample: the gate.
 
 ## 6. Writing
 
