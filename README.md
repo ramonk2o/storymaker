@@ -6,7 +6,7 @@ The skills are written in English and talk to you in your own language.
 
 ## Skills
 
-- **deck** — plans a presentation that must get a message across, presented live or read alone: the central idea, the arguments, the arc and the text of every slide, settled with you and read by a reader who never saw the conversation before any visual work. Then it proposes visual concepts that give each kind of information a form (a flow, a side-by-side comparison, dots, a metaphor), plans how each slide is illustrated, shows a few slides drawn, and builds the deck with the tools your session has. Slides that only support a meeting, such as an agenda or a status update, are left out.
+- **deck** — plans a presentation that must get a message across, presented live or read alone: the central idea, the arguments, the arc and the text of every slide, settled with you and read by a reader who never saw the conversation before any visual work. Then it proposes visual concepts that give each kind of information a form (a flow, a side-by-side comparison, dots, a metaphor), plans how each slide is illustrated, shows a few slides drawn, and builds the deck with the tools your session has. Slides that only support a meeting, such as an agenda or a status update, are left out. It runs only when you call it: `/storymaker:deck` in Claude Code, or by asking Claude to use the deck skill in the Claude apps.
 
 ## Status
 

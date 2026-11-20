@@ -1,20 +1,18 @@
 ---
 name: deck
-description: "Plans a presentation that must get a message across: its idea, arc and every slide's text with the user, then the visual concept, then the build. Use for decks presented or read alone (e.g., 'turn this survey into slides', 'monta a proposta pro cliente'). Not for agendas, status or settled slides."
+description: "Plans a presentation that must get a message across, presented or read alone: the idea, the arc and every slide's text, then the visual, then the build. Not for agendas, status updates or settled slides."
+disable-model-invocation: true
 ---
 
 # Deck
 
-Plans a presentation that has a message to get across, presented live or read alone, before building it: first what the deck says, down to the text of every slide, then how it looks, then the build. Slides that only support a meeting are left out: an agenda, a recurring status, content the user already settled slide by slide, restyling a finished deck. The test: the deck must change what its audience understands or does, and what it should say isn't settled yet. A request that fails it is handled without this skill.
+Plans a presentation that has a message to get across, presented live or read alone, before building it: first what the deck says, down to the text of every slide, then how it looks, then the build. Slides that only support a meeting are left out: an agenda, a recurring status, content the user already settled slide by slide, restyling a finished deck. The test: the deck must change what its audience understands or does, and what it should say isn't settled yet.
 
 Talk to the user in their language, and write every proposal in it.
 
 ## Starting
 
-- **Out of scope:** don't offer the skill; handle the request without it.
-- **Called by name:** go to step 1.
-- **Started by the subject of the request:** the first reply only offers the skill, in one or two sentences: it settles the central idea and the text of every slide with the user before any visual work, over a few rounds. Recommend an answer, with a one-line reason drawn from the request. Read nothing else yet. Accepted: step 1. Declined: handle the request without the skill, and don't offer it again in this conversation.
-- A request that turns out to be out of scope midway: say so in one line and offer to go on without the skill.
+The skill runs only when the user calls it. A request that is out of scope, from the start or midway: say so in one line and offer to go on without the skill. Otherwise, go to step 1.
 
 ## Rules for every step
 
