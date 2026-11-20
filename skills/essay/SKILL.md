@@ -12,7 +12,7 @@ Talk to the user in their language, and write every proposal in it.
 
 ## Starting
 
-The skill runs only when the user calls it. A request for slides: say the deck skill plans them and suggest calling it. Another request out of scope, from the start or midway: say so in one line and offer to go on without the skill; if the user wants the skill anyway, go on with it. Otherwise, go to step 1.
+The skill runs only when the user calls it. A request out of scope, from the start or midway: say so in one line, naming the deck skill for slides, and offer to go on without this skill; if the user wants the skill anyway, go on with it. Otherwise, go to step 1.
 
 ## Rules for every step
 
