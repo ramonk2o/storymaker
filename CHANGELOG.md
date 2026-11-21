@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-11-20
+
+Makes the essay avoid prose patterns typical of AI writing.
+
 ### Changed
 
 - essay: the voice sample and the text avoid structures typical of AI writing (an aside set off by dashes, "think of that colleague who…", an emphasis that pleases the reader) and ration the ones with a real use ("not X, it's Y", threes, a short sentence closing a paragraph) to about one per 500 words. What comes from you, your own sentences or a trait you approved, stays as it is.
