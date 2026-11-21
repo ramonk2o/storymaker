@@ -10,7 +10,7 @@ applied to how the skills behave.
 
 ### Changed
 
-- essay: the voice sample and the text avoid structures typical of AI writing (ideas denied before they are stated, an aside set off by dashes, "think of that colleague who…", an emphasis that pleases the reader) and ration the ones with a real use ("not X, it's Y", threes, a short sentence closing a paragraph) to about one per 500 words. What comes from you, your own sentences or a trait you approved, stays as it is.
+- essay: the voice sample and the text avoid structures typical of AI writing (an aside set off by dashes, "think of that colleague who…", an emphasis that pleases the reader) and ration the ones with a real use ("not X, it's Y", threes, a short sentence closing a paragraph) to about one per 500 words. What comes from you, your own sentences or a trait you approved, stays as it is.
 
 ## [0.7.0] - 2026-11-20
 

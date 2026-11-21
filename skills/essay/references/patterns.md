@@ -4,9 +4,9 @@ Used in steps 5 and 6, on the voice sample and the text, not on the outline. The
 
 ## Dosed
 
-Each has a legitimate use. All six share one budget: 1 use per 500 words (rounded down, at least 1), at most 1 per arc part, never in consecutive paragraphs. Spend a use only where it is the best choice for that passage.
+Each has a legitimate use. All six share one budget: 1 use per 500 words of the passage being written, the sample or the whole text (rounded down, at least 1), at most 1 per arc part, never in consecutive paragraphs. Spend a use only where it is the best choice for that passage.
 
-- **Correction:** denies a claim nobody made, then states the real one ("It's not X, it's Y"; "not only X but also Y"; "more than X, it's Y").
+- **Correction:** denies something, then states the real thing, whoever held the denied claim ("It's not X, it's Y"; "not only X but also Y"; "more than X, it's Y").
 - **Threes:** items grouped in threes for rhythm, not because there are three.
 - **Announcement:** says a point is coming instead of making it ("The truth is…").
 - **Stacked fragments:** fragments piled up for emphasis ("Fast. Cheap. Wrong.").
