@@ -1,17 +1,60 @@
 # Storymaker
 
-Skills for work that tells a story. Each skill plans the story with you before making the piece, and checks it with a reader who never saw the conversation.
+Skills for work that tells a story: decks and essays. Each one plans the story with you first, then checks it with a reader who never saw the conversation, before making the piece.
 
-The skills are written in English and talk to you in your own language.
+Most AI-made slides and texts start from a blank page and a vague prompt. Storymaker starts from the point: what the piece must say, to whom, and in what order. Only then does it design or write.
 
-## Skills
+## What you get
 
-- **deck** — plans a presentation that must get a message across, presented live or read alone: the central idea, the arguments, the arc and the text of every slide, settled with you and read by a reader who never saw the conversation before any visual work. Then it proposes visual concepts that give each kind of information a form (a flow, a side-by-side comparison, dots, a metaphor), plans how each slide is illustrated, shows a few slides drawn, and builds the deck with the tools your session has. Slides that only support a meeting, such as an agenda or a status update, are left out. It runs only when you call it: `/storymaker:deck` in Claude Code, or by asking Claude to use the deck skill in the Claude apps.
-- **essay** — plans a text in prose that takes its reader through an argument, such as an essay, an article, a column or a blog post: the central idea, the arguments, the arc and one line for every paragraph, read by a reader who never saw the conversation, then a sample passage in the voice you want (a register, your own texts, or an author it researches and takes traits from, never passages). Then it writes the whole text. Summaries and proofreading are left out. It runs only when you call it: `/storymaker:essay` in Claude Code, or by asking Claude to use the essay skill in the Claude apps.
+| Skill | You bring | You get |
+|---|---|---|
+| **deck** | A message to get across, plus any notes, data or a draft | The central idea, the arc, the text of every slide, visual concepts, then the built deck |
+| **essay** | An argument to make, plus loose ideas, sources or a draft | The central idea, the arc, one line per paragraph, a sample in your voice, then the full text |
 
-## Status
+**Use deck when** the presentation must change what an audience understands or does, live or read alone.
+**Use essay when** you want an essay, article, column or blog post that takes the reader through an argument.
+**Not for:** agendas, status updates, summaries, minutes or proofreading.
 
-Early and experimental (before 1.0). Skills are being rebuilt one at a time. See [CHANGELOG.md](CHANGELOG.md) for what has changed.
+## How it works
+
+1. **You call the skill** with whatever you have: a topic, notes, a draft.
+2. **It asks a few questions at a time** (up to five), each with a recommended answer, so you only confirm or correct. For example: "ok to all, except 3".
+3. **It plans the story in writing**, then has it read by a reader who never saw the conversation. If that reader gets lost, the plan is fixed before anything is made.
+4. **You approve the text.** Nothing moves on without a clear "OK".
+5. **It makes the piece**: the slides, or the full text.
+
+It never invents figures, facts or quotes. What only you know stays marked `[TO CONFIRM]` until you say it.
+
+## Try it
+
+**Claude Code**
+
+```
+/storymaker:deck I need to convince our leadership to move the support team to a 4-day week. I have survey results in survey.csv.
+```
+
+```
+/storymaker:essay An op-ed arguing that remote work killed the office but not the city. Here are my notes: ...
+```
+
+**Claude apps**
+
+> Use the deck skill. I need a 10-minute presentation for investors about our pilot results. Notes attached.
+
+A first round looks like this:
+
+```
+1. Who is in the room, and what do they believe today?
+   → I recommend: the leadership team, who see the 4-day week as a cost —
+     the deck has to turn it into a retention argument.
+
+2. What should they decide at the end?
+   → I recommend: approve a 3-month pilot — a smaller ask than a permanent change.
+```
+
+You answer "ok to all", or correct the ones you disagree with.
+
+You call the skills yourself; they never start on their own.
 
 ## Install
 
@@ -22,19 +65,37 @@ Early and experimental (before 1.0). Skills are being rebuilt one at a time. See
 /plugin install storymaker@storymaker
 ```
 
-Auto-update is off by default for marketplaces outside Anthropic's. To get new versions automatically, run `/plugin`, open the Marketplaces tab, select `storymaker` and choose Enable auto-update. To update by hand, choose Update marketplace there, or run `claude plugin update storymaker@storymaker` in your shell.
-
 ### Claude apps (claude.ai, desktop, mobile)
 
-Each skill can be installed on its own: download its zip (`deck.zip`, `essay.zip`) from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest) and upload it as a skill in your Claude settings.
+1. Download `deck.zip` or `essay.zip` from the [latest release](https://github.com/ramonk2o/storymaker/releases/latest).
+2. In Claude, open Settings and upload it as a skill.
+3. Start a chat and ask Claude to use the skill by name.
 
-## How it is built
+Each skill installs on its own.
 
-The principles every skill follows, and the questions used to judge a proposed change, are in [docs/principles.md](docs/principles.md).
+<details>
+<summary>Updating in Claude Code</summary>
+
+Auto-update is off by default for marketplaces outside Anthropic's. To turn it on, run `/plugin`, open the Marketplaces tab, select `storymaker` and choose Enable auto-update. To update by hand, run `claude plugin update storymaker@storymaker`.
+</details>
+
+## FAQ
+
+**Which language does it use?** The skills are written in English and talk to you in yours.
+
+**Can I bring a draft I already have?** Yes. Both skills work from loose ideas, notes, sources or a draft to rework.
+
+**Will it write in my voice?** The essay skill proposes a sample passage first, in a register you pick, in your own texts, or in traits it researches from an author. It never copies passages.
+
+**What tools does the deck skill build with?** Whatever your session has.
+
+## Status
+
+Early and experimental (before 1.0). See [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 
-Issues and pull requests are welcome. The most useful report is a real case: what you asked the skill, what it did and what it should have done.
+Issues and pull requests are welcome. The most useful report is a real case: what you asked the skill, what it did and what it should have done. The principles every skill follows are in [docs/principles.md](docs/principles.md).
 
 ## License
 

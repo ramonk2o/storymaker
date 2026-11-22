@@ -8,6 +8,10 @@ applied to how the skills behave.
 
 ## [Unreleased]
 
+### Changed
+
+- README: rewritten for new users, with what each skill gives you, how a session goes, usage examples, install steps and a short FAQ.
+
 ## [0.8.0] - 2026-11-20
 
 Makes the essay avoid prose patterns typical of AI writing.
